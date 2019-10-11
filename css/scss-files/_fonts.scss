@@ -1,0 +1,48 @@
+//link color
+/*
+a {
+	color: $primary;
+	text-decoration: none;
+	transition: 0.5s;
+	//font-weight: bold;
+	&:hover{
+	color: $primaryHover;
+	text-decoration: none;
+	}
+}
+*/
+//custom class for links. fontawesome icons are links so styling on the a tag affect them aswell
+.link{
+	color: $primary;
+	text-decoration: none;
+	transition: $transition;
+	font-weight: bold;
+	&:hover{
+	color: $primaryHover;
+	text-decoration: none;
+	}
+}
+
+//footer links
+footer > .col-12 > .col-xl-4 > p > a{
+	
+}
+
+#hero-title{
+	margin-top: 100px;
+}
+h1{
+	font-size: 60px;
+    font-weight: bold;
+}
+h2{
+	font-size: 40px;
+	font-weight: bold;
+}
+h3{
+	font-size: 20px;
+	font-weight: bold;
+}
+p{
+	font-size: 16px; //Also bootstrap default
+}

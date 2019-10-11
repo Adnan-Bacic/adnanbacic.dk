@@ -1,0 +1,13 @@
+body {
+  background-color: #121212; }
+
+h1, h2, h3, h4, h5, h6, p {
+  color: #fff; }
+
+.customFA, .customFAsmaller {
+  color: #e5e5e5;
+  -webkit-transition: 0.25s;
+  -o-transition: 0.25s;
+  transition: 0.25s; }
+  .customFA:hover, .customFAsmaller:hover {
+    color: #fff; }
