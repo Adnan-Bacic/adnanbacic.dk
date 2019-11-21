@@ -1,3 +1,4 @@
+<header>
 <nav class="navbar navbar-expand-lg navbar-dark bg-dark" id="navbar">
 	<div class="container-fluid">
 		<a class="navbar-brand" href="index.php" title="Frontpage">Adnan Bacic</a>
@@ -18,3 +19,4 @@
   </div>
 	</div>
 </nav>
+</header>

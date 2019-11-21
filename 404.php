@@ -1,3 +1,5 @@
+<?php include 'includes/config.php' ?>
+
 <!doctype html>
 <html lang="en">
 <head>
@@ -7,25 +9,27 @@
 <?php include 'includes/head.php'; ?>
 <style>
 	.container-fluid{
-		background: white;
-		margin-top: 200px;
+		margin-top: 100px;
 	}
 </style>
 </head>
 
 <body>
-	<div class="container-fluid">
+	<div class="container-fluid" data-aos="fade-up">
 		<div class="row">
-			<h2 class="mx-auto col-xl-6 text-center">
-				<div class="mt-5" id="msg"></div>
-			</h2>
-		</div>
-		
-		<div class="row">
-			<h1 class="mx-auto text-center">Page not found</h1>
+			<div class="col-12 text-center" title="404">
+				<i class="far fa-file-code customFA"></i>
+			</div>
 		</div>
 		<div class="row">
-			<button id="backbtn" class="btn btn-primary mx-auto">Go back to the last page</button>
+			<div class="col-12 mt-5 mb-5">
+				<h1 class="text-center">404 <br> Page not found</h1>
+			</div>
+		</div>
+		<div class="row">
+			<div class="col-12 text-center">
+				<button id="backbtn" class="btn btn-lg btn-primary mx-auto">Go back to the last page</button>
+			</div>
 		</div>
 	</div>
 	

@@ -4,11 +4,10 @@
 <html lang="en">
 <head>
 <?php include 'includes/head.php'; ?>
-	<?php include 'includes/theme.php'; //testing dark theme?>
 </head> 
 <body>
 	<?php include 'includes/navbar.php'; ?>
-	<div class="container-fluid">
+	<section class="container-fluid">
 		<div id="hero" class="row">
 			<div class="col-12">
 				<div class="col-8 mx-auto">
@@ -35,8 +34,9 @@
 				</div>
 			</div>
 		</div>
-	</div>
-		<div class="container">
+</section>
+		<section class="container">
+			<main role="main">
 		<div class="row">
 			<h1 class="text-center mx-auto mt-5 col-12 mb-3" data-aos="fade-up">Frontend developer from Denmark</h1>
 		</div>
@@ -45,27 +45,37 @@
 			<p class="col-lg-6 col-md-6" data-aos="fade-up">I am a frontend developer from Denmark. I have experience working with my own code, working with Wordpress and some Angular. I am always passionate about learning more and improving my skillset.</p>
 			<p class="col-lg-6 col-md-6" data-aos="fade-up">I can work independently as well as in teams. I always do my best to complete whichever task i am currently working with. Here you can see some of my work.</p>
 		</div>
+		</main>
 		
         <div class="row text-center pb-5">
                 <div class="col-lg-4 col-sm-12 mb-5" title="Coding" data-aos="fade-up">
                     <a href="coding.php">
                         <i class="fas fa-code customFA"></i>
-                    </a>
-                </div>
+					</a>
+					<a href="coding.php">
+						<button class="cta-button">See more</button>
+					</a>
+				</div>
  
                 <div class="col-lg-4 col-sm-12 mb-5" title="Wordpress" data-aos="fade-up">
                     <a href="wordpress.php">
                         <i class="fab fa-wordpress customFA"></i>
-                    </a>
+					</a>
+					<a href="wordpress.php">
+						<button class="cta-button">See more</button>
+					</a>
                 </div>
         
                 <div class="col-lg-4 col-sm-12" title="Angular" data-aos="fade-up">
                     <a href="angular.php">
                         <i class="fab fa-angular customFA"></i>
-                    </a>
+					</a>
+					<a href="angular.php">
+						<button class="cta-button">See more</button>
+					</a>
                 </div>
         </div>
-	</div>
+</section>
     
 	<?php include 'includes/footer.php'; ?>
 	

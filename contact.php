@@ -6,8 +6,8 @@
 <body>
 	<?php include 'includes/navbar.php'; ?>
 	
-	<div class="container">
-		
+	<section class="container">
+		<main role="main">
 		<div class="row">
 			<h1 class="col-12 text-center pt-5">How can i be contacted?</h1>
 		</div>
@@ -20,8 +20,9 @@
 				<p>You can also contact me directly from here:</p>
 			</div>
 		</div>
-		<?php include 'includes/contact-form.php'; ?>		
-	</div>
+		<?php include 'includes/contact-form.php'; ?>
+		</main>		
+</section>
 	
 	<?php include 'includes/footer.php'; ?>
 	<?php include 'includes/scripts.php'; ?>

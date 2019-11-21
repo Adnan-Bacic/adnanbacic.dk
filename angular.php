@@ -1,3 +1,5 @@
+<?php include 'includes/config.php' ?>
+
 <!doctype html>
 <html lang="en">
 <head>
@@ -7,7 +9,8 @@
 <body>
 	<?php include 'includes/navbar.php'; ?>
 
-	<div class="container">
+	<section class="container">
+	<main role="main">
 		<div class="col-xl-12 mx-auto">
 			<div class="row pt-5">
 				<div class="col-12">
@@ -27,6 +30,11 @@
 				<div class="media-body mr-3 m-0">
 					<h5 class="mt-0">Angular portfolio</h5>
 					<p>This was a simple Angular project to learn the basics. This website was made with Angular 6 and Bootstrap.</p>
+					<p>
+						<a class="link" href="https://adnanbacic.dk/folders/angular/angular-portfolio/#/home" target="_blank">Link</a>
+						<br>
+						<a class="link" href="https://github.com/Adnan-Bacic/angular-portfolio" target="_blank">Github link</a>
+					</p>
 				</div>
 				<a href="https://adnanbacic.dk/folders/angular/angular-portfolio/#/home" target="_blank">
 					<img src="images/angular-portfolio-thumbnail.png" width="300" height="200" class="align-self-start mr-3" alt="angular portfolio">
@@ -37,7 +45,8 @@
 				<img src="images/dividing-line.png" alt="black line" width="200" height="50">
 			</div>
 		</div>
-	</div>
+		<main role="main">
+	</section>
 
 	<?php include 'includes/footer.php'; ?>
 	<?php include 'includes/scripts.php'; ?>

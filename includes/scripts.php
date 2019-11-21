@@ -8,12 +8,8 @@
 	<!--jQuery-->
 	<script src="https://code.jquery.com/jquery-3.3.1.min.js" integrity="sha256-FgpCb/KJQlLNfOu91ta32o/NMZxltwRo8QtmkMRdAu8=" crossorigin="anonymous"></script>
 
-	<!--jQuery UI-->
-	<script src="https://code.jquery.com/ui/1.12.1/jquery-ui.min.js" integrity="sha256-VazP97ZCwtekAsvgPBSUwPFKdrwD3unUfSGVYrahUqU=" crossorigin="anonymous"></script>
-
 	<!--404 JS-->
 	<script src="javascript/history-back.js"></script>
-	<script src="javascript/404-bounce.js"></script>
 
 	<!--Scroll to top btn-->
 	<a id="button" title="Back to top"></a>
@@ -24,6 +20,3 @@
 	
 	<!--AOS init - must be last-->
     <script src="javascript/aos.js"></script>
-
-	<!--SCRIPTS END-->
-<script src="https://cdn.jsdelivr.net/npm/darkmode-js@1.5.0/lib/darkmode-js.min.js"></script>

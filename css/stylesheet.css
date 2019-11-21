@@ -66,62 +66,83 @@ ul {
 }
 
 #hero-btn-1 {
-  background-color: #2ac962;
   -webkit-transition: 0.25s;
   -o-transition: 0.25s;
   transition: 0.25s;
   color: white;
-  border-style: none;
-  border-radius: 25px;
-  padding: 15px 50px 15px 50px;
+  border-radius: 20px;
+  padding: 20px 70px 20px 70px;
   font-weight: bold;
+  font-size: 20px;
   border-style: solid;
   border-width: 2px;
-  border-color: #2ac962;
+  background-color: #2a8fc9;
+  border-color: #2a8fc9;
 }
 
 #hero-btn-1:hover {
   border-color: transparent;
-  background-color: #187539;
+  background-color: #185375;
 }
 
 #hero-btn-2 {
-  background-color: transparent;
   -webkit-transition: 0.25s;
   -o-transition: 0.25s;
   transition: 0.25s;
   color: white;
-  border-style: none;
-  border-radius: 25px;
-  padding: 15px 50px 15px 50px;
+  border-radius: 20px;
+  padding: 20px 70px 20px 70px;
   font-weight: bold;
+  font-size: 20px;
   border-style: solid;
   border-width: 2px;
-  border-color: #2ac962;
+  background-color: transparent;
+  border-color: #2a8fc9;
 }
 
 #hero-btn-2:hover {
   border-color: transparent;
-  background-color: #187539;
+  background-color: #185375;
+}
+
+.cta-button {
+  background-color: #2a8fc9;
+  color: white;
+  border-style: none;
+  border-radius: 5px;
+  padding: 20px 70px 20px 70px;
+  font-weight: bold;
+  display: block;
+  font-size: 20px;
+  margin: auto;
+  margin-top: 20px;
+  width: 100%;
+  -webkit-transition: 0.25s;
+  -o-transition: 0.25s;
+  transition: 0.25s;
+}
+
+.cta-button:hover {
+  background-color: #185375;
 }
 
 .btn, .btn-primary {
-  background-color: #2ac962;
-  border-color: #2ac962;
+  background-color: #2a8fc9;
+  border-color: #2a8fc9;
 }
 
 .btn:hover, .btn-primary:hover {
-  background-color: #187539;
-  border-color: #187539;
+  background-color: #185375;
+  border-color: #185375;
 }
 
 .btn:active, .btn-primary:active {
-  background-color: #187539 !important;
+  background-color: #185375 !important;
 }
 
 #button {
   display: inline-block;
-  background-color: #2ac962;
+  background-color: #2a8fc9;
   width: 50px;
   height: 50px;
   text-align: center;
@@ -139,7 +160,7 @@ ul {
 
 #button:hover {
   cursor: pointer;
-  background-color: #187539;
+  background-color: #185375;
 }
 
 #button::after {
@@ -170,7 +191,7 @@ a {
 }
 */
 .link {
-  color: #2ac962;
+  color: #2a8fc9;
   text-decoration: none;
   -webkit-transition: 0.25s;
   -o-transition: 0.25s;
@@ -179,7 +200,7 @@ a {
 }
 
 .link:hover {
-  color: #187539;
+  color: #185375;
   text-decoration: none;
 }
 

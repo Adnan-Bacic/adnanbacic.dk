@@ -18,8 +18,8 @@ $interval = $birthday->diff($currentDate);
 <body>
 	<?php include 'includes/navbar.php'; ?>
 	
-	<div class="container">
-		
+	<section class="container">
+		<main role="main">
 		<div class="row">
 			<h1 class="col-12 text-center pt-5">About me</h1>
 		</div>
@@ -34,7 +34,9 @@ $interval = $birthday->diff($currentDate);
 					<p>My skillset includes coding from scratch, working with Wordpress and a little bit Angular. Here you can read a more comprehensive explanation to the extent of my skillset.</p>
 				</div>
 			</div>
-
+		</main>
+		</section>
+		<section class="container">
 			<div class="row">
 				<div class="media mb-5 col-xl-12 col-sm-12 mx-auto" data-aos="fade-up">
 					<a href="coding.php"><i class="fas fa-code customFA align-self-start" title="Coding"></i></a>
@@ -113,6 +115,7 @@ $interval = $birthday->diff($currentDate);
 				</div>
 			</div>
 		</div>
+	</section>
 				
 	<?php include 'includes/footer.php'; ?>
 		
