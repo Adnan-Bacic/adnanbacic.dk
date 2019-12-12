@@ -105,7 +105,7 @@ ul {
   background-color: #185375;
 }
 
-.cta-button {
+.btn-main {
   background-color: #2a8fc9;
   color: white;
   border-style: none;
@@ -122,7 +122,7 @@ ul {
   transition: 0.25s;
 }
 
-.cta-button:hover {
+.btn-main:hover {
   background-color: #185375;
 }
 

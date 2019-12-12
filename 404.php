@@ -8,8 +8,17 @@
 
 <?php include 'includes/head.php'; ?>
 <style>
+	/*
+	Pushing content down only on 404 page
+	*/
 	.container-fluid{
 		margin-top: 100px;
+	}
+	/*
+	Removing full width on btn only on 404 page
+	*/
+	.btn-main{
+		width: auto;
 	}
 </style>
 </head>
@@ -28,7 +37,7 @@
 		</div>
 		<div class="row">
 			<div class="col-12 text-center">
-				<button id="backbtn" class="btn btn-lg btn-primary mx-auto">Go back to the last page</button>
+				<button id="backbtn" class="btn-main">Go back to the last page</button>
 			</div>
 		</div>
 	</div>

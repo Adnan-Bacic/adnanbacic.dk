@@ -65,7 +65,7 @@ $invalidFeedback = 'Please fill out this field';
 						</div>
 					</div>
 					-->
-					<button class="btn btn-primary btn-lg btn-block" type="submit" name="submit">Send</button>
+					<button class="btn-main" type="submit" name="submit">Send</button>
 				</div>
 				
 			</form>

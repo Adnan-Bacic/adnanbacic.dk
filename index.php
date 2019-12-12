@@ -22,7 +22,7 @@
 						</div>
 					</div>
 					<div class="row">
-						<div class="col text-center">
+						<div class="col text-center mb-5">
 							<a href="about.php">
 								<button id="hero-btn-1" class="text-center" data-aos="fade-right">About</button>
 							</a>
@@ -53,7 +53,7 @@
                         <i class="fas fa-code customFA"></i>
 					</a>
 					<a href="coding.php">
-						<button class="cta-button">See more</button>
+						<button class="btn-main">See more</button>
 					</a>
 				</div>
  
@@ -62,7 +62,7 @@
                         <i class="fab fa-wordpress customFA"></i>
 					</a>
 					<a href="wordpress.php">
-						<button class="cta-button">See more</button>
+						<button class="btn-main">See more</button>
 					</a>
                 </div>
         
@@ -71,7 +71,7 @@
                         <i class="fab fa-angular customFA"></i>
 					</a>
 					<a href="angular.php">
-						<button class="cta-button">See more</button>
+						<button class="btn-main">See more</button>
 					</a>
                 </div>
         </div>
