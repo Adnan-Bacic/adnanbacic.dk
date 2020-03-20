@@ -22,6 +22,9 @@
 				<h1 class="col-12 mt-3">Coding</h1>
 			</div>
 
+			<!--
+			OLDER, MORE SIMPLE PROJECTS. NO NEED TO SHOW THEM SINCE ITS JUST HTML AND CSS MOSTLY
+
 			<div class="text-center col-12">
 				<img src="images/dividing-line.png" alt="black line" width="200" height="50">
 			</div>
@@ -33,6 +36,12 @@
 						<p>
 							<a class="link" href="https://adnanbacic.dk/folders/coding/science-fiction/" target="_blank">Link</a>
 						</p>
+						<h6>Main technologies used:</h6>
+						<ul>
+							<li>HTML</li>
+							<li>CSS</li>
+						</ul>
+						  
 					</div>
 					<a href="https://adnanbacic.dk/folders/coding/science-fiction/" target="_blank">
 						<img src="images/science-fiction-thumbnail.png" width="300" height="200" class="align-self-start mr-3" alt="science fiction portfolio">
@@ -55,6 +64,11 @@
 						<br>
 						<a class="link" href="https://github.com/Adnan-Bacic/Portfolio" target="_blank">Github link</a>
 					</p>
+					<h6>Main technologies used:</h6>
+						<ul>
+							<li>HTML</li>
+							<li>CSS</li>
+						</ul>
 				</div>
 			</div>
 			
@@ -74,6 +88,11 @@
 					<br>
 					<a class="link" href="https://adnanbacic.dk/folders/coding/portfolio/v2.1/" target="_blank">V2.1</a>
 					</p>
+					<h6>Main technologies used:</h6>
+						<ul>
+							<li>HTML</li>
+							<li>CSS</li>
+						</ul>
 				</div>
 				<a href="#">
 					<img src="images/portfolio-remake-thumbnail.png" width="300" height="200" class="align-self-start mr-3" alt="new portfolio">
@@ -91,7 +110,12 @@
 				<div class="media-body mr-3 m-0">
 					<h5 class="mt-0">Sweetbot</h5>
 					<p>This was a group project in which we were given theoretical company to make a website for. We were given a styleguide and had to follow it to follow the companies brand.</p>
-					<a class="link" href="https://adnanbacic.dk/folders/coding/sweetbot/sweetbotdk.html" target="_blank">Link</a>
+					<p><a class="link" href="https://adnanbacic.dk/folders/coding/sweetbot/sweetbotdk.html" target="_blank">Link</a></p>
+					<h6>Main technologies used:</h6>
+						<ul>
+							<li>HTML</li>
+							<li>CSS</li>
+						</ul>
 				</div>
 			</div>
 			
@@ -106,6 +130,12 @@
 					<p>
 					<a class="link" href="https://adnanbacic.dk/folders/coding/sweetbot-remake/Sweetbot.html" target="_blank">Link</a>
 					</p>
+					<h6>Main technologies used:</h6>
+						<ul>
+							<li>HTML</li>
+							<li>CSS</li>
+							<li>jQuery</li>
+						</ul>
 				</div>
 				<a href="https://adnanbacic.dk/folders/coding/sweetbot-remake/Sweetbot.html" target="_blank">
 					<img src="images/sweetbot-remake-thumbnail.png" width="300" height="200" class="align-self-start mr-3" alt="sweetbot">
@@ -128,6 +158,12 @@
 						<br>
 						<a class="link" href="https://github.com/Adnan-Bacic/data-opgave" target="_blank">Github link</a>
 					</p>
+					<h6>Main technologies used:</h6>
+						<ul>
+							<li>HTML</li>
+							<li>CSS</li>
+							<li>jQuery</li>
+						</ul>
 				</div>
 			</div>
 			
@@ -144,6 +180,12 @@
 						<br>
 						<a class="link" href="https://github.com/Adnan-Bacic/3sem-calculator" target="_blank">Github link</a>
 					</p>
+					<h6>Main technologies used:</h6>
+						<ul>
+							<li>HTML</li>
+							<li>Bootstrap</li>
+							<li>Javascript</li>
+						</ul>
 				</div>
 				<a href="https://adnanbacic.dk/folders/coding/bmi-calculator/" target="_blank">
 					<img src="images/bmi-thumbnail.png" width="300" height="200" class="align-self-start mr-3" alt="bmi calculator">
@@ -171,6 +213,11 @@
 					<br>
 					<a class="link" href="images/nordlid-mobil.jpg" target="_blank">Mobile image</a>
 					</p>
+					<h6>Main technologies used:</h6>
+						<ul>
+							<li>HTML</li>
+							<li>CSS</li>
+						</ul>
 				</div>
 			</div>
 			
@@ -187,6 +234,12 @@
 						<br>
 						<a class="link" href="https://github.com/Adnan-Bacic/spil-casino" target="_blank">Github link</a>
 					</p>
+					<h6>Main technologies used:</h6>
+						<ul>
+							<li>HTML</li>
+							<li>CSS</li>
+							<li>jQuery mobile</li>
+						</ul>
 				</div>
 				<a href="https://adnanbacic.dk/folders/coding/spil-casino/" target="_blank">
 					<img src="images/casino-thumbnail.png" width="300" height="200" class="align-self-start mr-3" alt="jquery mobile">
@@ -209,6 +262,13 @@
 						<br>
 						<a class="link" href="https://github.com/Adnan-Bacic/nosql-database-assignment" target="_blank">Github link</a>
 					</p>
+					<h6>Main technologies used:</h6>
+						<ul>
+							<li>HTML</li>
+							<li>Boostrap</li>
+							<li>Firebase</li>
+							<li>Javascript</li>
+						</ul>
 				</div>
 			</div>
 			
@@ -225,15 +285,20 @@
 						<br>
 						<a class="link" href="https://github.com/Adnan-Bacic/3sem-calculator" target="_blank">Github link</a>
 					</p>
+					<h6>Main technologies used:</h6>
+						<ul>
+							<li>HTML</li>
+							<li>CSS</li>
+							<li>PHP</li>
+						</ul>
 				</div>
 				<a href="https://adnanbacic.dk/folders/coding/calculator/" target="_blank">
 					<img src="images/calculator-thumbnail.png" width="300" height="200" class="align-self-start mr-3" alt="PHP calculator">
 				</a>
 			</div>
-			
-			<div class="text-center col-12">
-				<img src="images/dividing-line.png" alt="black line" width="200" height="50">
-			</div>
+			-->
+
+			<hr class="mb-5 mt-3">
 			
 			<div class="media">
 				<a href="https://adnanbacic.dk/folders/coding/postit/postitboard.php" target="_blank">
@@ -245,12 +310,17 @@
 					<p>
 						<a class="link" href="https://adnanbacic.dk/folders/coding/postit/postitboard.php" target="_blank">Link</a>
 					</p>
+					<h6>Main technologies used:</h6>
+						<ul>
+							<li>HTML</li>
+							<li>CSS</li>
+							<li>PHP</li>
+							<li>SQL</li>
+						</ul>
 				</div>
 			</div>
-			
-			<div class="text-center col-12">
-				<img src="images/dividing-line.png" alt="black line" width="200" height="50">
-			</div>
+
+			<hr class="mb-5 mt-5">
 			
 			<div class="media">
 				<div class="media-body mr-3 m-0">
@@ -261,15 +331,19 @@
 						<br>
 						<a class="link" href="https://github.com/Adnan-Bacic/twitter-api" target="_blank">Github link</a>
 					</p>
+					<h6>Main technologies used:</h6>
+						<ul>
+							<li>HTML</li>
+							<li>Bootstrap</li>
+							<p>PHP</p>
+						</ul>
 				</div>
 				<a href="https://adnanbacic.dk/folders/coding/politiker-tweet/" target="_blank">
 					<img src="images/politiker-tweet-thumbnail.png" width="300" height="200" class="align-self-start mr-3" alt="PHP politician twitter">
 				</a>
 			</div>
-			
-			<div class="text-center col-12">
-				<img src="images/dividing-line.png" alt="black line" width="200" height="50">
-			</div>
+
+			<hr class="mb-5 mt-5">
 			
 			<div class="media">
 				<a href="https://adnanbacic.dk/folders/coding/sunset/" target="_blank">
@@ -291,12 +365,17 @@
 						<br>
 						<a class="link" href="https://github.com/Adnan-Bacic/3sem-eksamen" target="_blank">Github link</a>
 					</p>
+					<h6>Main technologies used:</h6>
+						<ul>
+							<li>HTML</li>
+							<li>Bootstrap</li>
+							<li>PHP</li>
+							<li>SQL</li>
+						</ul>
 				</div>
 			</div>
-			
-			<div class="text-center col-12">
-				<img src="images/dividing-line.png" alt="black line" width="200" height="50">
-			</div>
+
+			<hr class="mb-5 mt-5">
 
 			<div class="media">
 				<div class="media-body mr-3 m-0">
@@ -306,15 +385,19 @@
 					<p>
 						<a class="link" href="https://adnanbacic.dk/folders/coding/es6-crypto-api/" target="_blank">Link</a>
 					</p>
+					<h6>Main technologies used:</h6>
+						<ul>
+							<li>HTML</li>
+							<li>CSS</li>
+							<li>Javascript ES6</li>
+						</ul>
 				</div>
 				<a href="https://adnanbacic.dk/folders/coding/es6-crypto-api/" target="_blank">
 					<img src="images/crypto-api-thumbnail.png" width="300" height="200" class="align-self-start mr-3" alt="JS Crypto API">
 				</a>
 			</div>
 
-			<div class="text-center col-12">
-				<img src="images/dividing-line.png" alt="black line" width="200" height="50">
-			</div>
+			<hr class="mb-5 mt-5">
 
 		</div>
 		<main>

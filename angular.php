@@ -22,9 +22,7 @@
 				<h1 class="col-12 mt-3">Angular</h1>
 			</div>
 
-			<div class="text-center col-12">
-				<img src="images/dividing-line.png" alt="black line" width="200" height="50">
-			</div>
+			<hr class="mb-5 mt-5">
 
 			<div class="media">
 				<div class="media-body mr-3 m-0">
@@ -35,15 +33,19 @@
 						<br>
 						<a class="link" href="https://github.com/Adnan-Bacic/angular-portfolio" target="_blank">Github link</a>
 					</p>
+					<h6>Main technologies used:</h6>
+						<ul>
+							<li>HTML</li>
+							<li>Bootstrap</li>
+							<li>Angular</li>
+						</ul>
 				</div>
 				<a href="https://adnanbacic.dk/folders/angular/angular-portfolio/#/home" target="_blank">
 					<img src="images/angular-portfolio-thumbnail.png" width="300" height="200" class="align-self-start mr-3" alt="angular portfolio">
 				</a>
 			</div>
 
-			<div class="text-center col-12">
-				<img src="images/dividing-line.png" alt="black line" width="200" height="50">
-			</div>
+			<hr class="mb-5 mt-5">
 		</div>
 		<main role="main">
 	</section>

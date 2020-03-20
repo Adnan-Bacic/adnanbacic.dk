@@ -206,6 +206,11 @@ a {
 
 #hero-title {
   margin-top: 100px;
+  font-size: 80px;
+}
+
+#hero-subtitle {
+  font-size: 20px;
 }
 
 h1 {
@@ -223,8 +228,17 @@ h3 {
   font-weight: bold;
 }
 
+h6 {
+  font-weight: bold;
+}
+
 p {
   font-size: 16px;
+}
+
+.hero-focus {
+  color: #2a8fc9;
+  font-weight: bold;
 }
 
 /*Responsive for mobile begin*/
@@ -255,6 +269,10 @@ p {
   }
   #hero-title {
     margin-top: 25px;
+    font-size: 30px;
+  }
+  #hero-subtitle {
+    font-size: 15px;
   }
   .customFA {
     text-align: center;

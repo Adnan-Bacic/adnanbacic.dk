@@ -5,24 +5,24 @@ $mailFrom=$_POST['mail'];
 $mailFrom = filter_var($mailFrom, FILTER_SANITIZE_EMAIL);
 	
 if (filter_var($mailFrom, FILTER_VALIDATE_EMAIL)){
-$name = $_POST['name'];
+$mailName = $_POST['name'];
 $mailFrom = $_POST['mail'];
-$subject = $_POST['subject'];
-$message = $_POST['message'];
+$mailSubject = $_POST['subject'];
+$mailMessage = $_POST['message'];
 	
 $mailTo = 'ab-one@adnanbacic.dk';
-$headers = 'Mail fra: '.$mailFrom;
-$inboxText = 'Mail fra: '.$name.
-".\n\n".'E-mail: '.$mailFrom. 
-".\n\n".'Emne: '.$subject. //Dobbeltquote is important, or else it doesnt go to next line.
-".\n\n".'Besked: '.$message;
+$headerText = 'Mail fra: '.$mailFrom;
+$inboxText = 'Name: '.$mailName.
+".\n\n".'E-mail: '.$mailFrom.
+".\n\n".'Subject: '.$mailSubject. //Dobbeltquote is important, or else it doesnt go to next line.
+".\n\n".'Message: '.$mailMessage;
 	
-$message = wordwrap($message, 70);
-mail($mailTo, $subject, $inboxText, $headers);
+$mailMessage = wordwrap($mailMessage, 70);
+mail($mailTo, $mailSubject, $inboxText, $headerText);
 
-$svar = '<h2 class="col-12 text-center mb-5">Thank you! Your mail has been sent.</h2>';
+$answer = '<h2 class="col-12 text-center mb-5">Thank you! Your mail has been sent.</h2>';
 
-echo $svar;
+echo $answer;
 } else {
 	echo $mailFrom . ' is not a valid e-mail adress.';
 } 

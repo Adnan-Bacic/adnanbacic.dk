@@ -2,7 +2,7 @@
 	//Declaring variables for meta tags
 	$title = 'Adnan Bacic - Frontend developer';
 	$description = 'Adnan Bacic - Frontend developer from Denmark.';
-	$image = 'https://adnanbacic.dk/' . 'images/social-media-img.jpg';
+	$image = 'https://adnanbacic.dk/' . 'images/social-media-thumbnail-1200x630.png';
 	$name = 'Adnan Bacic';
 	$url = 'https://adnanbacic.dk/';
 
@@ -42,13 +42,6 @@
 
 	<!--Google-->
 	<meta name="google-site-verification" content="QzDAIEUJvbxNGip5ZxurWJWxic5gtQekOuYOa9mTvbY" />
-
-	<?php
-	//PHP errors
-	ini_set('display_errors', 1);
-	ini_set('display_startup_errors', 1);
-	error_reporting(E_ALL);
-	?>
 	
 	<!--EXTERNAL LINKS-->
 
@@ -56,7 +49,7 @@
 	<link href="https://fonts.googleapis.com/css?family=Roboto" rel="stylesheet">
 
 	<!--Bootstrap-->
-	<link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
+	<link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap.min.css" integrity="sha384-Vkoo8x4CGsO3+Hhxv8T/Q5PaXtkKtu6ug5TOeNV6gBiFeWPGFN9MuhOf23Q9Ifjh" crossorigin="anonymous">
 
 	<!--Font Awesome-->
 	<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.8.2/css/all.css">

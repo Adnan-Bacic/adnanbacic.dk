@@ -20,6 +20,14 @@
 	.btn-main{
 		width: auto;
 	}
+
+	/*mobile padding on btn*/
+	@media screen and (max-width: 480px) {
+		.container-fluid{
+			margin-bottom: 50px;
+		}
+	}
+	}
 </style>
 </head>
 

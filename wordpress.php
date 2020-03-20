@@ -22,9 +22,7 @@
 				<h1 class="col-12 mt-3">Wordpress</h1>
 			</div>
 
-			<div class="text-center col-12">
-				<img src="images/dividing-line.png" alt="black line" width="200" height="50">
-			</div>
+			<hr class="mb-5 mt-3">
 
 			<div class="media">
 				<div class="media-body mr-3 m-0">
@@ -34,15 +32,19 @@
 					<p>
 						<a class="link" href="http://tobiasjackson.dk/lol/" target="_blank">Link</a>
 					</p>
+					<h6>Main technologies used:</h6>
+						<ul>
+							<li>HTML</li>
+							<li>CSS</li>
+							<li>Wordpress</li>
+						</ul>
 				</div>
 				<a href="http://tobiasjackson.dk/lol/" target="_blank">
 					<img src="images/lolguide-thumbnail.png" width="300" height="200" class="align-self-start mr-3" alt="league of legends guide">
 				</a>
 			</div>
 
-			<div class="text-center col-12">
-				<img src="images/dividing-line.png" alt="black line" width="200" height="50">
-			</div>
+			<hr class="mb-5 mt-5">
 
 			<div class="media">
 				<a href="http://adnanbacic.dk/folders/wordpress/webshop/" target="_blank">
@@ -55,12 +57,17 @@
 					<p>
 						<a class="link" href="http://adnanbacic.dk/folders/wordpress/webshop/" target="_blank">Link</a>
 					</p>
+					<h6>Main technologies used:</h6>
+						<ul>
+							<li>HTML</li>
+							<li>CSS</li>
+							<li>Wordpress</li>
+							<li>Woocommerce plugin</li>
+						</ul>
 				</div>
 			</div>
 
-			<div class="text-center col-12">
-				<img src="images/dividing-line.png" alt="black line" width="200" height="50">
-			</div>
+			<hr class="mb-5 mt-5">
 		</div>
 		<main role="main">
 	</section>

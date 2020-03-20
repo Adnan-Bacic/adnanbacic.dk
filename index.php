@@ -13,21 +13,21 @@
 				<div class="col-8 mx-auto">
 					<div class="row">
 						<div class="col-12" data-aos="fade-right">
-							<p id="hero-title" class="h1 text-white text-center">Frontend developer</p>
+							<p id="hero-title" class="h1 text-white text-center font-weight-bold">I <span class="hero-focus">design</span> and <span class="hero-focus">build</span><br> solid websites</p>
 						</div>
 					</div>
 					<div class="row">
 						<div class="col-12 mb-5" data-aos="fade-right">
-							<p class="text-white text-center">Adnan Bacic</p>
+							<p id="hero-subtitle" class="text-white text-center">Frontend web developer</p>
 						</div>
 					</div>
 					<div class="row">
 						<div class="col text-center mb-5">
-							<a href="about.php">
-								<button id="hero-btn-1" class="text-center" data-aos="fade-right">About</button>
-							</a>
 							<a href="contact.php">
-								<button id="hero-btn-2" class="text-center" data-aos="fade-right">Contact</button>
+								<button id="hero-btn-1" class="text-center" data-aos="fade-right">Contact</button>
+							</a>
+							<a href="about.php">
+								<button id="hero-btn-2" class="text-center mr-3" data-aos="fade-right">About</button>
 							</a>
 						</div>
 					</div>
@@ -38,7 +38,7 @@
 		<section class="container">
 			<main role="main">
 		<div class="row">
-			<h1 class="text-center mx-auto mt-5 col-12 mb-3" data-aos="fade-up">Frontend developer from Denmark</h1>
+			<h1 class="text-center mx-auto mt-5 col-12 mb-5" data-aos="fade-up">Frontend developer from Denmark</h1>
 		</div>
 
 		<div class="row mb-5">

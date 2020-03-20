@@ -1,4 +1,6 @@
-﻿<?php
+﻿<?php include 'includes/config.php' ?>
+
+<?php
 /*
 //https://www.yesdevnull.net/2014/02/a-simple-way-to-display-your-age-in-php/
 $birthday = new DateTime('1998-03-25'); // Enter your birthday in YYYY-MM-DD format

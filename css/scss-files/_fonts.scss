@@ -30,6 +30,10 @@ footer > .col-12 > .col-xl-4 > p > a{
 
 #hero-title{
 	margin-top: 100px;
+	font-size: 80px;
+}
+#hero-subtitle{
+	font-size: 20px;
 }
 h1{
 	font-size: 60px;
@@ -43,6 +47,14 @@ h3{
 	font-size: 20px;
 	font-weight: bold;
 }
+h6{
+	font-weight: bold;;
+}
 p{
 	font-size: 16px; //Also bootstrap default
+}
+
+.hero-focus{
+	color: $primary;
+	font-weight: bold;
 }
