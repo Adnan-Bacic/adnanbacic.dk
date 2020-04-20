@@ -302,7 +302,7 @@
 			
 			<div class="media">
 				<a href="https://adnanbacic.dk/folders/coding/postit/postitboard.php" target="_blank">
-					<img src="images/postit-board-thumbnail.png" width="300" height="200" class="align-self-start mr-3" alt="PHP postitboard">
+					<img src="images/postit-board-thumbnail.png" width="300" height="200" class="align-self-start mr-3 border" alt="PHP postitboard">
 				</a>
 				<div class="media-body mr-3 m-0">
 					<h5 class="mt-0">Postit Board</h5>
@@ -339,7 +339,7 @@
 						</ul>
 				</div>
 				<a href="https://adnanbacic.dk/folders/coding/politiker-tweet/" target="_blank">
-					<img src="images/politiker-tweet-thumbnail.png" width="300" height="200" class="align-self-start mr-3" alt="PHP politician twitter">
+					<img src="images/politiker-tweet-thumbnail.png" width="300" height="200" class="align-self-start mr-3 border" alt="PHP politician twitter">
 				</a>
 			</div>
 
@@ -347,9 +347,9 @@
 			
 			<div class="media">
 				<a href="https://adnanbacic.dk/folders/coding/sunset/" target="_blank">
-					<img src="images/sunset-thumbnail.png" width="300" height="200" class="align-self-start mr-3" alt="Learning platform">
+					<img src="images/sunset-thumbnail.png" width="300" height="200" class="align-self-start mr-3 border" alt="Learning platform">
 					<!--d-block to not be next to other image-->
-					<img class="d-block mt-3 mb-3" src="images/sunset-thumbnail2.png" width="300" height="200" class="align-self-start mr-3" alt="Learning platform">
+					<img src="images/sunset-thumbnail2.png" width="300" height="200" class="align-self-start d-block mt-3 mb-3 mr-3 border" alt="Learning platform">
 				</a>
 				<div class="media-body mr-3 m-0">
 					<h5 class="mt-0">Learning platform</h5>
@@ -393,7 +393,7 @@
 						</ul>
 				</div>
 				<a href="https://adnanbacic.dk/folders/coding/es6-crypto-api/" target="_blank">
-					<img src="images/crypto-api-thumbnail.png" width="300" height="200" class="align-self-start mr-3" alt="JS Crypto API">
+					<img src="images/crypto-api-thumbnail.png" width="300" height="200" class="align-self-start mr-3 border" alt="JS Crypto API">
 				</a>
 			</div>
 

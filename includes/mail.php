@@ -1,7 +1,7 @@
 <?php
 if(isset($_POST['submit'])){
 if(isset($_POST['submit'], $_POST['mail'], $_POST['subject'], $_POST['message'])){
-$mailFrom=$_POST['mail'];
+$mailFrom = $_POST['mail'];
 $mailFrom = filter_var($mailFrom, FILTER_SANITIZE_EMAIL);
 	
 if (filter_var($mailFrom, FILTER_VALIDATE_EMAIL)){

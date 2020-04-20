@@ -51,9 +51,18 @@ $interval = $birthday->diff($currentDate);
 							<i class="fab fa-php mr-3 customFAsmaller" title="PHP"></i>
 								<div class="media-body">
 									<h3 class="mt-0">PHP</h3>
-									<p>PHP is a server-side programming language. It is widely used and for good reason.
+									<p>PHP is a server-side programming language. It can be used to create interactive and dynamic websites.
 									<br>
-									In PHP i mainly have experience with login systems with the help of SQL.</p>
+									In PHP i mainly have experience with login systems and CRUD with the help of SQL.</p>
+								</div>
+						</div>
+						<div class="media mt-3" data-aos="fade-up">
+						<i class="fas fa-database mr-5 customFAsmaller" title="SQL"></i>
+								<div class="media-body">
+									<h3 class="mt-0">SQL</h3>
+									<p>SQL is a very popular database system.
+									<br>
+									I have experience combining PHP with SQL to create interactive sites.</p>
 								</div>
 						</div>
 						<div class="media mt-3" data-aos="fade-up">
@@ -92,27 +101,49 @@ $interval = $birthday->diff($currentDate);
 									I have some experience working with Elementor.</p>
 								</div>
 						</div>
-						<!-- No woocommerce fontawesome icon
+						
 						<div class="media mt-3" data-aos="fade-up">
-							<img src="images/woo-logo.png" width="90" class="mr-5">
+							<i class="fas fa-shopping-cart mr-4 customFAsmaller" title="WooCommerce"></i>
 								<div class="media-body">
-									<h3 class="mt-0">Woocommerce</h3>
-									<p>Elementor is the largest page builder in Wordpress. With Elementor its easy to quickly create a website just with a drag-n-drop page builder.<br>
-									I have some experience working with Elementor.</p>
+									<h3 class="mt-0">WooCommerce</h3>
+									<p>WooCommerce is one of the largest plugins for creating webshops within Wordpress.
+									<br>
+									I have experience working with WooCommerce to manage a webshop.</p>
 								</div>
-						</div> -->
+						</div>
+					</div>
+				</div>
+			</div>
+			
+			
+			<div class="row">
+				<div class="media mb-5 col-xl-12 col-sm-12 mx-auto" data-aos="fade-up">
+					<a href="angular.php"><i class="fab fa-angular customFA align-self-start" title="Angular"></i></a>
+					<div class="media-body ml-3">
+						<h2 class="mt-0">Angular</h2>
+						<p>Angular is a framework for creating fast single-page websites.</p>
+						<p class="mb-0">In Angular i have experience creating simple websites.</p>
 					</div>
 				</div>
 			</div>
 			
 			<!--Padding-bottom on last element-->
 			<div class="row">
-				<div class="media pb-5 col-xl-12 col-sm-12 mx-auto" data-aos="fade-up">
-					<a href="angular.php"><i class="fab fa-angular customFA align-self-start" title="Angular"></i></a>
+				<div class="media mb-5 col-xl-12 col-sm-12 mx-auto" data-aos="fade-up">
+					<a href="vue.php"><i class="fab fa-vuejs customFA align-self-start" title="Vue"></i></a>
 					<div class="media-body ml-3">
-						<h2 class="mt-0">Angular</h2>
-						<p>Angular is a framework for creating fast single-page websites.</p>
-						<p class="mb-0">In Angular i have experience creating simple websites.</p>
+						<h2 class="mt-0">Vue</h2>
+						<p>Vue is a framework for creating fast single-page-applications.</p>
+						<p class="mb-0">In Vue i have experience creating interactive websites.</p>
+						<div class="media mt-3" data-aos="fade-up">
+						<i class="fas fa-database mr-5 customFAsmaller" title="Firebase"></i>
+								<div class="media-body">
+									<h3 class="mt-0">Firebase</h3>
+									<p>Firebase is a database system developed by Google.
+									<br>
+									I have experience combining Vue with Firebase to create interactive applications.</p>
+								</div>
+						</div>
 					</div>
 				</div>
 			</div>

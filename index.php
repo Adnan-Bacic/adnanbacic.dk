@@ -48,32 +48,41 @@
 		</main>
 		
         <div class="row text-center pb-5">
-                <div class="col-lg-4 col-sm-12 mb-5" title="Coding" data-aos="fade-up">
+                <div class="col-lg-3 col-sm-12 mb-5" title="Coding" data-aos="fade-up">
                     <a href="coding.php">
                         <i class="fas fa-code customFA"></i>
 					</a>
 					<a href="coding.php">
-						<button class="btn-main">See more</button>
+						<button class="btn-main">Coding</button>
 					</a>
 				</div>
+
+				<div class="col-lg-3 col-sm-12" title="Vue" data-aos="fade-up">
+                    <a href="vue.php">
+                        <i class="fab fa-vuejs customFA"></i>
+					</a>
+					<a href="vue.php">
+						<button class="btn-main">Vue</button>
+					</a>
+                </div>
  
-                <div class="col-lg-4 col-sm-12 mb-5" title="Wordpress" data-aos="fade-up">
+                <div class="col-lg-3 col-sm-12 mb-5" title="Wordpress" data-aos="fade-up">
                     <a href="wordpress.php">
                         <i class="fab fa-wordpress customFA"></i>
 					</a>
 					<a href="wordpress.php">
-						<button class="btn-main">See more</button>
+						<button class="btn-main">Wordpress</button>
 					</a>
                 </div>
         
-                <div class="col-lg-4 col-sm-12" title="Angular" data-aos="fade-up">
+                <div class="col-lg-3 col-sm-12" title="Angular" data-aos="fade-up">
                     <a href="angular.php">
                         <i class="fab fa-angular customFA"></i>
 					</a>
 					<a href="angular.php">
-						<button class="btn-main">See more</button>
+						<button class="btn-main">Angular</button>
 					</a>
-                </div>
+				</div>
         </div>
 </section>
     
