@@ -86,6 +86,26 @@ $interval = $birthday->diff($currentDate);
 				</div>
 			</div>
 			
+			<div class="row">
+				<div class="media mb-5 col-xl-12 col-sm-12 mx-auto" data-aos="fade-up">
+					<a href="vue.php"><i class="fab fa-vuejs customFA align-self-start" title="Vue"></i></a>
+					<div class="media-body ml-3">
+						<h2 class="mt-0">Vue</h2>
+						<p>Vue is a framework for creating fast single-page-applications.</p>
+						<p class="mb-0">In Vue i have experience creating interactive websites.</p>
+						<div class="media mt-3" data-aos="fade-up">
+						<i class="fas fa-database mr-5 customFAsmaller" title="Firebase"></i>
+								<div class="media-body">
+									<h3 class="mt-0">Firebase</h3>
+									<p>Firebase is a database system developed by Google.
+									<br>
+									I have experience combining Vue with Firebase to create interactive applications.</p>
+								</div>
+						</div>
+					</div>
+				</div>
+			</div>
+			
 		<div class="row">
 			<div class="media mb-5 col-xl-12 col-sm-12 mx-auto" data-aos="fade-up">
 				<a href="wordpress.php"><i class="fab fa-wordpress customFA align-self-start" title="Wordpress"></i></a>
@@ -126,27 +146,7 @@ $interval = $birthday->diff($currentDate);
 					</div>
 				</div>
 			</div>
-			
-			<!--Padding-bottom on last element-->
-			<div class="row">
-				<div class="media mb-5 col-xl-12 col-sm-12 mx-auto" data-aos="fade-up">
-					<a href="vue.php"><i class="fab fa-vuejs customFA align-self-start" title="Vue"></i></a>
-					<div class="media-body ml-3">
-						<h2 class="mt-0">Vue</h2>
-						<p>Vue is a framework for creating fast single-page-applications.</p>
-						<p class="mb-0">In Vue i have experience creating interactive websites.</p>
-						<div class="media mt-3" data-aos="fade-up">
-						<i class="fas fa-database mr-5 customFAsmaller" title="Firebase"></i>
-								<div class="media-body">
-									<h3 class="mt-0">Firebase</h3>
-									<p>Firebase is a database system developed by Google.
-									<br>
-									I have experience combining Vue with Firebase to create interactive applications.</p>
-								</div>
-						</div>
-					</div>
-				</div>
-			</div>
+						
 		</div>
 	</section>
 				
