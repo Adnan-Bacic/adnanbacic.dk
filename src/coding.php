@@ -301,10 +301,7 @@
 			<hr class="mb-5 mt-3">
 			
 			<div class="media">
-				<a href="https://adnanbacic.dk/folders/coding/postit/postitboard.php" target="_blank">
-					<img src="images/postit-board-thumbnail.png" width="300" height="200" class="align-self-start mr-3 border" alt="PHP postitboard">
-				</a>
-				<div class="media-body mr-3 m-0">
+			<div class="media-body mr-3 m-0">
 					<h5 class="mt-0">Postit Board</h5>
 					<p>This was our first advanced PHP assignment. Here we implemented a login system with SQL. Users then have the option to create postits which will be shown on a wall and they may delete their own postits.</p>
 					<p>
@@ -318,11 +315,17 @@
 							<li>SQL</li>
 						</ul>
 				</div>
+				<a href="https://adnanbacic.dk/folders/coding/postit/postitboard.php" target="_blank">
+					<img src="images/postit-board-thumbnail.png" width="300" height="200" class="align-self-start mr-3 border" alt="PHP postitboard">
+				</a>
 			</div>
 
 			<hr class="mb-5 mt-5">
 			
 			<div class="media">
+			<a href="https://adnanbacic.dk/folders/coding/politiker-tweet/" target="_blank">
+					<img src="images/politiker-tweet-thumbnail.png" width="300" height="200" class="align-self-start mr-3 border" alt="PHP politician twitter">
+				</a>
 				<div class="media-body mr-3 m-0">
 					<h5 class="mt-0">Twitter API</h5>
 					<p>In this assignment we had to work with an API. My group worked with the Twitter API. We made a websites centered around follow danish politics on Twitter. Here you can filter for specific party members and see the popular #dkpol hashtag on the page.</p>
@@ -338,19 +341,12 @@
 							<p>PHP</p>
 						</ul>
 				</div>
-				<a href="https://adnanbacic.dk/folders/coding/politiker-tweet/" target="_blank">
-					<img src="images/politiker-tweet-thumbnail.png" width="300" height="200" class="align-self-start mr-3 border" alt="PHP politician twitter">
-				</a>
+
 			</div>
 
 			<hr class="mb-5 mt-5">
 			
 			<div class="media">
-				<a href="https://adnanbacic.dk/folders/coding/sunset/" target="_blank">
-					<img src="images/sunset-thumbnail.png" width="300" height="200" class="align-self-start mr-3 border" alt="Learning platform">
-					<!--d-block to not be next to other image-->
-					<img src="images/sunset-thumbnail2.png" width="300" height="200" class="align-self-start d-block mt-3 mb-3 mr-3 border" alt="Learning platform">
-				</a>
 				<div class="media-body mr-3 m-0">
 					<h5 class="mt-0">Learning platform</h5>
 					<p>This was a exam project in which we had to make a website for a company. My group chose to make a website for Sunset.<br>
@@ -373,11 +369,19 @@
 							<li>SQL</li>
 						</ul>
 				</div>
+				<a href="https://adnanbacic.dk/folders/coding/sunset/" target="_blank">
+					<img src="images/sunset-thumbnail.png" width="300" height="200" class="align-self-start mr-3 border" alt="Learning platform">
+					<!--d-block to not be next to other image-->
+					<img src="images/sunset-thumbnail2.png" width="300" height="200" class="align-self-start d-block mt-3 mb-3 mr-3 border" alt="Learning platform">
+				</a>
 			</div>
 
 			<hr class="mb-5 mt-5">
 
 			<div class="media">
+				<a href="https://adnanbacic.dk/folders/coding/es6-crypto-api/" target="_blank">
+					<img src="images/crypto-api-thumbnail.png" width="300" height="200" class="align-self-start mr-3 border" alt="JS Crypto API">
+				</a>
 				<div class="media-body mr-3 m-0">
 					<h5 class="mt-0">Crypto API</h5>
 					<p>This was a project for fetching data from an API with javascript.</p>
@@ -392,8 +396,29 @@
 							<li>Javascript ES6</li>
 						</ul>
 				</div>
-				<a href="https://adnanbacic.dk/folders/coding/es6-crypto-api/" target="_blank">
-					<img src="images/crypto-api-thumbnail.png" width="300" height="200" class="align-self-start mr-3 border" alt="JS Crypto API">
+			</div>
+
+			<hr class="mb-5 mt-5">
+
+			<div class="media">
+				<div class="media-body mr-3 m-0">
+					<h5 class="mt-0">PHP webshop - <span class="text-primary">CURRENTLY IN DEVELOPMENT</span></h5>
+					<p>This is a demo of a PHP webshop. Users can add items to their wishlist and admins can create, edit and delete items.</p>
+					<p>There is no opition to buy, hence why it is a demo. You can still see it here:</p>
+					<p>
+						<a class="link" href="https://adnanbacic.dk/folders/coding/oopphp_webshop/index.php" target="_blank">Link</a>
+					</p>
+					<h6>Main technologies used:</h6>
+						<ul>
+							<li>HTML</li>
+							<li>Bootstrap</li>
+							<li>Object oriented Javascript</li>
+							<li>Object oriented PHP</li>
+							<li>SQL</li>
+						</ul>
+				</div>
+				<a href="https://adnanbacic.dk/folders/coding/oopphp_webshop/index.php" target="_blank">
+					<img src="https://via.placeholder.com/300x200?text=No+image+yet" width="300" height="200" class="align-self-start mr-3 border" alt="PHP webshop">
 				</a>
 			</div>
 

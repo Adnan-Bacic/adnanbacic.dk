@@ -48,6 +48,15 @@ $interval = $birthday->diff($currentDate);
 						<br>
 						Some of my skills include:</p>
 						<div class="media mt-3" data-aos="fade-up">
+							<i class="fab fa-js mr-5 customFAsmaller" title="Javascript"></i>
+								<div class="media-body">
+									<h3 class="mt-0">Javascript</h3>
+									<p>Javascript is a client-side programming language. It can be used to create interactive websites. Javascript goes togehter with HTML and CSS to define the basis of web technologies.
+									<br>
+									In Javascript i have experience manipulating the behavior of sites.</p>
+								</div>
+						</div>
+						<div class="media mt-3" data-aos="fade-up">
 							<i class="fab fa-php mr-3 customFAsmaller" title="PHP"></i>
 								<div class="media-body">
 									<h3 class="mt-0">PHP</h3>

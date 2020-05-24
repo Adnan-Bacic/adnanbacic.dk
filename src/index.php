@@ -57,7 +57,7 @@
 					</a>
 				</div>
 
-				<div class="col-lg-3 col-sm-12" title="Vue" data-aos="fade-up">
+				<div class="col-lg-3 col-sm-12 mb-5" title="Vue" data-aos="fade-up">
                     <a href="vue.php">
                         <i class="fab fa-vuejs customFA"></i>
 					</a>

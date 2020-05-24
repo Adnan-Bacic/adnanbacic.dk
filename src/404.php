@@ -12,7 +12,7 @@
 	Pushing content down only on 404 page
 	*/
 	.container-fluid{
-		margin-top: 100px;
+		margin-top: 50px;
 	}
 	/*
 	Removing full width on btn only on 404 page
@@ -45,7 +45,10 @@
 		</div>
 		<div class="row">
 			<div class="col-12 text-center">
-				<button id="backbtn" class="btn-main">Go back to the last page</button>
+				<button id="backbtn" class="btn-main">Go to last page</button>
+			</div>
+			<div class="col-12 text-center">
+				<a href="index.php"><button class="btn-main">Go to frontpage</button></a>
 			</div>
 		</div>
 	</div>
