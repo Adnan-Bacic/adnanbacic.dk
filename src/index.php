@@ -38,12 +38,18 @@
 		<section class="container">
 			<main role="main">
 		<div class="row">
-			<h1 class="text-center mx-auto mt-5 col-12 mb-5" data-aos="fade-up">Frontend developer from Denmark</h1>
+			<div class="text-center mx-auto mt-5 col-12 mb-5">
+				<h1>Frontend developer from Denmark</h1>
+			</div>
 		</div>
 
 		<div class="row mb-5">
-			<p class="col-lg-6 col-md-6" data-aos="fade-up">I am a frontend developer from Denmark. I have experience working with my own code, working with Wordpress and some Angular. I am always passionate about learning more and improving my skillset.</p>
-			<p class="col-lg-6 col-md-6" data-aos="fade-up">I can work independently as well as in teams. I always do my best to complete whichever task i am currently working with. Here you can see some of my work.</p>
+			<div class="col-lg-6 col-md-6" data-aos="fade-up">
+				<p>I am a frontend developer from Denmark. I have experience working with my own code, working with Wordpress and some Angular. I am always passionate about learning more and improving my skillset.</p>
+			</div>
+			<div class="col-lg-6 col-md-6" data-aos="fade-up">
+				<p>I can work independently as well as in teams. I always do my best to complete whichever task i am currently working with. Here you can see some of my work.</p>
+			</div>
 		</div>
 		</main>
 		

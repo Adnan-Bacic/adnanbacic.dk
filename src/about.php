@@ -23,7 +23,9 @@ $interval = $birthday->diff($currentDate);
 	<section class="container">
 		<main role="main">
 		<div class="row">
-			<h1 class="col-12 text-center pt-5">About me</h1>
+			<div class="col-12 text-center pt-5">
+				<h1>About me</h1>
+			</div>
 		</div>
 			<div class="row pt-5 mb-5">
 				<div class="col-lg-6 text-center mb-3">
@@ -48,12 +50,30 @@ $interval = $birthday->diff($currentDate);
 						<br>
 						Some of my skills include:</p>
 						<div class="media mt-3" data-aos="fade-up">
+							<i class="fab fa-html5 mr-5 customFAsmaller" title="HTML5"></i>
+								<div class="media-body">
+									<h3 class="mt-0">HTML5</h3>
+									<p>HTML is the markup language of the web, with the current version being HTML5.
+									<br>
+									I have experience working with HTML5 and the tools it contains.</p>
+								</div>
+						</div>
+						<div class="media mt-3" data-aos="fade-up">
+							<i class="fab fa-css3-alt mr-5 customFAsmaller" title="CSS3"></i>
+								<div class="media-body">
+									<h3 class="mt-0">CSS3</h3>
+									<p>CSS is the style language of the web, with the current version being CSS3.
+									<br>
+									In CSS3 i have experience with styling websites and layout.</p>
+								</div>
+						</div>
+						<div class="media mt-3" data-aos="fade-up">
 							<i class="fab fa-js mr-5 customFAsmaller" title="Javascript"></i>
 								<div class="media-body">
 									<h3 class="mt-0">Javascript</h3>
 									<p>Javascript is a client-side programming language. It can be used to create interactive websites. Javascript goes togehter with HTML and CSS to define the basis of web technologies.
 									<br>
-									In Javascript i have experience manipulating the behavior of sites.</p>
+									In Javascript i have experience manipulating the behavior of sites. I have experience working with the newest versions of Javascript, also called ES6.</p>
 								</div>
 						</div>
 						<div class="media mt-3" data-aos="fade-up">

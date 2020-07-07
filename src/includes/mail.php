@@ -20,9 +20,11 @@ $inboxText = 'Name: '.$mailName.
 $mailMessage = wordwrap($mailMessage, 70);
 mail($mailTo, $mailSubject, $inboxText, $headerText);
 
-$answer = '<h2 class="col-12 text-center mb-5">Thank you! Your mail has been sent.</h2>';
 
-echo $answer;
+$_SESSION['mail-feedback'] = '<h2 class="col-12 text-center mb-5">Thank you! Your mail has been sent.</h2>';
+header('location: contact.php');
+exit();
+
 } else {
 	echo $mailFrom . ' is not a valid e-mail adress.';
 } 

@@ -5,7 +5,7 @@
 				<ul>
 					<li>Adnan Bacic</li>
 					<li>ab-one@adnanbacic.dk</li>
-					<li><a class="link" href="https://github.com/Adnan-Bacic" target="_blank">Github</a></li>
+					<li><a class="link" href="https://github.com/Adnan-Bacic" target="_blank" rel="noopener noreferrer">Github</a></li>
 				</ul>  
 			</div>
 		<div class="col-xl-4 col-md-4 col-sm-12">	

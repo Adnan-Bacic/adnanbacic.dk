@@ -41,6 +41,10 @@ ul {
   outline: white;
 }
 
+.badge-primary {
+  background-color: #2a8fc9;
+}
+
 .customFA {
   font-size: 200px;
   color: #212529;
@@ -196,7 +200,6 @@ a {
   -webkit-transition: 0.25s;
   -o-transition: 0.25s;
   transition: 0.25s;
-  font-weight: bold;
 }
 
 .link:hover {

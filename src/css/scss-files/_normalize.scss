@@ -23,7 +23,7 @@ ul {
 	background-position: center;
 }
 
-//Bootstrap
+//Bootstrap overrides
 .navbar-dark, .navbar-toggler{
 	transition: $transition;
 	&:hover{
@@ -35,6 +35,9 @@ ul {
 	&:focus{
 		outline: white;
 	}
+}
+.badge-primary{
+	background-color: $primary;
 }
 
 //Font awesome

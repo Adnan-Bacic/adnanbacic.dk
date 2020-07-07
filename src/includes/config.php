@@ -4,6 +4,9 @@
 	$environment = 'development';
 	switch($environment){
 		case 'development':
+			session_start();
+			print_r($_SESSION);
+			echo '<br>';
 			// prints e.g. 'Current PHP version: 4.1.1'
 			echo 'Current PHP version: ' . phpversion();
 
@@ -21,10 +24,11 @@
 			break;
 		
 		case 'production':
+			session_start();
 			break;
 			
 		default:
-			echo 'No environment set';
+			die('<h1>No environment set</h1>');
 			break;
 			
 	}

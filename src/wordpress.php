@@ -19,7 +19,11 @@
 			</div>
 
 			<div class="row">
-				<h1 class="col-12 mt-3">Wordpress</h1>
+				<div class="col-12 mt-3">
+					<h1>Wordpress</h1>
+					<p>Projects made with Wordpress</p>
+					<a href="https://github.com/Adnan-Bacic/wordpress" target="_blank" rel="noopener noreferrer" class="link"><i class="fab fa-github mr-1"></i>See this folder on Github</a>
+				</div>
 			</div>
 
 			<hr class="mb-5 mt-3">
@@ -34,9 +38,15 @@
 					</p>
 					<h6>Main technologies used:</h6>
 						<ul>
-							<li>HTML</li>
-							<li>CSS</li>
-							<li>Wordpress</li>
+							<li>
+								<span class="badge badge-primary">HTML</span>
+							</li>
+							<li>
+								<span class="badge badge-primary">CSS</span>
+							</li>
+							<li>
+								<span class="badge badge-primary">Wordpress</span>
+							</li>
 						</ul>
 				</div>
 				<a href="http://tobiasjackson.dk/lol/" target="_blank">
@@ -59,10 +69,18 @@
 					</p>
 					<h6>Main technologies used:</h6>
 						<ul>
-							<li>HTML</li>
-							<li>CSS</li>
-							<li>Wordpress</li>
-							<li>Woocommerce plugin</li>
+							<li>
+								<span class="badge badge-primary">HTML</span>
+							</li>
+							<li>
+								<span class="badge badge-primary">CSS</span>
+							</li>
+							<li>
+								<span class="badge badge-primary">Wordpress</span>
+							</li>
+							<li>
+								<span class="badge badge-primary">Woocommerce plugin</span>
+							</li>
 						</ul>
 				</div>
 			</div>

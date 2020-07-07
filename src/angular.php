@@ -19,7 +19,11 @@
 			</div>
 
 			<div class="row">
-				<h1 class="col-12 mt-3">Angular</h1>
+				<div class="col-12 mt-3">
+					<h1>Angular</h1>
+					<p>Projects made with Angular</p>
+					<a href="https://github.com/Adnan-Bacic/Angular" target="_blank" rel="noopener noreferrer" class="link"><i class="fab fa-github mr-1"></i>See this folder on Github</a>
+				</div>
 			</div>
 
 			<hr class="mb-5 mt-5">
@@ -29,18 +33,24 @@
 					<h5 class="mt-0">Angular portfolio</h5>
 					<p>This was a simple Angular project to learn the basics. This website was made with Angular 6 and Bootstrap.</p>
 					<p>
-						<a class="link" href="https://adnanbacic.dk/folders/angular/angular-portfolio/#/home" target="_blank">Link</a>
+						<a class="link" href="https://adnanbacic.dk/folders/angular/angular-portfolio/#/home" target="_blank" rel="noopener noreferrer">Link</a>
 						<br>
-						<a class="link" href="https://github.com/Adnan-Bacic/angular-portfolio" target="_blank">Github link</a>
+						<a class="link" href="https://github.com/Adnan-Bacic/Angular/tree/master/angular-portfolio" target="_blank" rel="noopener noreferrer">Github link</a>
 					</p>
 					<h6>Main technologies used:</h6>
 						<ul>
-							<li>HTML</li>
-							<li>Bootstrap</li>
-							<li>Angular</li>
+							<li>
+								<span class="badge badge-primary">HTML</span>
+							</li>
+							<li>
+								<span class="badge badge-primary">Bootstrap</span>
+							</li>
+							<li>
+								<span class="badge badge-primary">Angular</span>
+							</li>
 						</ul>
 				</div>
-				<a href="https://adnanbacic.dk/folders/angular/angular-portfolio/#/home" target="_blank">
+				<a href="https://adnanbacic.dk/folders/angular/angular-portfolio/#/home" target="_blank" rel="noopener noreferrer">
 					<img src="images/angular-portfolio-thumbnail.png" width="300" height="200" class="align-self-start mr-3 border" alt="angular portfolio">
 				</a>
 			</div>

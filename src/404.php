@@ -27,7 +27,6 @@
 			margin-bottom: 50px;
 		}
 	}
-	}
 </style>
 </head>
 

@@ -19,7 +19,11 @@
 			</div>
 
 			<div class="row">
-				<h1 class="col-12 mt-3">Coding</h1>
+				<div class="col-12 mt-3">
+					<h1>Coding</h1>
+					<p>Projects made without any frameworks, cms, etc. Just vanilla Javascript and PHP.</p>
+					<a href="#" target="_blank" rel="noopener noreferrer" class="link"><i class="fab fa-github mr-1"></i>See this folder on Github</a>
+				</div>
 			</div>
 
 			<!--
@@ -305,17 +309,28 @@
 					<h5 class="mt-0">Postit Board</h5>
 					<p>This was our first advanced PHP assignment. Here we implemented a login system with SQL. Users then have the option to create postits which will be shown on a wall and they may delete their own postits.</p>
 					<p>
-						<a class="link" href="https://adnanbacic.dk/folders/coding/postit/postitboard.php" target="_blank">Link</a>
+						<a class="link" href="https://adnanbacic.dk/folders/coding/postit/postitboard.php" target="_blank" rel="noopener noreferrer"><i class="fas fa-desktop mr-1"></i>See project</a>
+					</p>
+					<p>
+						<a class="link" href="https://github.com/Adnan-Bacic/twitter-api" target="_blank" rel="noopener noreferrer"><i class="fab fa-github mr-1"></i>Github link</a>
 					</p>
 					<h6>Main technologies used:</h6>
 						<ul>
-							<li>HTML</li>
-							<li>CSS</li>
-							<li>PHP</li>
-							<li>SQL</li>
+							<li>
+								<span class="badge badge-primary">HTML</span>
+							</li>
+							<li>
+								<span class="badge badge-primary">CSS</span>
+							</li>
+							<li>
+								<span class="badge badge-primary">PHP</span>
+							</li>
+							<li>
+								<span class="badge badge-primary">SQL</span>
+							</li>
 						</ul>
 				</div>
-				<a href="https://adnanbacic.dk/folders/coding/postit/postitboard.php" target="_blank">
+				<a href="https://adnanbacic.dk/folders/coding/postit/postitboard.php" target="_blank" rel="noopener noreferrer">
 					<img src="images/postit-board-thumbnail.png" width="300" height="200" class="align-self-start mr-3 border" alt="PHP postitboard">
 				</a>
 			</div>
@@ -323,22 +338,28 @@
 			<hr class="mb-5 mt-5">
 			
 			<div class="media">
-			<a href="https://adnanbacic.dk/folders/coding/politiker-tweet/" target="_blank">
+			<a href="https://adnanbacic.dk/folders/coding/politiker-tweet/" target="_blank" rel="noopener noreferrer">
 					<img src="images/politiker-tweet-thumbnail.png" width="300" height="200" class="align-self-start mr-3 border" alt="PHP politician twitter">
 				</a>
 				<div class="media-body mr-3 m-0">
 					<h5 class="mt-0">Twitter API</h5>
 					<p>In this assignment we had to work with an API. My group worked with the Twitter API. We made a websites centered around follow danish politics on Twitter. Here you can filter for specific party members and see the popular #dkpol hashtag on the page.</p>
 					<p>
-						<a class="link" href="https://adnanbacic.dk/folders/coding/politiker-tweet/" target="_blank">Link</a>
+						<a class="link" href="https://adnanbacic.dk/folders/coding/politiker-tweet/" target="_blank" rel="noopener noreferrer">Link</a>
 						<br>
-						<a class="link" href="https://github.com/Adnan-Bacic/twitter-api" target="_blank">Github link</a>
+						<a class="link" href="https://github.com/Adnan-Bacic/twitter-api" target="_blank" rel="noopener noreferrer">Github link</a>
 					</p>
 					<h6>Main technologies used:</h6>
 						<ul>
-							<li>HTML</li>
-							<li>Bootstrap</li>
-							<p>PHP</p>
+							<li>
+								<span class="badge badge-primary">HTML</span>
+							</li>
+							<li>
+								<span class="badge badge-primary">Bootstrap</span>
+							</li>
+							<li>
+								<span class="badge badge-primary">PHP</span>
+							</li>
 						</ul>
 				</div>
 
@@ -357,19 +378,27 @@
 					Passowrd: user</p>
 					<p>There arent any categories, but as mentioned, users who are administrators can add them.</p>
 					<p>
-						<a class="link" href="https://adnanbacic.dk/folders/coding/sunset/" target="_blank">Link</a>
+						<a class="link" href="https://adnanbacic.dk/folders/coding/sunset/" target="_blank" rel="noopener noreferrer">Link</a>
 						<br>
-						<a class="link" href="https://github.com/Adnan-Bacic/3sem-eksamen" target="_blank">Github link</a>
+						<a class="link" href="https://github.com/Adnan-Bacic/3sem-eksamen" target="_blank" rel="noopener noreferrer">Github link</a>
 					</p>
 					<h6>Main technologies used:</h6>
 						<ul>
-							<li>HTML</li>
-							<li>Bootstrap</li>
-							<li>PHP</li>
-							<li>SQL</li>
+							<li>
+								<span class="badge badge-primary">HTML</span>
+							</li>
+							<li>
+								<span class="badge badge-primary">Bootsteap</span>
+							</li>
+							<li>
+								<span class="badge badge-primary">PHP</span>
+							</li>
+							<li>
+								<span class="badge badge-primary">SQL</span>
+							</li>
 						</ul>
 				</div>
-				<a href="https://adnanbacic.dk/folders/coding/sunset/" target="_blank">
+				<a href="https://adnanbacic.dk/folders/coding/sunset/" target="_blank" rel="noopener noreferrer">
 					<img src="images/sunset-thumbnail.png" width="300" height="200" class="align-self-start mr-3 border" alt="Learning platform">
 					<!--d-block to not be next to other image-->
 					<img src="images/sunset-thumbnail2.png" width="300" height="200" class="align-self-start d-block mt-3 mb-3 mr-3 border" alt="Learning platform">
@@ -379,7 +408,7 @@
 			<hr class="mb-5 mt-5">
 
 			<div class="media">
-				<a href="https://adnanbacic.dk/folders/coding/es6-crypto-api/" target="_blank">
+				<a href="https://adnanbacic.dk/folders/coding/es6-crypto-api/" target="_blank" rel="noopener noreferrer">
 					<img src="images/crypto-api-thumbnail.png" width="300" height="200" class="align-self-start mr-3 border" alt="JS Crypto API">
 				</a>
 				<div class="media-body mr-3 m-0">
@@ -387,13 +416,19 @@
 					<p>This was a project for fetching data from an API with javascript.</p>
 					<p>It can show the value of Bitcoin, danish krone, all currencies or search for a specific currency.</p>
 					<p>
-						<a class="link" href="https://adnanbacic.dk/folders/coding/es6-crypto-api/" target="_blank">Link</a>
+						<a class="link" href="https://adnanbacic.dk/folders/coding/es6-crypto-api/" target="_blank" rel="noopener noreferrer">Link</a>
 					</p>
 					<h6>Main technologies used:</h6>
 						<ul>
-							<li>HTML</li>
-							<li>CSS</li>
-							<li>Javascript ES6</li>
+							<li>
+								<span class="badge badge-primary">HTML</span>
+							</li>
+							<li>
+								<span class="badge badge-primary">CSS</span>
+							</li>
+							<li>
+								<span class="badge badge-primary">Javascript ES6</span>
+							</li>
 						</ul>
 				</div>
 			</div>
@@ -406,18 +441,25 @@
 					<p>This is a demo of a PHP webshop. Users can add items to their wishlist and admins can create, edit and delete items.</p>
 					<p>There is no opition to buy, hence why it is a demo. You can still see it here:</p>
 					<p>
-						<a class="link" href="https://adnanbacic.dk/folders/coding/oopphp_webshop/index.php" target="_blank">Link</a>
+						<a class="link" href="https://adnanbacic.dk/folders/coding/oopphp_webshop/index.php" target="_blank" rel="noopener noreferrer">Link</a>
 					</p>
 					<h6>Main technologies used:</h6>
 						<ul>
-							<li>HTML</li>
-							<li>Bootstrap</li>
-							<li>Object oriented Javascript</li>
-							<li>Object oriented PHP</li>
-							<li>SQL</li>
+							<li>
+								<span class="badge badge-primary">HTML</span>
+							</li>
+							<li>
+								<span class="badge badge-primary">Bootstrap</span>
+							</li>
+							<li>
+								<span class="badge badge-primary">Object oriented PHP</span>
+							</li>
+							<li>
+								<span class="badge badge-primary">SQL</span>
+							</li>
 						</ul>
 				</div>
-				<a href="https://adnanbacic.dk/folders/coding/oopphp_webshop/index.php" target="_blank">
+				<a href="https://adnanbacic.dk/folders/coding/oopphp_webshop/index.php" target="_blank" rel="noopener noreferrer">
 					<img src="https://via.placeholder.com/300x200?text=No+image+yet" width="300" height="200" class="align-self-start mr-3 border" alt="PHP webshop">
 				</a>
 			</div>

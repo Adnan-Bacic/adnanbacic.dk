@@ -5,8 +5,6 @@
 	$image = 'https://adnanbacic.dk/' . 'images/social-media-thumbnail-1200x630.png';
 	$name = 'Adnan Bacic';
 	$url = 'https://adnanbacic.dk/';
-
-	$keywords = 'frontend developer, frontend, multimediedesign, multimediedesigner, multimediedesignstuderende, portfolio';
 	?>
 	<!--Meta general-->
 	<title><?php echo $title; ?></title>
@@ -18,8 +16,6 @@
 	<meta name="description" content="<?php echo $description; ?>">
 	<meta name="author" content="<?php echo $name; ?>">
 	<meta name="robots" content="index, follow">
-
-	<meta name="keywords" content="<?php echo $keywords; ?>"> <!--does not do anything-->
 
 	<!--Opengraph Facebook meta-->
 	<meta property="og:title" content="<?php echo $title; ?>">
@@ -49,7 +45,7 @@
 	<link href="https://fonts.googleapis.com/css?family=Roboto" rel="stylesheet">
 
 	<!--Bootstrap-->
-	<link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap.min.css" integrity="sha384-Vkoo8x4CGsO3+Hhxv8T/Q5PaXtkKtu6ug5TOeNV6gBiFeWPGFN9MuhOf23Q9Ifjh" crossorigin="anonymous">
+	<link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.0/css/bootstrap.min.css" integrity="sha384-9aIt2nRpC12Uk9gS9baDl411NQApFmC26EwAOH8WgZl5MYYxFfc+NcPb1dKGj7Sk" crossorigin="anonymous">
 
 	<!--Font Awesome-->
 	<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.8.2/css/all.css">
@@ -63,9 +59,6 @@
 	https://github.com/michalsnik/aos
 	-->
 	<link href="https://unpkg.com/aos@2.3.1/dist/aos.css" rel="stylesheet">
-
-	<!--jQueryUI-->
-	<link rel="stylesheet" href="https://code.jquery.com/ui/1.12.1/themes/base/jquery-ui.css">
 
 	<!--CSS after external css-->
 	<link rel="stylesheet" href="css/stylesheet.css">

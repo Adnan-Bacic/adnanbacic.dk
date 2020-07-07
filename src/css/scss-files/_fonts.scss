@@ -16,10 +16,9 @@ a {
 	color: $primary;
 	text-decoration: none;
 	transition: $transition;
-	font-weight: bold;
 	&:hover{
-	color: $primaryHover;
-	text-decoration: none;
+		color: $primaryHover;
+		text-decoration: none;
 	}
 }
 

@@ -67,12 +67,14 @@ $invalidFeedback = 'Please fill out this field';
 					-->
 					<button class="btn-main" type="submit" name="submit">Send</button>
 				</div>
-				
+				<?php
+					if(isset($_SESSION['mail-feedback'])){
+						echo $_SESSION['mail-feedback'];
+						unset($_SESSION['mail-feedback']);
+					}
+				?>
 			</form>
-			<?php include 'includes/mail.php' ?>	
+			<?php include 'includes/mail.php' ?>
 		</div>
 	</div>
-		
-	<script src="javascript/bootstrap-form-validator.js"></script>
-	<script src="javascript/reset-form.js"></script>
 <!--End mail from web-->

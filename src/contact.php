@@ -11,7 +11,9 @@
 	<section class="container">
 		<main role="main">
 		<div class="row">
-			<h1 class="col-12 text-center pt-5">How can i be contacted?</h1>
+			<div class="col-12 text-center pt-5">
+				<h1>How can i be contacted?</h1>
+			</div>
 		</div>
 
 		<div class="row">
