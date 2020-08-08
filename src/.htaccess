@@ -1,0 +1,16 @@
+#Rewrite everything to https
+RewriteEngine On
+RewriteCond %{HTTPS} !=on
+RewriteRule ^(.*)$ https://%{HTTP_HOST}%{REQUEST_URI} [L,R=301]
+
+#404 redirect
+ErrorDocument 404 https://adnanbacic.dk/404.php
+
+#Hides .php file extension in url --- https://stackoverflow.com/questions/4026021/remove-php-extension-with-htaccess --Disabled due to not working with contact form
+#RewriteEngine On
+#RewriteBase /
+#RewriteCond %{THE_REQUEST} ^[A-Z]{3,}\s([^.]+)\.php [NC]
+#RewriteRule ^ %1 [R=301,L]
+#RewriteCond %{REQUEST_FILENAME} !-d
+#RewriteCond %{REQUEST_FILENAME}.php -f
+#RewriteRule ^(.*?)/?$ $1.php [NC,L]
