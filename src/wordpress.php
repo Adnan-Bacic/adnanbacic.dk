@@ -34,7 +34,10 @@
 					<p>This was a simple project in which we made a League of Legends guide for beginners.<br>
 					This project was made with the popular Wordpress page builder - Elementor.</p>
 					<p>
-						<a class="link" href="http://tobiasjackson.dk/lol/" target="_blank">Link</a>
+						<a class="link" href="http://tobiasjackson.dk/lol/" target="_blank" rel="noopener noreferrer"><i class="fas fa-desktop mr-1"></i>See project</a>
+					</p>
+					<p>
+						<a class="link" href="#" target="_blank" rel="noopener noreferrer"><i class="fab fa-github mr-1"></i>Github link</a>
 					</p>
 					<h6>Main technologies used:</h6>
 						<ul>
@@ -65,7 +68,10 @@
 					<p>This was a project where we had to learn how to make a webshop in Wordpress. I added some items which have categories, different sizes and prices.
 					<br>Made with the Woocommerce plugin.</p>
 					<p>
-						<a class="link" href="http://adnanbacic.dk/folders/wordpress/webshop/" target="_blank">Link</a>
+						<a class="link" href="http://adnanbacic.dk/folders/wordpress/webshop/" target="_blank" rel="noopener noreferrer"><i class="fas fa-desktop mr-1"></i>See project</a>
+					</p>
+					<p>
+						<a class="link" href="https://github.com/Adnan-Bacic/wordpress/tree/master/webshop" target="_blank" rel="noopener noreferrer"><i class="fab fa-github mr-1"></i>Github link</a>
 					</p>
 					<h6>Main technologies used:</h6>
 						<ul>

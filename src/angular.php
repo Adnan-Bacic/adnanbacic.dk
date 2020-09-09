@@ -33,9 +33,10 @@
 					<h5 class="mt-0">Angular portfolio</h5>
 					<p>This was a simple Angular project to learn the basics. This website was made with Angular 6 and Bootstrap.</p>
 					<p>
-						<a class="link" href="https://adnanbacic.dk/folders/angular/angular-portfolio/#/home" target="_blank" rel="noopener noreferrer">Link</a>
-						<br>
-						<a class="link" href="https://github.com/Adnan-Bacic/Angular/tree/master/angular-portfolio" target="_blank" rel="noopener noreferrer">Github link</a>
+						<a class="link" href="https://adnanbacic.dk/folders/angular/angular-portfolio/#/home" target="_blank" rel="noopener noreferrer"><i class="fas fa-desktop mr-1"></i>See project</a>
+					</p>
+					<p>
+						<a class="link" href="https://github.com/Adnan-Bacic/Angular/tree/master/angular-portfolio" target="_blank" rel="noopener noreferrer"><i class="fab fa-github mr-1"></i>Github link</a>
 					</p>
 					<h6>Main technologies used:</h6>
 						<ul>

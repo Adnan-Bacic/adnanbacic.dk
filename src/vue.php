@@ -34,7 +34,10 @@
 					<p>This is a Vue and Firebase CRUD project. It is possible to Create, Read, Update and Delete smoothies.
                         <br>All the data of the smoothies is stored in firebase and displayed with Vue</p>
 					<p>
-						<a class="link" href="https://adnanbacic.dk/folders/vue/vue_ninja_smoothies/#/" target="_blank" rel="noopener noreferrer">Link</a>
+						<a class="link" href="https://adnanbacic.dk/folders/vue/vue_ninja_smoothies/#/" target="_blank" rel="noopener noreferrer"><i class="fas fa-desktop mr-1"></i>See project</a>
+					</p>
+					<p>
+						<a class="link" href="https://github.com/Adnan-Bacic/VueJS_Firebase/tree/master/ninja-smoothies" target="_blank" rel="noopener noreferrer"><i class="fab fa-github mr-1"></i>Github link</a>
 					</p>
 					<h6>Main technologies used:</h6>
 						<ul>
@@ -60,16 +63,19 @@
             <hr class="mb-5 mt-5">
             
             <div class="media">
-            <a href="https://adnanbacic.dk/folders/vue/vue_products_chat/#/" target="_blank" rel="noopener noreferrer">
+            <a href="https://adnanbacic.dk/folders/vue/vue_product_chat_login/#/" target="_blank" rel="noopener noreferrer">
 					<img src="images/products-chat-thumbnail1.png" width="300" height="200" class="align-self-start mr-3 border" alt="Learning platform">
 					<!--d-block to not be next to other image-->
 					<img src="images/products-chat-thumbnail2.png" width="300" height="200" class="align-self-start d-block mt-3 mb-3 mr-3 border" alt="Learning platform">
 				</a>
 				<div class="media-body mr-3 m-0">
-					<h5 class="mt-0">Products CRUD and live chat</h5>
-					<p>In this project it is possible to CRUD aswell as having a live chat, which can only be entered if you first enter a name from the products page.
+					<h5 class="mt-0">Products CRUD, login and live chat</h5>
+					<p>In this project it is possible to CRUD aswell as having a live chat, which can only be entered if you first enter a name from the products page. You can also create and account and see other users.
 					<p>
-						<a class="link" href="https://adnanbacic.dk/folders/vue/vue_products_chat/#/" target="_blank" rel="noopener noreferrer">Link</a>
+						<a class="link" href="https://adnanbacic.dk/folders/vue/vue_product_chat_login/#/" target="_blank" rel="noopener noreferrer"><i class="fas fa-desktop mr-1"></i>See project</a>
+					</p>
+					<p>
+						<a class="link" href="https://github.com/Adnan-Bacic/VueJS_Firebase/tree/master/products-firebaseV1.3" target="_blank" rel="noopener noreferrer"><i class="fab fa-github mr-1"></i>Github link</a>
 					</p>
 					<h6>Main technologies used:</h6>
 						<ul>
@@ -89,7 +95,40 @@
 				</div>
             </div>
 
-            <hr class="mb-5 mt-5">
+			<hr class="mb-5 mt-5">
+			
+			<div class="media">
+				<div class="media-body mr-3 m-0">
+					<h5 class="mt-0">Google maps API</h5>
+					<p>Using Google Maps api togehter with firebase authentication, users who sign in will have their location saved and shown on the map.</p>
+					<p>
+						<a class="link" href="https://adnanbacic.dk/folders/vue/vue_geo_ninjas/#/" target="_blank" rel="noopener noreferrer"><i class="fas fa-desktop mr-1"></i>See project</a>
+					</p>
+					<p>
+						<a class="link" href="https://github.com/Adnan-Bacic/VueJS_Firebase/tree/master/geo-ninjas" target="_blank" rel="noopener noreferrer"><i class="fab fa-github mr-1"></i>Github link</a>
+					</p>
+					<h6>Main technologies used:</h6>
+						<ul>
+							<li>
+								<span class="badge badge-primary">HTML</span>
+							</li>
+							<li>
+								<span class="badge badge-primary">Vue</span>
+							</li>
+							<li>
+								<span class="badge badge-primary">Firebase</span>
+							</li>
+							<li>
+								<span class="badge badge-primary">Materialize css</span>
+							</li>
+						</ul>
+				</div>
+				<a href="https://adnanbacic.dk/folders/vue/vue_geo_ninjas/#/" target="_blank" rel="noopener noreferrer">
+					<img src="images/geo-google-thumbnail.png" width="300" height="200" class="align-self-start mr-3 border" alt="ninja smoothies">
+				</a>
+			</div>
+
+			<hr class="mb-5 mt-5">
             
 		</div>
 		<main role="main">

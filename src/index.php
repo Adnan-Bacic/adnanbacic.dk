@@ -8,17 +8,17 @@
 <body>
 	<?php include 'includes/navbar.php'; ?>
 	<section class="container-fluid">
-		<div id="hero" class="row">
+		<div class="row hero-container">
 			<div class="col-12">
 				<div class="col-8 mx-auto">
 					<div class="row">
 						<div class="col-12" data-aos="fade-right">
-							<p id="hero-title" class="h1 text-white text-center font-weight-bold">I <span class="hero-focus">design</span> and <span class="hero-focus">build</span><br> solid websites</p>
+							<p class="h1 text-light text-center font-weight-bold hero-title">I <span class="hero-focus">design</span> and <span class="hero-focus">build</span><br> solid websites</p>
 						</div>
 					</div>
 					<div class="row">
 						<div class="col-12 mb-5" data-aos="fade-right">
-							<p id="hero-subtitle" class="text-white text-center">Frontend web developer</p>
+							<p class="text-light text-center hero-subtitle">Frontend web developer</p>
 						</div>
 					</div>
 					<div class="row">
@@ -54,12 +54,21 @@
 		</main>
 		
         <div class="row text-center pb-5">
-                <div class="col-lg-3 col-sm-12 mb-5" title="Coding" data-aos="fade-up">
-                    <a href="coding.php">
-                        <i class="fas fa-code customFA"></i>
+                <div class="col-lg-3 col-sm-12 mb-5" title="Javascript" data-aos="fade-up">
+                    <a href="javascript.php">
+						<i class="fab fa-js-square customFA"></i>
 					</a>
-					<a href="coding.php">
-						<button class="btn-main">Coding</button>
+					<a href="javascript.php">
+						<button class="btn-main">Javascript</button>
+					</a>
+				</div>
+
+				<div class="col-lg-3 col-sm-12 mb-5" title="PHP" data-aos="fade-up">
+                    <a href="php.php">
+						<i class="fab fa-php customFA"></i>
+					</a>
+					<a href="php.php">
+						<button class="btn-main">PHP</button>
 					</a>
 				</div>
 
@@ -69,6 +78,15 @@
 					</a>
 					<a href="vue.php">
 						<button class="btn-main">Vue</button>
+					</a>
+				</div>
+				
+				<div class="col-lg-3 col-sm-12 mb-5" title="React" data-aos="fade-up">
+                    <a href="react.php">
+						<i class="fab fa-react customFA"></i>
+					</a>
+					<a href="react.php">
+						<button class="btn-main">React</button>
 					</a>
                 </div>
  

@@ -16,7 +16,7 @@ ul {
   list-style-type: none;
 }
 
-#hero{
+.hero-container{
 	background-image: linear-gradient( rgba(0, 0, 0, 0.8), rgba(0, 0, 0, 0.8) ), url("../images/hero.jpg"); //Photo by Ilya Pavlov on Unsplash - https://unsplash.com/photos/OqtafYT5kTw
 	min-height: 500px;
 	background-size: cover;
