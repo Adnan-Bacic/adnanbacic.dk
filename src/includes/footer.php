@@ -11,9 +11,9 @@
 		<div class="col-xl-4 col-md-4 col-sm-12">	
 			<ul>
 				<li><a class="link" href="javascript.php">Javascript</a></li>
-				<li><a class="link" href="php.php">PHP</a></li>
 				<li><a class="link" href="vue.php">Vue</a></li>
 				<li><a class="link" href="react.php">React</a></li>
+				<li><a class="link" href="php.php">PHP</a></li>
 				<li><a class="link" href="wordpress.php">Wordpress</a></li>
 				<li><a class="link" href="angular.php">Angular</a></li>
 			</ul> 

@@ -63,15 +63,6 @@
 					</a>
 				</div>
 
-				<div class="col-lg-3 col-sm-12 mb-5" title="PHP" data-aos="fade-up">
-                    <a href="php.php">
-						<i class="fab fa-php customFA"></i>
-					</a>
-					<a href="php.php">
-						<button class="btn-main">PHP</button>
-					</a>
-				</div>
-
 				<div class="col-lg-3 col-sm-12 mb-5" title="Vue" data-aos="fade-up">
                     <a href="vue.php">
                         <i class="fab fa-vuejs customFA"></i>
@@ -89,6 +80,15 @@
 						<button class="btn-main">React</button>
 					</a>
                 </div>
+
+				<div class="col-lg-3 col-sm-12 mb-5" title="PHP" data-aos="fade-up">
+                    <a href="php.php">
+						<i class="fab fa-php customFA"></i>
+					</a>
+					<a href="php.php">
+						<button class="btn-main">PHP</button>
+					</a>
+				</div>
  
                 <div class="col-lg-3 col-sm-12 mb-5" title="Wordpress" data-aos="fade-up">
                     <a href="wordpress.php">

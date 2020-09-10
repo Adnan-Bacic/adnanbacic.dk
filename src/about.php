@@ -99,27 +99,6 @@ $interval = $birthday->diff($currentDate);
 					</div>
 				</div>
 			</div>
-
-			<div class="row">
-				<div class="media mb-5 col-xl-12 col-sm-12 mx-auto" data-aos="fade-up">
-					<a href="php.php"><i class="fab fa-php customFA align-self-start" title="Vue"></i></a>
-					<div class="media-body ml-3">
-						<h2 class="mt-0">PHP</h2>
-						<p>PHP is a server-side programming language. It can be used to create interactive and dynamic websites.
-						<br>
-						In PHP i mainly have experience with login systems and CRUD with the help of SQL.</p>
-						<div class="media mt-3" data-aos="fade-up">
-						<i class="fas fa-database mr-5 customFAsmaller" title="SQL"></i>
-								<div class="media-body">
-									<h3 class="mt-0">SQL</h3>
-									<p>SQL is a very popular database system.
-									<br>
-									I have experience combining PHP with SQL to create interactive sites.</p>
-								</div>
-						</div>
-					</div>
-				</div>
-			</div>
 			
 			<div class="row">
 				<div class="media mb-5 col-xl-12 col-sm-12 mx-auto" data-aos="fade-up">
@@ -160,14 +139,35 @@ $interval = $birthday->diff($currentDate);
 					</div>
 				</div>
 			</div>
-			
-		<div class="row">
-			<div class="media mb-5 col-xl-12 col-sm-12 mx-auto" data-aos="fade-up">
-				<a href="wordpress.php"><i class="fab fa-wordpress customFA align-self-start" title="Wordpress"></i></a>
+
+			<div class="row">
+				<div class="media mb-5 col-xl-12 col-sm-12 mx-auto" data-aos="fade-up">
+					<a href="php.php"><i class="fab fa-php customFA align-self-start" title="Vue"></i></a>
 					<div class="media-body ml-3">
-						<h2 class="mt-0">Wordpress</h2>
-						<p>Wordpress is a Content Management System(CMS). It is a way to create websites withoutr having to code everything yourself and just get the files done.</p>
-						<p class="mb-0">I have experience with Wordpress, both for creating normal websites as well as webshops with the worlds most popular webshop plugin - Woocommerce.</p>
+						<h2 class="mt-0">PHP</h2>
+						<p>PHP is a server-side programming language. It can be used to create interactive and dynamic websites.
+						<br>
+						In PHP i mainly have experience with login systems and CRUD with the help of SQL.</p>
+						<div class="media mt-3" data-aos="fade-up">
+						<i class="fas fa-database mr-5 customFAsmaller" title="SQL"></i>
+								<div class="media-body">
+									<h3 class="mt-0">SQL</h3>
+									<p>SQL is a very popular database system.
+									<br>
+									I have experience combining PHP with SQL to create interactive sites.</p>
+								</div>
+						</div>
+					</div>
+				</div>
+			</div>
+			
+			<div class="row">
+				<div class="media mb-5 col-xl-12 col-sm-12 mx-auto" data-aos="fade-up">
+					<a href="wordpress.php"><i class="fab fa-wordpress customFA align-self-start" title="Wordpress"></i></a>
+						<div class="media-body ml-3">
+							<h2 class="mt-0">Wordpress</h2>
+							<p>Wordpress is a Content Management System(CMS). It is a way to create websites withoutr having to code everything yourself and just get the files done.</p>
+							<p class="mb-0">I have experience with Wordpress, both for creating normal websites as well as webshops with the worlds most popular webshop plugin - Woocommerce.</p>
 						<div class="media mt-3" data-aos="fade-up">
 							<i class="fab fa-elementor mr-5 customFAsmaller" title="Elementor"></i>
 								<div class="media-body">
@@ -176,7 +176,6 @@ $interval = $birthday->diff($currentDate);
 									I have some experience working with Elementor.</p>
 								</div>
 						</div>
-						
 						<div class="media mt-3" data-aos="fade-up">
 							<i class="fas fa-shopping-cart mr-4 customFAsmaller" title="WooCommerce"></i>
 								<div class="media-body">
