@@ -21,7 +21,7 @@ $mailMessage = wordwrap($mailMessage, 70);
 mail($mailTo, $mailSubject, $inboxText, $headerText);
 
 
-$_SESSION['mail-feedback'] = '<h2 class="col-12 text-center mb-5">Thank you! Your mail has been sent.</h2>';
+$_SESSION['mail-feedback'] = '<h2 class="col-12 text-center">Thank you! Your mail has been sent.</h2>';
 header('location: contact.php');
 exit();
 

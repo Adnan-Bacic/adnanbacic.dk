@@ -134,12 +134,13 @@
 
 			<div class="media">
 				<a href="https://adnanbacic.dk/folders/coding/oopphp_webshop/index.php" target="_blank" rel="noopener noreferrer">
-					<img src="https://via.placeholder.com/300x200?text=No+image+yet" width="300" height="200" class="align-self-start mr-3 border" alt="PHP webshop">
+					<img src="images/php-webshop-thumbnail.png" width="300" height="200" class="align-self-start mr-3 border" alt="PHP webshop">
                 </a>
                 <div class="media-body mr-3 m-0">
-					<h5 class="mt-0">PHP webshop - <span class="text-primary">CURRENTLY IN DEVELOPMENT</span></h5>
+					<h5 class="mt-0">PHP webshop</h5>
 					<p>This is a demo of a PHP webshop. Users can add items to their wishlist and admins can create, edit and delete items.</p>
-					<p>There is no opition to buy, hence why it is a demo. You can still see it here:</p>
+					<p>Users can also control if their wishlist is public or private.</p>
+					<p>There is no option to actually buy, hence why it is a demo.</p>
 					<p>
 						<a class="link" href="https://adnanbacic.dk/folders/php/oopphp_webshop/" target="_blank" rel="noopener noreferrer"><i class="fas fa-desktop mr-1"></i>See project</a>
 					</p>

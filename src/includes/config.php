@@ -4,6 +4,10 @@
 	$environment = 'development';
 	switch($environment){
 		case 'development':
+			ob_start();
+			session_start();
+			print_r($_SESSION);
+			echo '<br>';
 			// prints e.g. 'Current PHP version: 4.1.1'
 			echo 'Current PHP version: ' . phpversion();
 
@@ -22,6 +26,8 @@
 			break;
 		
 		case 'production':
+			ob_start();
+			session_start();
 			break;
 			
 		default:
