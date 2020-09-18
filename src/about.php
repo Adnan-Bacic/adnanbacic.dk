@@ -43,7 +43,7 @@ $interval = $birthday->diff($currentDate);
 		<section class="container">
 			<div class="row">
 				<div class="media mb-5 col-xl-12 col-sm-12 mx-auto" data-aos="fade-up">
-					<a href="coding.php"><i class="fas fa-code customFA align-self-start" title="Coding"></i></a>
+					<a href="#"><i class="fas fa-code customFA align-self-start" title="Coding"></i></a>
 					<div class="media-body ml-3">
 						<h2 class="mt-0">Basic web technologies</h2>
 						<p>I have experience coding websites myself from scratch.
@@ -90,7 +90,7 @@ $interval = $birthday->diff($currentDate);
 
 			<div class="row">
 				<div class="media mb-5 col-xl-12 col-sm-12 mx-auto" data-aos="fade-up">
-					<a href="javascript.php"><i class="fab fa-js-square customFA align-self-start" title="Vue"></i></a>
+					<a href="javascript.php"><i class="fab fa-js-square customFA align-self-start" title="Javascript"></i></a>
 					<div class="media-body ml-3">
 						<h2 class="mt-0">Javascript ES6</h2>
 						<p>Javascript is a client-side programming language. It can be used to create interactive websites. Javascript goes togehter with HTML and CSS to define the basis of web technologies.
@@ -122,7 +122,7 @@ $interval = $birthday->diff($currentDate);
 
 			<div class="row">
 				<div class="media mb-5 col-xl-12 col-sm-12 mx-auto" data-aos="fade-up">
-					<a href="vue.php"><i class="fab fa-react customFA align-self-start" title="Vue"></i></a>
+					<a href="vue.php"><i class="fab fa-react customFA align-self-start" title="React"></i></a>
 					<div class="media-body ml-3">
 						<h2 class="mt-0">React</h2>
 						<p>React is a framework for creating fast single-page-applications.</p>
@@ -142,7 +142,7 @@ $interval = $birthday->diff($currentDate);
 
 			<div class="row">
 				<div class="media mb-5 col-xl-12 col-sm-12 mx-auto" data-aos="fade-up">
-					<a href="php.php"><i class="fab fa-php customFA align-self-start" title="Vue"></i></a>
+					<a href="php.php"><i class="fab fa-php customFA align-self-start" title="PHP"></i></a>
 					<div class="media-body ml-3">
 						<h2 class="mt-0">PHP 7</h2>
 						<p>PHP is a server-side programming language. It can be used to create interactive and dynamic websites.
