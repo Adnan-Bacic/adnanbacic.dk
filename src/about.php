@@ -71,7 +71,7 @@ $interval = $birthday->diff($currentDate);
 							<!--mr-5 instead of 3 because bootstrap icon is less wide than php and scss-->
 							<i class="fab fa-bootstrap mr-5 customFAsmaller" title="Bootstrap"></i>
 								<div class="media-body">
-									<h3 class="mt-0">Bootstrap</h3>
+									<h3 class="mt-0">Bootstrap 4</h3>
 									<p>Bootstrap frontend framework designed to help developments of websites.
 									<br>I have a lot of experience working with Bootstrap in developing websites.</p>
 								</div>
@@ -92,7 +92,7 @@ $interval = $birthday->diff($currentDate);
 				<div class="media mb-5 col-xl-12 col-sm-12 mx-auto" data-aos="fade-up">
 					<a href="javascript.php"><i class="fab fa-js-square customFA align-self-start" title="Vue"></i></a>
 					<div class="media-body ml-3">
-						<h2 class="mt-0">Javascript</h2>
+						<h2 class="mt-0">Javascript ES6</h2>
 						<p>Javascript is a client-side programming language. It can be used to create interactive websites. Javascript goes togehter with HTML and CSS to define the basis of web technologies.
 						<br>
 						In Javascript i have experience manipulating the behavior of sites. I have experience working with the newest versions of Javascript, also called ES6.</p>
@@ -144,7 +144,7 @@ $interval = $birthday->diff($currentDate);
 				<div class="media mb-5 col-xl-12 col-sm-12 mx-auto" data-aos="fade-up">
 					<a href="php.php"><i class="fab fa-php customFA align-self-start" title="Vue"></i></a>
 					<div class="media-body ml-3">
-						<h2 class="mt-0">PHP</h2>
+						<h2 class="mt-0">PHP 7</h2>
 						<p>PHP is a server-side programming language. It can be used to create interactive and dynamic websites.
 						<br>
 						In PHP i mainly have experience with login systems and CRUD with the help of SQL.</p>

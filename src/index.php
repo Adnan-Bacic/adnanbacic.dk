@@ -24,7 +24,7 @@
 					<div class="row">
 						<div class="col text-center mb-5">
 							<a href="contact.php">
-								<button id="hero-btn-1" class="text-center" data-aos="fade-right">Contact</button>
+								<button id="hero-btn-1" class="text-center mb-3 mr-5" data-aos="fade-right">Contact</button>
 							</a>
 							<a href="about.php">
 								<button id="hero-btn-2" class="text-center mr-3" data-aos="fade-right">About</button>

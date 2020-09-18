@@ -1,5 +1,4 @@
 <?php
-	//php info and version
 	//$environment = 'production';
 	$environment = 'development';
 	switch($environment){

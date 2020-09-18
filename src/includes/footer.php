@@ -1,11 +1,11 @@
 <footer class="text-center bg-dark">
 	<div class="container-fluid text-white">
-		<div class="row col-lg-12 pb-3 pt-5">
+		<div class="row pb-3 pt-5">
 			<div class="col-xl-4 col-md-4 col-sm-12 text-center">
 				<ul>
 					<li>Adnan Bacic</li>
 					<li>ab-one@adnanbacic.dk</li>
-					<li><a class="link" href="https://github.com/Adnan-Bacic" target="_blank" rel="noopener noreferrer">Github</a></li>
+					<li><a class="link" href="https://github.com/Adnan-Bacic" target="_blank" rel="noopener noreferrer">Github account</a></li>
 				</ul>  
 			</div>
 		<div class="col-xl-4 col-md-4 col-sm-12">	
@@ -31,7 +31,7 @@
 		<div class="row">
 			<div class="col-12">
 				<p>&copy; Adnan Bacic <?php echo date('Y'); ?></p>
-			<i class="fas fa-code"></i>
+				<a class="link" href="https://github.com/Adnan-Bacic/adnanbacic.dk" target="_blank" rel="noopener noreferrer">See my site on Github <i class="fas fa-code"></i></a>
 			</div>
 		</div>
 	</div>
