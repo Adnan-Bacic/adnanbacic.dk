@@ -8,7 +8,7 @@
 	?>
 	<!--Meta general-->
 	<title><?php echo $title; ?></title>
-	<link rel="shortcut icon" href="images/favicon.png"> <!--https://www.iconfinder.com/icons/367821/code_coding_html_html5_markup_programming_web_icon-->
+	<link rel="icon" href="images/favicon.ico"> <!--https://www.iconfinder.com/icons/367821/code_coding_html_html5_markup_programming_web_icon-->
 	
 	<!--Meta tags-->
 	<meta charset="utf-8">
