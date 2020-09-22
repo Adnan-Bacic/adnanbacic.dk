@@ -1,7 +1,7 @@
-<footer class="text-center bg-dark">
+<footer class="bg-dark text-center">
 	<div class="container-fluid text-white">
 		<div class="row pb-3 pt-5">
-			<div class="col-xl-4 col-md-4 col-sm-12 text-center">
+			<div class="col-xl-4 col-md-4 col-sm-12">
 				<ul>
 					<li>Adnan Bacic</li>
 					<li>ab-one@adnanbacic.dk</li>

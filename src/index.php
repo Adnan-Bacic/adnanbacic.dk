@@ -13,7 +13,7 @@
 				<div class="col-8 mx-auto">
 					<div class="row">
 						<div class="col-12" data-aos="fade-right">
-							<p class="h1 text-light text-center font-weight-bold hero-title">I <span class="hero-focus">design</span> and <span class="hero-focus">build</span><br> solid websites</p>
+							<p class="h1 text-light text-center font-weight-bold hero-title">I <span class="hero-focus">design</span> and <span class="hero-focus">build</span><br> modern websites</p>
 						</div>
 					</div>
 					<div class="row">
@@ -45,7 +45,7 @@
 
 		<div class="row mb-5">
 			<div class="col-lg-6 col-md-6" data-aos="fade-up">
-				<p>I am a frontend developer from Denmark. I have experience working with my own code, working with Wordpress and some Angular. I am always passionate about learning more and improving my skillset.</p>
+				<p>I am a frontend developer from Denmark. I have experience working mainly with web based technologies. These include Javascript, Javascript frameworks, PHP and more. I am always passionate about learning more and improving my skillset.</p>
 			</div>
 			<div class="col-lg-6 col-md-6" data-aos="fade-up">
 				<p>I can work independently as well as in teams. I always do my best to complete whichever task i am currently working with. Here you can see some of my work.</p>
@@ -99,7 +99,7 @@
 					</a>
                 </div>
         
-                <div class="col-lg-3 col-sm-12" title="Angular" data-aos="fade-up">
+                <div class="col-lg-3 col-sm-12 mb-5" title="Angular" data-aos="fade-up">
                     <a href="angular.php">
                         <i class="fab fa-angular customFA"></i>
 					</a>

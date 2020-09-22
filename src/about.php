@@ -1,17 +1,5 @@
 ﻿<?php include 'includes/config.php' ?>
 
-<?php
-/*
-//https://www.yesdevnull.net/2014/02/a-simple-way-to-display-your-age-in-php/
-$birthday = new DateTime('1998-03-25'); // Enter your birthday in YYYY-MM-DD format
-$currentDate = new DateTime('now');
-
-$interval = $birthday->diff($currentDate);
-
-<?php echo $interval->format('%y'); ?>
-*/
-?>
-
 <!doctype html>
 <html lang="en">
 <head>
@@ -33,9 +21,15 @@ $interval = $birthday->diff($currentDate);
 				</div>
 				<div class="col-lg-6 mb-5">
 					<h2 class="text-center">Who am i?</h2>
-					<p>My name is Adnan Bacic and I am a frontend developer from Denmark. I am currently studying so that i can better my skillset. I am always looking forward to learning new things and become better.</p>
+					<p>My name is Adnan Bacic and I am a frontend web developer from Denmark. I am currently studying so that i can better my skillset. I am always looking forward to learning new things and become better.</p>
 					<h2 class="text-center">What can i do?</h2>
-					<p>My skillset includes coding from scratch, working with Wordpress and a little bit Angular. Here you can read a more comprehensive explanation to the extent of my skillset.</p>
+					<p>My skillset is mostly focused on the frontend with some backend knowledge as well.</p>
+					<p>For frontend i have experience writing vanilla Javasscript.
+					<br>
+					I also have experience using Javascript libraries/frameworks such as Vue and React to create efficient single page websites.</p>
+					<p>For backend i have experience using PHP and SQL together.
+						<br>
+					I also have experience using Firebase as a backend in combonation with Vue or React as a frontend.</p>
 				</div>
 			</div>
 		</main>
@@ -43,7 +37,7 @@ $interval = $birthday->diff($currentDate);
 		<section class="container">
 			<div class="row">
 				<div class="media mb-5 col-xl-12 col-sm-12 mx-auto" data-aos="fade-up">
-					<a href="#"><i class="fas fa-code customFA align-self-start" title="Coding"></i></a>
+					<i class="fas fa-code customFA align-self-start" title="Basic web technologies"></i>
 					<div class="media-body ml-3">
 						<h2 class="mt-0">Basic web technologies</h2>
 						<p>I have experience coding websites myself from scratch.
@@ -71,7 +65,7 @@ $interval = $birthday->diff($currentDate);
 							<!--mr-5 instead of 3 because bootstrap icon is less wide than php and scss-->
 							<i class="fab fa-bootstrap mr-5 customFAsmaller" title="Bootstrap"></i>
 								<div class="media-body">
-									<h3 class="mt-0">Bootstrap 4</h3>
+									<h3 class="mt-0">Bootstrap 4+</h3>
 									<p>Bootstrap frontend framework designed to help developments of websites.
 									<br>I have a lot of experience working with Bootstrap in developing websites.</p>
 								</div>
@@ -144,7 +138,7 @@ $interval = $birthday->diff($currentDate);
 				<div class="media mb-5 col-xl-12 col-sm-12 mx-auto" data-aos="fade-up">
 					<a href="php.php"><i class="fab fa-php customFA align-self-start" title="PHP"></i></a>
 					<div class="media-body ml-3">
-						<h2 class="mt-0">PHP 7</h2>
+						<h2 class="mt-0">PHP 7+</h2>
 						<p>PHP is a server-side programming language. It can be used to create interactive and dynamic websites.
 						<br>
 						In PHP i mainly have experience with login systems and CRUD with the help of SQL.</p>

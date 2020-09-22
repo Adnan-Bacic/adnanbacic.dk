@@ -59,7 +59,7 @@
             <hr class="mb-5 mt-5">
             
             <div class="media">
-				<a href="https://adnanbacic.dk/folders/coding/es6-crypto-api/" target="_blank" rel="noopener noreferrer">
+				<a href="https://adnanbacic.dk/folders/javascript/es6-crypto-api/" target="_blank" rel="noopener noreferrer">
 					<img src="images/crypto-api-thumbnail.png" width="300" height="200" class="align-self-start mr-3 border" alt="JS Crypto API">
 				</a>
 				<div class="media-body mr-3 m-0">
