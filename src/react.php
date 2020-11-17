@@ -52,8 +52,42 @@
 						</ul>
 				</div>
 				<a href="https://adnanbacic.dk/folders/react/weather-app/" target="_blank" rel="noopener noreferrer">
-					<img src="images/weather-app.png" width="300" height="500" class="align-self-start mr-3 border" alt="angular portfolio">
+					<img src="images/weather-app-thumbnail.png" width="300" height="500" class="align-self-start mr-3 border" alt="angular portfolio">
 				</a>
+			</div>
+
+			<hr class="mb-5 mt-5">
+
+			<div class="media">
+			<a href="https://adnanbacic.dk/folders/react/react-firebase-crud-login/" target="_blank" rel="noopener noreferrer">
+					<img src="images/react-firebase-crud-login-thumbnail.png" width="300" height="200" class="align-self-start mr-3 border" alt="angular portfolio">
+				</a>
+				<div class="media-body mr-3 m-0">
+					<h5 class="mt-0">Firebase CRUD and login</h5>
+					<p>A combination of React and Firebase. Allows for CRUD functionality and login.</p>
+					<p class="text-primary font-weight-bold">Still in development</p>
+					<p>
+						<a class="link" href="https://adnanbacic.dk/folders/react/react-firebase-crud-login/" target="_blank" rel="noopener noreferrer"><i class="fas fa-desktop mr-1"></i>See project</a>
+					</p>
+					<p>
+						<a class="link" href="https://github.com/Adnan-Bacic/ReactJS/tree/master/react-firebase-crud-login" target="_blank" rel="noopener noreferrer"><i class="fab fa-github mr-1"></i>Github link</a>
+					</p>
+					<h6>Main technologies used:</h6>
+						<ul>
+							<li>
+								<span class="badge badge-primary">HTML</span>
+							</li>
+							<li>
+								<span class="badge badge-primary">Bootstrap</span>
+							</li>
+							<li>
+								<span class="badge badge-primary">React</span>
+							</li>
+							<li>
+								<span class="badge badge-primary">Firebase</span>
+							</li>
+						</ul>
+				</div>
 			</div>
 
 			<hr class="mb-5 mt-5">

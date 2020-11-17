@@ -116,7 +116,7 @@
 
 			<div class="row">
 				<div class="media mb-5 col-xl-12 col-sm-12 mx-auto" data-aos="fade-up">
-					<a href="vue.php"><i class="fab fa-react customFA align-self-start" title="React"></i></a>
+					<a href="react.php"><i class="fab fa-react customFA align-self-start" title="React"></i></a>
 					<div class="media-body ml-3">
 						<h2 class="mt-0">React</h2>
 						<p>React is a framework for creating fast single-page-applications.</p>
@@ -128,6 +128,26 @@
 									<p>Firebase is a database system developed by Google.
 									<br>
 									I have experience combining React with Firebase to create interactive applications.</p>
+								</div>
+						</div>
+					</div>
+				</div>
+			</div>
+
+			<div class="row">
+				<div class="media mb-5 col-xl-12 col-sm-12 mx-auto" data-aos="fade-up">
+					<a href="#"><i class="fab fa-react customFA align-self-start" title="React"></i></a>
+					<div class="media-body ml-3">
+						<h2 class="mt-0">React Native</h2>
+						<p>React Native is a framework for creating native mobile applications for Android and IOS.</p>
+						<p class="mb-0">In React native i have experience creating Apps.</p>
+						<div class="media mt-3" data-aos="fade-up">
+						<i class="fas fa-database mr-5 customFAsmaller" title="Firebase"></i>
+								<div class="media-body">
+									<h3 class="mt-0">Firebase</h3>
+									<p>Firebase is a database system developed by Google.
+									<br>
+									I have experience combining React Native with Firebase to create interactive applications.</p>
 								</div>
 						</div>
 					</div>

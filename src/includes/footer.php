@@ -6,6 +6,7 @@
 					<li>Adnan Bacic</li>
 					<li>ab-one@adnanbacic.dk</li>
 					<li><a class="link" href="https://github.com/Adnan-Bacic" target="_blank" rel="noopener noreferrer">Github account</a></li>
+					<li><a class="link" href="https://www.linkedin.com/in/adnan-bacic/" target="_blank" rel="noopener noreferrer">Linkedin</a></li>
 				</ul>  
 			</div>
 		<div class="col-xl-4 col-md-4 col-sm-12">	
