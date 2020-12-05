@@ -124,9 +124,9 @@
 						</ul>
 				</div>
 				<a href="https://adnanbacic.dk/folders/php/sunset/" target="_blank" rel="noopener noreferrer">
-					<img src="images/sunset-thumbnail.png" width="300" height="200" class="align-self-start mr-3 border" alt="Learning platform">
+					<img src="images/sunset-thumbnail.png" width="300" height="200" class="align-self-start mr-3 border" alt="learning platform">
 					<!--d-block to not be next to other image-->
-					<img src="images/sunset-thumbnail2.png" width="300" height="200" class="align-self-start d-block mt-3 mb-3 mr-3 border" alt="Learning platform">
+					<img src="images/sunset-thumbnail2.png" width="300" height="200" class="align-self-start d-block mt-3 mb-3 mr-3 border" alt="learning platform">
 				</a>
 			</div>
 
@@ -168,7 +168,7 @@
 			<hr class="mb-5 mt-5">
 
 		</div>
-		<main>
+		</main>
 	</section>
 
 	<?php include 'includes/footer.php'; ?>

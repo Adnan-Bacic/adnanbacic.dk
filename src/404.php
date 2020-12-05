@@ -31,7 +31,8 @@
 </head>
 
 <body>
-	<div class="container-fluid" data-aos="fade-up">
+	<section class="container-fluid" data-aos="fade-up">
+		<main role="main">
 		<div class="row">
 			<div class="col-12 text-center" title="404">
 				<i class="far fa-file-code customFA"></i>
@@ -50,7 +51,8 @@
 				<a href="index.php"><button class="btn-main">Go to frontpage</button></a>
 			</div>
 		</div>
-	</div>
+		</main>
+	</section>
 	
 	<?php include 'includes/scripts.php'; ?>
 </body>

@@ -58,7 +58,7 @@
 
 			<hr class="mb-5 mt-5">
 		</div>
-		<main role="main">
+		</main>
 	</section>
 
 	<?php include 'includes/footer.php'; ?>

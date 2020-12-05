@@ -52,7 +52,7 @@
 						</ul>
 				</div>
 				<a href="https://adnanbacic.dk/folders/react/weather-app/" target="_blank" rel="noopener noreferrer">
-					<img src="images/weather-app-thumbnail.png" width="300" height="500" class="align-self-start mr-3 border" alt="angular portfolio">
+					<img src="images/weather-app-thumbnail.png" width="300" height="500" class="align-self-start mr-3 border" alt="weather app">
 				</a>
 			</div>
 
@@ -60,7 +60,7 @@
 
 			<div class="media">
 			<a href="https://adnanbacic.dk/folders/react/react-firebase-crud-login/" target="_blank" rel="noopener noreferrer">
-					<img src="images/react-firebase-crud-login-thumbnail.png" width="300" height="200" class="align-self-start mr-3 border" alt="angular portfolio">
+					<img src="images/react-firebase-crud-login-thumbnail.png" width="300" height="200" class="align-self-start mr-3 border" alt="react firebase crud login">
 				</a>
 				<div class="media-body mr-3 m-0">
 					<h5 class="mt-0">Firebase CRUD and login</h5>
@@ -92,7 +92,7 @@
 
 			<hr class="mb-5 mt-5">
 		</div>
-		<main role="main">
+		</main>
 	</section>
 
 	<?php include 'includes/footer.php'; ?>

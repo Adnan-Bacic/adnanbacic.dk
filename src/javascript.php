@@ -52,7 +52,7 @@
 						</ul>
 				</div>
 				<a href="https://adnanbacic.dk/folders/javascript/bmi-calculator/" target="_blank" rel="noopener noreferrer">
-					<img src="images/bmi-calculator-thumbnail.png" width="300" height="200" class="align-self-start border" alt="ninja smoothies">
+					<img src="images/bmi-calculator-thumbnail.png" width="300" height="200" class="align-self-start border" alt="bmi calculator">
 				</a>
 			</div>
 
@@ -90,7 +90,7 @@
             <hr class="mb-5 mt-5">
             
 		</div>
-		<main role="main">
+		</main>
 	</section>
 
 	<?php include 'includes/footer.php'; ?>
