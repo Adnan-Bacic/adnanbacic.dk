@@ -99,7 +99,7 @@
 					<p>This was a project for a client who offers massage. This client needed their first website since they had just recently opened their own shop.
 					<br>My tasks were design, development and SEO.</p>
 					<p>
-						<a class="link" href="http://adnanbacic.dk/folders/wordpress/webshop/" target="_blank" rel="noopener noreferrer"><i class="fas fa-desktop mr-1"></i>See project</a>
+						<a class="link" href="https://nordiskmusculupati.dk/" target="_blank" rel="noopener noreferrer"><i class="fas fa-desktop mr-1"></i>See project</a>
 					</p>
 					<p>
 						<a class="link" href="https://github.com/Adnan-Bacic/wordpress/tree/master/sem4-hovedopgave-wp" target="_blank" rel="noopener noreferrer"><i class="fab fa-github mr-1"></i>Github link</a>
