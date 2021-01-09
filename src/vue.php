@@ -129,6 +129,38 @@
 			</div>
 
 			<hr class="mb-5 mt-5">
+
+			<div class="media">
+				<a href="https://nordiskmusculupati.dk/" target="_blank" rel="noopener noreferrer">
+					<img src="images/nordiskmusculupati-thumbnail.png" width="300" height="200" class="align-self-start mr-3 border" alt="nordisk musculupati">
+				</a>
+				<div class="media-body mr-3 m-0">
+					<h5 class="mt-0">Nordisk Musculupati</h5>
+					<p>This was a project for a client who offers massage. This client needed their first website since they had just recently opened their own shop.
+					<br>My tasks were design, development and SEO.</p>
+					<p>Since this project needed SEO, i used Nuxt, which is a Vue framework. Nuxt allowed for server-side-rendering to add SEO while working with Vue</p>
+					<p>
+						<a class="link" href="https://nordiskmusculupati.dk/" target="_blank" rel="noopener noreferrer"><i class="fas fa-desktop mr-1"></i>See project</a>
+					</p>
+					<p>
+						<a class="link" href="https://github.com/Adnan-Bacic/VueJS_Firebase/tree/master/nordiskmusculupati" target="_blank" rel="noopener noreferrer"><i class="fab fa-github mr-1"></i>Github link</a>
+					</p>
+					<h6>Main technologies used:</h6>
+						<ul>
+							<li>
+								<span class="badge badge-primary">HTML</span>
+							</li>
+							<li>
+								<span class="badge badge-primary">Bootstrap</span>
+							</li>
+							<li>
+								<span class="badge badge-primary">Nuxt</span>
+							</li>
+						</ul>
+				</div>
+			</div>
+
+			<hr class="mb-5 mt-5">
             
 		</div>
 		</main>
