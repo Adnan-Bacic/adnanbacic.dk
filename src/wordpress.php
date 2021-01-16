@@ -53,7 +53,7 @@
 						</ul>
 				</div>
 				<a href="http://tobiasjackson.dk/lol/" target="_blank">
-					<img src="images/lolguide-thumbnail.png" width="300" height="200" class="align-self-start mr-3 border" alt="league of legends guide">
+					<img src="images/project-thumbnails/lolguide-thumbnail.png" width="300" height="200" class="align-self-start mr-3 border" alt="league of legends guide">
 				</a>
 			</div>
 
@@ -61,7 +61,7 @@
 
 			<div class="media">
 				<a href="http://adnanbacic.dk/folders/wordpress/webshop/" target="_blank">
-						<img src="images/webshop-thumbnail.png" width="300" height="200" class="align-self-start mr-3 border" alt="wordpress webshop">
+						<img src="images/project-thumbnails/webshop-thumbnail.png" width="300" height="200" class="align-self-start mr-3 border" alt="wordpress webshop">
 					</a>
 				<div class="media-body mr-3 m-0">
 					<h5 class="mt-0">Webshop</h5>

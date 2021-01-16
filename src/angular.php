@@ -52,7 +52,7 @@
 						</ul>
 				</div>
 				<a href="https://adnanbacic.dk/folders/angular/angular-portfolio/#/home" target="_blank" rel="noopener noreferrer">
-					<img src="images/angular-portfolio-thumbnail.png" width="300" height="200" class="align-self-start mr-3 border" alt="angular portfolio">
+					<img src="images/project-thumbnails/angular-portfolio-thumbnail.png" width="300" height="200" class="align-self-start mr-3 border" alt="angular portfolio">
 				</a>
 			</div>
 

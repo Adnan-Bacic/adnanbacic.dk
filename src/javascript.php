@@ -52,7 +52,7 @@
 						</ul>
 				</div>
 				<a href="https://adnanbacic.dk/folders/javascript/bmi-calculator/" target="_blank" rel="noopener noreferrer">
-					<img src="images/bmi-calculator-thumbnail.png" width="300" height="200" class="align-self-start border" alt="bmi calculator">
+					<img src="images/project-thumbnails/bmi-calculator-thumbnail.png" width="300" height="200" class="align-self-start border" alt="bmi calculator">
 				</a>
 			</div>
 
@@ -60,7 +60,7 @@
             
             <div class="media">
 				<a href="https://adnanbacic.dk/folders/javascript/es6-crypto-api/" target="_blank" rel="noopener noreferrer">
-					<img src="images/crypto-api-thumbnail.png" width="300" height="200" class="align-self-start mr-3 border" alt="JS Crypto API">
+					<img src="images/project-thumbnails/crypto-api-thumbnail.png" width="300" height="200" class="align-self-start mr-3 border" alt="JS Crypto API">
 				</a>
 				<div class="media-body mr-3 m-0">
 					<h5 class="mt-0">Crypto API</h5>

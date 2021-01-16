@@ -56,7 +56,7 @@
 						</ul>
 				</div>
 				<a href="https://adnanbacic.dk/folders/vue/vue_ninja_smoothies/#/" target="_blank" rel="noopener noreferrer">
-					<img src="images/ninja-smoothies-thumbnail.png" width="300" height="200" class="align-self-start mr-3 border" alt="ninja smoothies">
+					<img src="images/project-thumbnails/ninja-smoothies-thumbnail.png" width="300" height="200" class="align-self-start mr-3 border" alt="ninja smoothies">
 				</a>
 			</div>
 
@@ -64,9 +64,9 @@
             
             <div class="media">
             <a href="https://adnanbacic.dk/folders/vue/vue_product_chat_login/#/" target="_blank" rel="noopener noreferrer">
-					<img src="images/products-chat-thumbnail1.png" width="300" height="200" class="align-self-start mr-3 border" alt="products and chat">
+					<img src="images/project-thumbnails/products-chat-thumbnail1.png" width="300" height="200" class="align-self-start mr-3 border" alt="products and chat">
 					<!--d-block to not be next to other image-->
-					<img src="images/products-chat-thumbnail2.png" width="300" height="200" class="align-self-start d-block mt-3 mb-3 mr-3 border" alt="products and chat">
+					<img src="images/project-thumbnails/products-chat-thumbnail2.png" width="300" height="200" class="align-self-start d-block mt-3 mb-3 mr-3 border" alt="products and chat">
 				</a>
 				<div class="media-body mr-3 m-0">
 					<h5 class="mt-0">Products CRUD, login and live chat</h5>
@@ -124,7 +124,7 @@
 						</ul>
 				</div>
 				<a href="https://adnanbacic.dk/folders/vue/vue_geo_ninjas/#/" target="_blank" rel="noopener noreferrer">
-					<img src="images/geo-google-thumbnail.png" width="300" height="200" class="align-self-start mr-3 border" alt="geo ninjas">
+					<img src="images/project-thumbnails/geo-google-thumbnail.png" width="300" height="200" class="align-self-start mr-3 border" alt="geo ninjas">
 				</a>
 			</div>
 
@@ -132,7 +132,7 @@
 
 			<div class="media">
 				<a href="https://nordiskmusculupati.dk/" target="_blank" rel="noopener noreferrer">
-					<img src="images/nordiskmusculupati-thumbnail.png" width="300" height="200" class="align-self-start mr-3 border" alt="nordisk musculupati">
+					<img src="images/project-thumbnails/nordiskmusculupati-thumbnail.png" width="300" height="200" class="align-self-start mr-3 border" alt="nordisk musculupati">
 				</a>
 				<div class="media-body mr-3 m-0">
 					<h5 class="mt-0">Nordisk Musculupati</h5>

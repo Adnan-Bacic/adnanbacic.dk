@@ -55,7 +55,7 @@
 						</ul>
 				</div>
 				<a href="https://adnanbacic.dk/folders/php/postit/postitboard.php" target="_blank" rel="noopener noreferrer">
-					<img src="images/postit-board-thumbnail.png" width="300" height="200" class="align-self-start mr-3 border" alt="PHP postitboard">
+					<img src="images/project-thumbnails/postit-board-thumbnail.png" width="300" height="200" class="align-self-start mr-3 border" alt="PHP postitboard">
 				</a>
 			</div>
 
@@ -63,7 +63,7 @@
 			
 			<div class="media">
 			<a href="https://adnanbacic.dk/folders/php/politiker-tweet/" target="_blank" rel="noopener noreferrer">
-					<img src="images/politiker-tweet-thumbnail.png" width="300" height="200" class="align-self-start mr-3 border" alt="PHP politician twitter">
+					<img src="images/project-thumbnails/politiker-tweet-thumbnail.png" width="300" height="200" class="align-self-start mr-3 border" alt="PHP politician twitter">
 				</a>
 				<div class="media-body mr-3 m-0">
 					<h5 class="mt-0">Twitter API</h5>
@@ -124,9 +124,9 @@
 						</ul>
 				</div>
 				<a href="https://adnanbacic.dk/folders/php/sunset/" target="_blank" rel="noopener noreferrer">
-					<img src="images/sunset-thumbnail.png" width="300" height="200" class="align-self-start mr-3 border" alt="learning platform">
+					<img src="images/project-thumbnails/sunset-thumbnail.png" width="300" height="200" class="align-self-start mr-3 border" alt="learning platform">
 					<!--d-block to not be next to other image-->
-					<img src="images/sunset-thumbnail2.png" width="300" height="200" class="align-self-start d-block mt-3 mb-3 mr-3 border" alt="learning platform">
+					<img src="images/project-thumbnails/sunset-thumbnail2.png" width="300" height="200" class="align-self-start d-block mt-3 mb-3 mr-3 border" alt="learning platform">
 				</a>
 			</div>
 
@@ -134,7 +134,7 @@
 
 			<div class="media">
 				<a href="https://adnanbacic.dk/folders/php/oopphp_webshop/index.php" target="_blank" rel="noopener noreferrer">
-					<img src="images/php-webshop-thumbnail.png" width="300" height="200" class="align-self-start mr-3 border" alt="PHP webshop">
+					<img src="images/project-thumbnails/php-webshop-thumbnail.png" width="300" height="200" class="align-self-start mr-3 border" alt="PHP webshop">
                 </a>
                 <div class="media-body mr-3 m-0">
 					<h5 class="mt-0">PHP webshop</h5>

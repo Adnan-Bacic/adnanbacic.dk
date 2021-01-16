@@ -39,7 +39,7 @@
 
 			<hr class="mb-5 mt-5" data-aos="fade-up"></hr>
 
-			<h2 class="mb-5" data-aos="fade-up">Programming languages</h2>
+			<h2 class="mb-5" data-aos="fade-up">Web technologies and frameworks</h2>
 
 			<div class="row">
 				<div class="media mb-5 col-xl-12 col-sm-12 mx-auto" data-aos="fade-up">
