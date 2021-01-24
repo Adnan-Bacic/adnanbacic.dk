@@ -87,6 +87,37 @@
 			</div>
 
             <hr class="mb-5 mt-5">
+
+			<div class="media">
+				<a href="https://adnanbacic.dk/folders/javascript/shopping-list/" target="_blank" rel="noopener noreferrer">
+					<img src="images/project-thumbnails/shopping-list-thumbnail.png" width="300" height="500" class="align-self-start mr-3 border" alt="JS Crypto API">
+				</a>
+				<div class="media-body mr-3 m-0">
+					<h5 class="mt-0">Shopping list</h5>
+					<p>A Javascript based shopping list using localstorage</p>
+					<p>You can add items to your shopping list as well as the quantity. Then remove them indiviually or all at once.</p>
+					<p>
+						<a class="link" href="https://adnanbacic.dk/folders/javascript/shopping-list/" target="_blank" rel="noopener noreferrer"><i class="fas fa-desktop mr-1"></i>See project</a>
+					</p>
+					<p>
+						<a class="link" href="https://github.com/Adnan-Bacic/javascript/tree/master/crypto-api" target="_blank" rel="noopener noreferrer"><i class="fab fa-github mr-1"></i>Github link</a>
+					</p>
+					<h6>Main technologies used:</h6>
+						<ul>
+							<li>
+								<span class="badge badge-primary">HTML</span>
+							</li>
+							<li>
+								<span class="badge badge-primary">Bootstrap</span>
+							</li>
+							<li>
+								<span class="badge badge-primary">Javascript</span>
+							</li>
+						</ul>
+				</div>
+			</div>
+
+			<hr class="mb-5 mt-5">
             
 		</div>
 		</main>
