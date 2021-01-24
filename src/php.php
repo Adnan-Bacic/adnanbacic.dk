@@ -22,7 +22,6 @@
 				<div class="col-12 mt-3">
 					<h1>PHP</h1>
 					<p>Projects made PHP.</p>
-					<a href="https://github.com/Adnan-Bacic/php" target="_blank" rel="noopener noreferrer" class="link"><i class="fab fa-github mr-1"></i>See this folder on Github</a>
 				</div>
 			</div>
 

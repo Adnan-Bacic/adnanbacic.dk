@@ -22,7 +22,6 @@
 				<div class="col-12 mt-3">
 					<h1>React</h1>
 					<p>Projects made with React</p>
-					<a href="https://github.com/Adnan-Bacic/ReactJS" target="_blank" rel="noopener noreferrer" class="link"><i class="fab fa-react mr-1"></i>See this folder on Github</a>
 				</div>
 			</div>
 
@@ -65,7 +64,6 @@
 				<div class="media-body mr-3 m-0">
 					<h5 class="mt-0">Firebase CRUD and login</h5>
 					<p>A combination of React and Firebase. Allows for CRUD functionality and login.</p>
-					<p class="text-primary font-weight-bold">Still in development</p>
 					<p>
 						<a class="link" href="https://adnanbacic.dk/folders/react/react-firebase-crud-login/" target="_blank" rel="noopener noreferrer"><i class="fas fa-desktop mr-1"></i>See project</a>
 					</p>

@@ -22,7 +22,6 @@
 				<div class="col-12 mt-3">
 					<h1>Javascript</h1>
 					<p>Projects made with Javascript</p>
-					<a href="https://github.com/Adnan-Bacic/javascript" target="_blank" rel="noopener noreferrer" class="link"><i class="fab fa-github mr-1"></i>See this folder on Github</a>
 				</div>
 			</div>
 
