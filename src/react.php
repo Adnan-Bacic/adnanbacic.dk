@@ -35,7 +35,7 @@
 						<a class="link" href="https://adnanbacic.dk/folders/react/weather-app/" target="_blank" rel="noopener noreferrer"><i class="fas fa-desktop mr-1"></i>See project</a>
 					</p>
 					<p>
-						<a class="link" href="https://github.com/Adnan-Bacic/ReactJS/tree/master/weather-app" target="_blank" rel="noopener noreferrer"><i class="fab fa-github mr-1"></i>Github link</a>
+						<a class="link" href="https://github.com/Adnan-Bacic/weather-app" target="_blank" rel="noopener noreferrer"><i class="fab fa-github mr-1"></i>Github link</a>
 					</p>
 					<h6>Main technologies used:</h6>
 						<ul>
@@ -68,7 +68,7 @@
 						<a class="link" href="https://adnanbacic.dk/folders/react/react-firebase-crud-login/" target="_blank" rel="noopener noreferrer"><i class="fas fa-desktop mr-1"></i>See project</a>
 					</p>
 					<p>
-						<a class="link" href="https://github.com/Adnan-Bacic/ReactJS/tree/master/react-firebase-crud-login" target="_blank" rel="noopener noreferrer"><i class="fab fa-github mr-1"></i>Github link</a>
+						<a class="link" href="https://github.com/Adnan-Bacic/react-firebase-crud-login" target="_blank" rel="noopener noreferrer"><i class="fab fa-github mr-1"></i>Github link</a>
 					</p>
 					<h6>Main technologies used:</h6>
 						<ul>

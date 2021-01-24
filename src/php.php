@@ -35,7 +35,7 @@
 						<a class="link" href="https://adnanbacic.dk/folders/php/postit/postitboard.php" target="_blank" rel="noopener noreferrer"><i class="fas fa-desktop mr-1"></i>See project</a>
 					</p>
 					<p>
-						<a class="link" href="https://github.com/Adnan-Bacic/php/tree/master/postit" target="_blank" rel="noopener noreferrer"><i class="fab fa-github mr-1"></i>Github link</a>
+						<a class="link" href="https://github.com/Adnan-Bacic/postit" target="_blank" rel="noopener noreferrer"><i class="fab fa-github mr-1"></i>Github link</a>
 					</p>
 					<h6>Main technologies used:</h6>
 						<ul>
@@ -71,7 +71,7 @@
 						<a class="link" href="https://adnanbacic.dk/folders/php/politiker-tweet/" target="_blank" rel="noopener noreferrer"><i class="fas fa-desktop mr-1"></i>See project</a>
 					</p>
 					<p>
-						<a class="link" href="https://github.com/Adnan-Bacic/php/tree/master/twitter-api" target="_blank" rel="noopener noreferrer"><i class="fab fa-github mr-1"></i>Github link</a>
+						<a class="link" href="https://github.com/Adnan-Bacic/twitter-api" target="_blank" rel="noopener noreferrer"><i class="fab fa-github mr-1"></i>Github link</a>
 					</p>
 					<h6>Main technologies used:</h6>
 						<ul>
@@ -101,10 +101,10 @@
 					Passowrd: user</p>
 					<p>There arent any categories, but as mentioned, users who are administrators can add them.</p>
                     <p>
-						<a class="link" href="https://github.com/Adnan-Bacic/php/tree/master/3sem-eksamen" target="_blank" rel="noopener noreferrer"><i class="fas fa-desktop mr-1"></i>See project</a>
+						<a class="link" href="https://adnanbacic.dk/folders/php/sunset/" target="_blank" rel="noopener noreferrer"><i class="fas fa-desktop mr-1"></i>See project</a>
 					</p>
 					<p>
-						<a class="link" href="https://adnanbacic.dk/folders/php/sunset/" target="_blank" rel="noopener noreferrer"><i class="fab fa-github mr-1"></i>Github link</a>
+						<a class="link" href="https://github.com/Adnan-Bacic/3sem-eksamen" target="_blank" rel="noopener noreferrer"><i class="fab fa-github mr-1"></i>Github link</a>
 					</p>
 					<h6>Main technologies used:</h6>
 						<ul>
@@ -144,7 +144,7 @@
 						<a class="link" href="https://adnanbacic.dk/folders/php/oopphp_webshop/" target="_blank" rel="noopener noreferrer"><i class="fas fa-desktop mr-1"></i>See project</a>
 					</p>
 					<p>
-						<a class="link" href="https://github.com/Adnan-Bacic/php/tree/master/php_object_oriented_webshop" target="_blank" rel="noopener noreferrer"><i class="fab fa-github mr-1"></i>Github link</a>
+						<a class="link" href="https://github.com/Adnan-Bacic/php_object_oriented_webshop" target="_blank" rel="noopener noreferrer"><i class="fab fa-github mr-1"></i>Github link</a>
 					</p>
 					<h6>Main technologies used:</h6>
 						<ul>

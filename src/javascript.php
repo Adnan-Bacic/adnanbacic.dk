@@ -35,7 +35,7 @@
 						<a class="link" href="https://adnanbacic.dk/folders/javascript/bmi-calculator/" target="_blank" rel="noopener noreferrer"><i class="fas fa-desktop mr-1"></i>See project</a>
 					</p>
 					<p>
-						<a class="link" href="https://github.com/Adnan-Bacic/javascript/tree/master/bmi-calculator" target="_blank" rel="noopener noreferrer"><i class="fab fa-github mr-1"></i>Github link</a>
+						<a class="link" href="https://github.com/Adnan-Bacic/bmi-calculator" target="_blank" rel="noopener noreferrer"><i class="fab fa-github mr-1"></i>Github link</a>
 					</p>
 					<h6>Main technologies used:</h6>
 						<ul>
@@ -69,7 +69,7 @@
 						<a class="link" href="https://adnanbacic.dk/folders/javascript/es6-crypto-api/" target="_blank" rel="noopener noreferrer"><i class="fas fa-desktop mr-1"></i>See project</a>
 					</p>
 					<p>
-						<a class="link" href="https://github.com/Adnan-Bacic/javascript/tree/master/crypto-api" target="_blank" rel="noopener noreferrer"><i class="fab fa-github mr-1"></i>Github link</a>
+						<a class="link" href="https://github.com/Adnan-Bacic/crypto-api" target="_blank" rel="noopener noreferrer"><i class="fab fa-github mr-1"></i>Github link</a>
 					</p>
 					<h6>Main technologies used:</h6>
 						<ul>
@@ -89,9 +89,6 @@
             <hr class="mb-5 mt-5">
 
 			<div class="media">
-				<a href="https://adnanbacic.dk/folders/javascript/shopping-list/" target="_blank" rel="noopener noreferrer">
-					<img src="images/project-thumbnails/shopping-list-thumbnail.png" width="300" height="500" class="align-self-start mr-3 border" alt="JS Crypto API">
-				</a>
 				<div class="media-body mr-3 m-0">
 					<h5 class="mt-0">Shopping list</h5>
 					<p>A Javascript based shopping list using localstorage</p>
@@ -100,7 +97,7 @@
 						<a class="link" href="https://adnanbacic.dk/folders/javascript/shopping-list/" target="_blank" rel="noopener noreferrer"><i class="fas fa-desktop mr-1"></i>See project</a>
 					</p>
 					<p>
-						<a class="link" href="https://github.com/Adnan-Bacic/javascript/tree/master/crypto-api" target="_blank" rel="noopener noreferrer"><i class="fab fa-github mr-1"></i>Github link</a>
+						<a class="link" href="https://github.com/Adnan-Bacic/shopping-list" target="_blank" rel="noopener noreferrer"><i class="fab fa-github mr-1"></i>Github link</a>
 					</p>
 					<h6>Main technologies used:</h6>
 						<ul>
@@ -115,6 +112,10 @@
 							</li>
 						</ul>
 				</div>
+
+				<a href="https://adnanbacic.dk/folders/javascript/shopping-list/" target="_blank" rel="noopener noreferrer">
+					<img src="images/project-thumbnails/shopping-list-thumbnail.png" width="300" height="500" class="align-self-start mr-3 border" alt="JS Crypto API">
+				</a>
 			</div>
 
 			<hr class="mb-5 mt-5">

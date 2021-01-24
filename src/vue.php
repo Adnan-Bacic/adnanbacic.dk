@@ -36,7 +36,7 @@
 						<a class="link" href="https://adnanbacic.dk/folders/vue/vue_ninja_smoothies/#/" target="_blank" rel="noopener noreferrer"><i class="fas fa-desktop mr-1"></i>See project</a>
 					</p>
 					<p>
-						<a class="link" href="https://github.com/Adnan-Bacic/VueJS_Firebase/tree/master/ninja-smoothies" target="_blank" rel="noopener noreferrer"><i class="fab fa-github mr-1"></i>Github link</a>
+						<a class="link" href="https://github.com/Adnan-Bacic/ninja-smoothies" target="_blank" rel="noopener noreferrer"><i class="fab fa-github mr-1"></i>Github link</a>
 					</p>
 					<h6>Main technologies used:</h6>
 						<ul>
@@ -74,7 +74,7 @@
 						<a class="link" href="https://adnanbacic.dk/folders/vue/vue_product_chat_login/#/" target="_blank" rel="noopener noreferrer"><i class="fas fa-desktop mr-1"></i>See project</a>
 					</p>
 					<p>
-						<a class="link" href="https://github.com/Adnan-Bacic/VueJS_Firebase/tree/master/products-firebaseV1.3" target="_blank" rel="noopener noreferrer"><i class="fab fa-github mr-1"></i>Github link</a>
+						<a class="link" href="https://github.com/Adnan-Bacic/products-firebaseV1.3" target="_blank" rel="noopener noreferrer"><i class="fab fa-github mr-1"></i>Github link</a>
 					</p>
 					<h6>Main technologies used:</h6>
 						<ul>
@@ -104,7 +104,7 @@
 						<a class="link" href="https://adnanbacic.dk/folders/vue/vue_geo_ninjas/#/" target="_blank" rel="noopener noreferrer"><i class="fas fa-desktop mr-1"></i>See project</a>
 					</p>
 					<p>
-						<a class="link" href="https://github.com/Adnan-Bacic/VueJS_Firebase/tree/master/geo-ninjas" target="_blank" rel="noopener noreferrer"><i class="fab fa-github mr-1"></i>Github link</a>
+						<a class="link" href="https://github.com/Adnan-Bacic/geo-ninjas" target="_blank" rel="noopener noreferrer"><i class="fab fa-github mr-1"></i>Github link</a>
 					</p>
 					<h6>Main technologies used:</h6>
 						<ul>
@@ -142,7 +142,7 @@
 						<a class="link" href="https://nordiskmusculupati.dk/" target="_blank" rel="noopener noreferrer"><i class="fas fa-desktop mr-1"></i>See project</a>
 					</p>
 					<p>
-						<a class="link" href="https://github.com/Adnan-Bacic/VueJS_Firebase/tree/master/nordiskmusculupati" target="_blank" rel="noopener noreferrer"><i class="fab fa-github mr-1"></i>Github link</a>
+						<a class="link" href="https://github.com/Adnan-Bacic/nordiskmusculupati.dk" target="_blank" rel="noopener noreferrer"><i class="fab fa-github mr-1"></i>Github link</a>
 					</p>
 					<h6>Main technologies used:</h6>
 						<ul>

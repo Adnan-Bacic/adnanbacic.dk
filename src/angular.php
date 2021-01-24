@@ -35,7 +35,7 @@
 						<a class="link" href="https://adnanbacic.dk/folders/angular/angular-portfolio/#/home" target="_blank" rel="noopener noreferrer"><i class="fas fa-desktop mr-1"></i>See project</a>
 					</p>
 					<p>
-						<a class="link" href="https://github.com/Adnan-Bacic/Angular/tree/master/angular-portfolio" target="_blank" rel="noopener noreferrer"><i class="fab fa-github mr-1"></i>Github link</a>
+						<a class="link" href="https://github.com/Adnan-Bacic/angular-portfolio" target="_blank" rel="noopener noreferrer"><i class="fab fa-github mr-1"></i>Github link</a>
 					</p>
 					<h6>Main technologies used:</h6>
 						<ul>
