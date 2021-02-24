@@ -27,7 +27,7 @@
 
 			<hr class="mb-5 mt-5">
 
-			<h2>Comming soon</h2>
+			<h2>Coming soon</h2>
 
 			<hr class="mb-5 mt-5">
 		</div>
