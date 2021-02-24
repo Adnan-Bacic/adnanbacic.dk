@@ -17,6 +17,7 @@
 				<li><a class="link" href="php.php">PHP</a></li>
 				<li><a class="link" href="wordpress.php">Wordpress</a></li>
 				<li><a class="link" href="angular.php">Angular</a></li>
+				<li><a class="link" href="npm.php">NPM</a></li>
 			</ul> 
 		</div>
 		<div class="col-xl-4 col-md-4 col-sm-12">

@@ -107,6 +107,15 @@
 						<button class="btn-main">Angular</button>
 					</a>
 				</div>
+
+				<div class="col-lg-3 col-sm-12 mb-5" title="npm" data-aos="fade-up">
+                    <a href="npm.php">
+                        <i class="fab fa-npm customFA"></i>
+					</a>
+					<a href="npm.php">
+						<button class="btn-main">NPM</button>
+					</a>
+				</div>
         </div>
 </section>
     
