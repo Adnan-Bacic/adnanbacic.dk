@@ -29,7 +29,7 @@
 					I also have experience using Javascript libraries/frameworks such as Vue and React to create efficient single page websites.</p>
 					<p>For backend i have experience using PHP and SQL together.
 						<br>
-					I also have experience using Firebase as a backend in combonation with Vue or React as a frontend.</p>
+					I also have experience using Firebase as a backend in combination with Vue or React as a frontend.</p>
 				</div>
 			</div>
 		</main>
