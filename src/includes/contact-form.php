@@ -20,7 +20,7 @@ $invalidFeedback = 'Please fill out this field';
 
 					<div class="form-group col-12">
 						<label for="validationDefault02">E-mail address</label>
-						<input type="email" class="form-control" id="validationDefault02" placeholder="E-mail adress" name="mail" required>
+						<input type="email" class="form-control" id="validationDefault02" placeholder="E-mail adress" name="email" required>
 						<div class="valid-feedback">
 							<?php echo $validFeedback ?>
 						</div>
