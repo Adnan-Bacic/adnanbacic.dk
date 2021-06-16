@@ -55,7 +55,7 @@
 						</ul>
 				</div>
 				<a href="https://adnanbacic.dk/folders/vue/vue_ninja_smoothies/#/" target="_blank" rel="noopener noreferrer">
-					<img src="images/project-thumbnails/ninja-smoothies-thumbnail.png" width="300" height="200" class="align-self-start mr-3 border" alt="ninja smoothies">
+					<img src="images/project-thumbnails/ninja-smoothies-thumbnail.png" width="300" height="200" class="align-self-start border" alt="ninja smoothies">
 				</a>
 			</div>
 
@@ -123,7 +123,7 @@
 						</ul>
 				</div>
 				<a href="https://adnanbacic.dk/folders/vue/vue_geo_ninjas/#/" target="_blank" rel="noopener noreferrer">
-					<img src="images/project-thumbnails/geo-google-thumbnail.png" width="300" height="200" class="align-self-start mr-3 border" alt="geo ninjas">
+					<img src="images/project-thumbnails/geo-google-thumbnail.png" width="300" height="200" class="align-self-start border" alt="geo ninjas">
 				</a>
 			</div>
 

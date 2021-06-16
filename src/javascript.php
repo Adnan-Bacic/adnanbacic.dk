@@ -27,6 +27,20 @@
 
 			<hr class="mb-5 mt-5">
 
+				<!--
+					new?
+					
+			<div class="row">
+				<div class="col-lg-8">
+					text
+				</div>
+				<div class="col-lg-4">
+					<img src="images/project-thumbnails/bmi-calculator-thumbnail.png" class="img-fluid border" alt="bmi calculator">
+				</div>
+			</div>
+			-->
+			
+
 			<div class="media">
 				<div class="media-body mr-3 m-0">
 					<h5 class="mt-0">BMI Calculator</h5>
@@ -114,7 +128,7 @@
 				</div>
 
 				<a href="https://adnanbacic.dk/folders/javascript/shopping-list/" target="_blank" rel="noopener noreferrer">
-					<img src="images/project-thumbnails/shopping-list-thumbnail.png" width="300" height="500" class="align-self-start mr-3 border" alt="JS Crypto API">
+					<img src="images/project-thumbnails/shopping-list-thumbnail.png" width="300" height="500" class="align-self-start border" alt="JS Crypto API">
 				</a>
 			</div>
 

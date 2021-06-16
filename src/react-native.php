@@ -64,7 +64,7 @@
 						</ul>
 				</div>
 				<a href="#" target="_blank" rel="noopener noreferrer">
-					<img src="images/project-thumbnails/niomi-thumbnail-image.png" width="300" height="500" class="align-self-start d-block border" alt="niomi image">
+					<img src="images/project-thumbnails/niomi-thumbnail-image.png" width="300" height="500" class="align-self-start border" alt="niomi image">
 				</a>
 			</div>
 
@@ -72,7 +72,7 @@
 
 			<div class="media">
 			<a href="#" target="_blank" rel="noopener noreferrer">
-					<img src="images/project-thumbnails/omnipod-thumbnail-image.png" width="300" height="500" class="align-self-start d-block border mr-3" alt="omnipod image">
+					<img src="images/project-thumbnails/omnipod-thumbnail-image.png" width="300" height="500" class="align-self-start border mr-3" alt="omnipod image">
 				</a>
 				<div class="media-body mr-3 m-0">
 					<h5 class="mt-0">Omnipod</h5>

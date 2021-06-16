@@ -54,7 +54,7 @@
 						</ul>
 				</div>
 				<a href="https://adnanbacic.dk/folders/php/postit/postitboard.php" target="_blank" rel="noopener noreferrer">
-					<img src="images/project-thumbnails/postit-board-thumbnail.png" width="300" height="200" class="align-self-start mr-3 border" alt="PHP postitboard">
+					<img src="images/project-thumbnails/postit-board-thumbnail.png" width="300" height="200" class="align-self-start border" alt="PHP postitboard">
 				</a>
 			</div>
 
@@ -123,9 +123,9 @@
 						</ul>
 				</div>
 				<a href="https://adnanbacic.dk/folders/php/sunset/" target="_blank" rel="noopener noreferrer">
-					<img src="images/project-thumbnails/sunset-thumbnail.png" width="300" height="200" class="align-self-start mr-3 border" alt="learning platform">
+					<img src="images/project-thumbnails/sunset-thumbnail.png" width="300" height="200" class="align-self-start border" alt="learning platform">
 					<!--d-block to not be next to other image-->
-					<img src="images/project-thumbnails/sunset-thumbnail2.png" width="300" height="200" class="align-self-start d-block mt-3 mb-3 mr-3 border" alt="learning platform">
+					<img src="images/project-thumbnails/sunset-thumbnail2.png" width="300" height="200" class="align-self-start d-block mt-3 mb-3 border" alt="learning platform">
 				</a>
 			</div>
 

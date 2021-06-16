@@ -51,7 +51,7 @@
 						</ul>
 				</div>
 				<a href="https://adnanbacic.dk/folders/react/weather-app/" target="_blank" rel="noopener noreferrer">
-					<img src="images/project-thumbnails/weather-app-thumbnail.png" width="300" height="500" class="align-self-start mr-3 border" alt="weather app">
+					<img src="images/project-thumbnails/weather-app-thumbnail.png" width="300" height="500" class="align-self-start border" alt="weather app">
 				</a>
 			</div>
 

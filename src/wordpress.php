@@ -52,7 +52,7 @@
 						</ul>
 				</div>
 				<a href="http://tobiasjackson.dk/lol/" target="_blank">
-					<img src="images/project-thumbnails/lolguide-thumbnail.png" width="300" height="200" class="align-self-start mr-3 border" alt="league of legends guide">
+					<img src="images/project-thumbnails/lolguide-thumbnail.png" width="300" height="200" class="align-self-start border" alt="league of legends guide">
 				</a>
 			</div>
 
