@@ -27,9 +27,9 @@
 
 			<hr class="mb-5 mt-5">
 
-			<div class="media">
-				<div class="media-body mr-3 m-0">
-					<h5 class="mt-0">Ninja smoothies CRUD</h5>
+			<div class="row">
+				<div class="col-lg-8">
+				<h5 class="mt-0">Ninja smoothies CRUD</h5>
 					<p>This is a Vue and Firebase CRUD project. It is possible to Create, Read, Update and Delete smoothies.
                         <br>All the data of the smoothies is stored in firebase and displayed with Vue</p>
 					<p>
@@ -54,21 +54,25 @@
 							</li>
 						</ul>
 				</div>
+				<div class="col-lg-4">
 				<a href="https://adnanbacic.dk/folders/vue/vue_ninja_smoothies/#/" target="_blank" rel="noopener noreferrer">
-					<img src="images/project-thumbnails/ninja-smoothies-thumbnail.png" width="300" height="200" class="align-self-start border" alt="ninja smoothies">
+					<img src="images/project-thumbnails/ninja-smoothies-thumbnail.png" class="img-fluid border" alt="ninja smoothies">
 				</a>
+				</div>
 			</div>
 
             <hr class="mb-5 mt-5">
-            
-            <div class="media">
-            <a href="https://adnanbacic.dk/folders/vue/vue_product_chat_login/#/" target="_blank" rel="noopener noreferrer">
-					<img src="images/project-thumbnails/products-chat-thumbnail1.png" width="300" height="200" class="align-self-start mr-3 border" alt="products and chat">
+
+			<div class="row">
+				<div class="col-lg-4">
+				<a href="https://adnanbacic.dk/folders/vue/vue_product_chat_login/#/" target="_blank" rel="noopener noreferrer">
+					<img src="images/project-thumbnails/products-chat-thumbnail1.png" class="img-fluid border mb-3" alt="products and chat">
 					<!--d-block to not be next to other image-->
-					<img src="images/project-thumbnails/products-chat-thumbnail2.png" width="300" height="200" class="align-self-start d-block mt-3 mb-3 mr-3 border" alt="products and chat">
+					<img src="images/project-thumbnails/products-chat-thumbnail2.png" class="img-fluid border" alt="products and chat">
 				</a>
-				<div class="media-body mr-3 m-0">
-					<h5 class="mt-0">Products CRUD, login and live chat</h5>
+				</div>
+				<div class="col-lg-8">
+				<h5 class="mt-0">Products CRUD, login and live chat</h5>
 					<p>In this project it is possible to CRUD aswell as having a live chat, which can only be entered if you first enter a name from the products page. You can also create and account and see other users.
 					<p>
 						<a class="link" href="https://adnanbacic.dk/folders/vue/vue_product_chat_login/#/" target="_blank" rel="noopener noreferrer"><i class="fas fa-desktop mr-1"></i>See project</a>
@@ -92,13 +96,13 @@
 							</li>
 						</ul>
 				</div>
-            </div>
+			</div>
 
 			<hr class="mb-5 mt-5">
-			
-			<div class="media">
-				<div class="media-body mr-3 m-0">
-					<h5 class="mt-0">Google maps API</h5>
+
+			<div class="row">
+				<div class="col-lg-8">
+				<h5 class="mt-0">Google maps API</h5>
 					<p>Using Google Maps api togehter with firebase authentication, users who sign in will have their location saved and shown on the map.</p>
 					<p>
 						<a class="link" href="https://adnanbacic.dk/folders/vue/vue_geo_ninjas/#/" target="_blank" rel="noopener noreferrer"><i class="fas fa-desktop mr-1"></i>See project</a>
@@ -122,19 +126,23 @@
 							</li>
 						</ul>
 				</div>
+				<div class="col-lg-4">
 				<a href="https://adnanbacic.dk/folders/vue/vue_geo_ninjas/#/" target="_blank" rel="noopener noreferrer">
-					<img src="images/project-thumbnails/geo-google-thumbnail.png" width="300" height="200" class="align-self-start border" alt="geo ninjas">
+					<img src="images/project-thumbnails/geo-google-thumbnail.png" class="img-fluid border" alt="geo ninjas">
 				</a>
+				</div>
 			</div>
 
 			<hr class="mb-5 mt-5">
 
-			<div class="media">
+			<div class="row">
+				<div class="col-lg-4">
 				<a href="https://nordiskmusculupati.dk/" target="_blank" rel="noopener noreferrer">
-					<img src="images/project-thumbnails/nordiskmusculupati-thumbnail.png" width="300" height="200" class="align-self-start mr-3 border" alt="nordisk musculupati">
+					<img src="images/project-thumbnails/nordiskmusculupati-thumbnail.png" class="img-fluid border" alt="nordisk musculupati">
 				</a>
-				<div class="media-body mr-3 m-0">
-					<h5 class="mt-0">Nordisk Musculupati</h5>
+				</div>
+				<div class="col-lg-8">
+				<h5 class="mt-0">Nordisk Musculupati</h5>
 					<p>This was a project for a client who offers massage. This client needed their first website since they had just recently opened their own shop.
 					<br>My tasks were design, development and SEO.</p>
 					<p>Since this project needed SEO, i used Nuxt, which is a Vue framework. Nuxt allowed for server-side-rendering to add SEO while working with Vue</p>
