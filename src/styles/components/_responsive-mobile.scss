@@ -1,0 +1,44 @@
+@media screen and (max-width: 480px) {	
+	//Bootstrap
+	.media{
+		display: block; //so that image and text arent on the same line
+		//width: 100%;
+	}
+	.align-self-start{
+		display: block;
+		margin-right:auto!important; //margin right carries over from desktop. must use !important to be able to center image
+		margin: 0 auto;
+		margin-bottom: 10px;
+	}
+	
+	//General
+    h1{
+        font-size: 35px;
+    }
+	h2{
+		font-size: 30px;
+	}
+	h3{
+		font-size: 25px;
+	}
+	
+	//Frontpage
+	.hero-container{
+		min-height: 360px;
+	}
+	.hero-btn-1{
+		margin-bottom: 10px;
+	}
+	.hero-title{
+		margin-top: 25px;
+		font-size: 30px;
+	}
+	.hero-subtitle{
+		font-size: 15px;
+	}
+	
+	//centering fa icons
+	.customFA{
+		text-align: center;
+	}
+}

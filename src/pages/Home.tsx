@@ -3,95 +3,34 @@ import React from 'react';
 const Home = () => {
   return (
     <>
-      <section
-        className="container-fluid"
-      >
-        <div
-          className="row hero-container"
-        >
-          <div
-            className="col-12"
-          >
-            <div
-              className="col-8 mx-auto"
-            >
-              <div
-                className="row"
-              >
-                <div
-                  className="col-12"
-                  data-aos="fade-right"
-                >
-                  <p
-                    className="h1 text-light text-center font-weight-bold hero-title"
-                  >
-                    I
-                    <span
-                      className="hero-focus"
-                    >
-                      design
-                    </span>
-                    {' '}
-                    and
-                    <span
-                      className="hero-focus"
-                    >
-                      build
-                    </span>
-                    <br />
-                    {' '}
-                    modern websites
-                  </p>
-                </div>
-              </div>
-              <div
-                className="row"
-              >
-                <div
-                  className="col-12 mb-5"
-                  data-aos="fade-right"
-                >
-                  <p
-                    className="text-light text-center hero-subtitle"
-                  >
-                    Frontend web developer
-                  </p>
-                </div>
-              </div>
-              <div
-                className="row"
-              >
-                <div
-                  className="col text-center mb-5"
-                >
-                  <a
-                    href="contact.php"
-                  >
-                    <button
-                      id="hero-btn-1"
-                      className="text-center mb-3 mr-5"
-                      data-aos="fade-right"
-                    >
-                      Contact
-                    </button>
-                  </a>
-                  <a
-                    href="about.php"
-                  >
-                    <button
-                      id="hero-btn-2"
-                      className="text-center mr-3"
-                      data-aos="fade-right"
-                    >
-                      About
-                    </button>
-                  </a>
-                </div>
-              </div>
-            </div>
-          </div>
-        </div>
-      </section>
+	<section className="container-fluid">
+		<div className="row hero-container">
+			<div className="col-12">
+				<div className="col-8 mx-auto">
+					<div className="row">
+						<div className="col-12" data-aos="fade-right">
+							<p className="h1 text-light text-center font-weight-bold hero-title">I <span className="hero-focus">design</span> and <span className="hero-focus">build</span><br /> modern websites</p>
+						</div>
+					</div>
+					<div className="row">
+						<div className="col-12 mb-5" data-aos="fade-right">
+							<p className="text-light text-center hero-subtitle">Frontend web developer</p>
+						</div>
+					</div>
+					<div className="row">
+						<div className="col text-center mb-5">
+							<a href="contact.php">
+								<button id="hero-btn-1" className="text-center mb-3 mr-5" data-aos="fade-right">Contact</button>
+							</a>
+							<a href="about.php">
+								<button id="hero-btn-2" className="text-center mr-3" data-aos="fade-right">About</button>
+							</a>
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+</section>
       <section
         className="container"
       >
