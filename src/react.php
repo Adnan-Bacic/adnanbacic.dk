@@ -27,8 +27,8 @@
 
 			<hr class="mb-5 mt-5">
 
-			<div class="media">
-				<div class="media-body mr-3 m-0">
+			<div class="row">
+				<div class="col-lg-8">
 					<h5 class="mt-0">Weather app</h5>
 					<p>This was a simple React project to show the weather. It can show local weather and users can search for cities.</p>
 					<p>
@@ -50,18 +50,22 @@
 							</li>
 						</ul>
 				</div>
+				<div class="col-lg-4">
 				<a href="https://adnanbacic.dk/folders/react/weather-app/" target="_blank" rel="noopener noreferrer">
-					<img src="images/project-thumbnails/weather-app-thumbnail.png" width="300" height="500" class="align-self-start border" alt="weather app">
+					<img src="images/project-thumbnails/weather-app-thumbnail.png" class="img-fluid border" alt="weather app">
 				</a>
+				</div>
 			</div>
 
 			<hr class="mb-5 mt-5">
 
-			<div class="media">
-			<a href="https://adnanbacic.dk/folders/react/react-firebase-crud-login/" target="_blank" rel="noopener noreferrer">
-					<img src="images/project-thumbnails/react-firebase-crud-login-thumbnail.png" width="300" height="200" class="align-self-start mr-3 border" alt="react firebase crud login">
+			<div class="row">
+			<div class="col-lg-4">
+				<a href="https://adnanbacic.dk/folders/react/react-firebase-crud-login/" target="_blank" rel="noopener noreferrer">
+					<img src="images/project-thumbnails/react-firebase-crud-login-thumbnail.png" class="img-fluid border" alt="react firebase crud login">
 				</a>
-				<div class="media-body mr-3 m-0">
+			</div>
+				<div class="col-lg-8">
 					<h5 class="mt-0">Firebase CRUD and login</h5>
 					<p>A combination of React and Firebase. Allows for CRUD functionality and login.</p>
 					<p>

@@ -27,8 +27,8 @@
 
 			<hr class="mb-5 mt-5">
 
-			<div class="media">
-				<div class="media-body mr-3 m-0">
+			<div class="row">
+				<div class="col-lg-8">
 					<h5 class="mt-0">NIOMI</h5>
 					<p>
 					A health app where users can get infomation about various parts of their health. They can get infomation about categories such as gut health and brain health. They even get recommendations for their lifestyle and diet.
@@ -62,19 +62,23 @@
 								<span class="badge badge-primary">Redux</span>
 							</li>
 						</ul>
-				</div>
-				<a href="#" target="_blank" rel="noopener noreferrer">
-					<img src="images/project-thumbnails/niomi-thumbnail-image.png" width="300" height="500" class="align-self-start border" alt="niomi image">
+			</div>
+			<div class="col-lg-4">
+			<a href="#" target="_blank" rel="noopener noreferrer">
+					<img src="images/project-thumbnails/niomi-thumbnail-image.png" class="img-fluid border" alt="niomi image">
 				</a>
+			</div>
 			</div>
 
 			<hr class="mb-5 mt-5">
 
-			<div class="media">
-			<a href="#" target="_blank" rel="noopener noreferrer">
-					<img src="images/project-thumbnails/omnipod-thumbnail-image.png" width="300" height="500" class="align-self-start border mr-3" alt="omnipod image">
+			<div class="row">
+			<div class="col-lg-4">
+				<a href="#" target="_blank" rel="noopener noreferrer">
+					<img src="images/project-thumbnails/omnipod-thumbnail-image.png" class="img-fluid border mr-3" alt="omnipod image">
 				</a>
-				<div class="media-body mr-3 m-0">
+			</div>
+				<div class="col-lg-8">
 					<h5 class="mt-0">Omnipod</h5>
 					<p>
 					A podcasting app where users can upload and listen to podcasts. Acts as a social media where users can like, share and comment.

@@ -27,8 +27,8 @@
 
 			<hr class="mb-5 mt-3">
 			
-			<div class="media">
-			<div class="media-body mr-3 m-0">
+			<div class="row">
+			<div class="col-lg-8">
 					<h5 class="mt-0">Postit Board</h5>
 					<p>This was our first advanced PHP assignment. Here we implemented a login system with SQL. Users then have the option to create postits which will be shown on a wall and they may delete their own postits.</p>
 					<p>
@@ -53,18 +53,22 @@
 							</li>
 						</ul>
 				</div>
-				<a href="https://adnanbacic.dk/folders/php/postit/postitboard.php" target="_blank" rel="noopener noreferrer">
-					<img src="images/project-thumbnails/postit-board-thumbnail.png" width="300" height="200" class="align-self-start border" alt="PHP postitboard">
-				</a>
+				<div class="col-lg-4">
+					<a href="https://adnanbacic.dk/folders/php/postit/postitboard.php" target="_blank" rel="noopener noreferrer">
+						<img src="images/project-thumbnails/postit-board-thumbnail.png" class="img-fluid border" alt="PHP postitboard">
+					</a>
+				</div>
 			</div>
 
 			<hr class="mb-5 mt-5">
 			
-			<div class="media">
-			<a href="https://adnanbacic.dk/folders/php/politiker-tweet/" target="_blank" rel="noopener noreferrer">
-					<img src="images/project-thumbnails/politiker-tweet-thumbnail.png" width="300" height="200" class="align-self-start mr-3 border" alt="PHP politician twitter">
+			<div class="row">
+			<div class="col-lg-4">
+				<a href="https://adnanbacic.dk/folders/php/politiker-tweet/" target="_blank" rel="noopener noreferrer">
+					<img src="images/project-thumbnails/politiker-tweet-thumbnail.png" class="img-fluid border" alt="PHP politician twitter">
 				</a>
-				<div class="media-body mr-3 m-0">
+			</div>
+				<div class="col-lg-8">
 					<h5 class="mt-0">Twitter API</h5>
 					<p>In this assignment we had to work with an API. My group worked with the Twitter API. We made a websites centered around follow danish politics on Twitter. Here you can filter for specific party members and see the popular #dkpol hashtag on the page.</p>
 					<p>
@@ -90,8 +94,8 @@
 
 			<hr class="mb-5 mt-5">
 			
-			<div class="media">
-				<div class="media-body mr-3 m-0">
+			<div class="row">
+				<div class="col-lg-8">
 					<h5 class="mt-0">Learning platform</h5>
 					<p>This was a exam project in which we had to make a website for a company. My group chose to make a website for Sunset.<br>
 					This should serve as a online platform where they could teach their new employees the how to work there. Admin users could create categories and upload videos while non-admin users could only watch the videos. If they tried to acces the admin-only page it would tell them they cannot view that.<br>
@@ -122,20 +126,24 @@
 							</li>
 						</ul>
 				</div>
-				<a href="https://adnanbacic.dk/folders/php/sunset/" target="_blank" rel="noopener noreferrer">
-					<img src="images/project-thumbnails/sunset-thumbnail.png" width="300" height="200" class="align-self-start border" alt="learning platform">
-					<!--d-block to not be next to other image-->
-					<img src="images/project-thumbnails/sunset-thumbnail2.png" width="300" height="200" class="align-self-start d-block mt-3 mb-3 border" alt="learning platform">
-				</a>
+				<div class="col-lg-4">
+					<a href="https://adnanbacic.dk/folders/php/sunset/" target="_blank" rel="noopener noreferrer">
+						<img src="images/project-thumbnails/sunset-thumbnail.png" class="img-fluid border" alt="learning platform">
+						<!--d-block to not be next to other image-->
+						<img src="images/project-thumbnails/sunset-thumbnail2.png" class="img-fluid d-block mt-3 mb-3 border" alt="learning platform">
+					</a>
+				</div>
 			</div>
 
 			<hr class="mb-5 mt-5">
 
-			<div class="media">
-				<a href="https://adnanbacic.dk/folders/php/oopphp_webshop/index.php" target="_blank" rel="noopener noreferrer">
-					<img src="images/project-thumbnails/php-webshop-thumbnail.png" width="300" height="200" class="align-self-start mr-3 border" alt="PHP webshop">
-                </a>
-                <div class="media-body mr-3 m-0">
+			<div class="row">
+				<div class="col-lg-4">
+					<a href="https://adnanbacic.dk/folders/php/oopphp_webshop/index.php" target="_blank" rel="noopener noreferrer">
+						<img src="images/project-thumbnails/php-webshop-thumbnail.png" class="img-fluid border" alt="PHP webshop">
+					</a>
+				</div>
+                <div class="col-lg-8">
 					<h5 class="mt-0">PHP webshop</h5>
 					<p>This is a demo of a PHP webshop. Users can add items to their wishlist and admins can create, edit and delete items.</p>
 					<p>Users can also control if their wishlist is public or private.</p>

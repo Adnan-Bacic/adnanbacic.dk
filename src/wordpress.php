@@ -27,8 +27,8 @@
 
 			<hr class="mb-5 mt-3">
 
-			<div class="media">
-				<div class="media-body mr-3 m-0">
+			<div class="row">
+				<div class="col-lg-8">
 					<h5 class="mt-0">League of Legends guide</h5>
 					<p>This was a simple project in which we made a League of Legends guide for beginners.<br>
 					This project was made with the popular Wordpress page builder - Elementor.</p>
@@ -51,18 +51,22 @@
 							</li>
 						</ul>
 				</div>
-				<a href="http://tobiasjackson.dk/lol/" target="_blank">
-					<img src="images/project-thumbnails/lolguide-thumbnail.png" width="300" height="200" class="align-self-start border" alt="league of legends guide">
-				</a>
+				<div class="col-lg-4">
+					<a href="http://tobiasjackson.dk/lol/" target="_blank">
+						<img src="images/project-thumbnails/lolguide-thumbnail.png" class="img-fluid border" alt="league of legends guide">
+					</a>
+				</div>
 			</div>
 
 			<hr class="mb-5 mt-5">
 
-			<div class="media">
-				<a href="http://adnanbacic.dk/folders/wordpress/webshop/" target="_blank">
-						<img src="images/project-thumbnails/webshop-thumbnail.png" width="300" height="200" class="align-self-start mr-3 border" alt="wordpress webshop">
+			<div class="row">
+				<div class="col-lg-4">
+					<a href="http://adnanbacic.dk/folders/wordpress/webshop/" target="_blank">
+						<img src="images/project-thumbnails/webshop-thumbnail.png" class="img-fluid border" alt="wordpress webshop">
 					</a>
-				<div class="media-body mr-3 m-0">
+				</div>
+				<div class="col-lg-8">
 					<h5 class="mt-0">Webshop</h5>
 					<p>This was a project where we had to learn how to make a webshop in Wordpress. I added some items which have categories, different sizes and prices.
 					<br>Made with the Woocommerce plugin.</p>

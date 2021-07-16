@@ -27,8 +27,8 @@
 
 			<hr class="mb-5 mt-5">
 
-			<div class="media">
-				<div class="media-body mr-3 m-0">
+			<div class="row">
+				<div class="col-lg-8">
 					<h5 class="mt-0">Angular portfolio</h5>
 					<p>This was a simple Angular project to learn the basics. This website was made with Angular 6 and Bootstrap.</p>
 					<p>
@@ -50,9 +50,11 @@
 							</li>
 						</ul>
 				</div>
-				<a href="https://adnanbacic.dk/folders/angular/angular-portfolio/#/home" target="_blank" rel="noopener noreferrer">
-					<img src="images/project-thumbnails/angular-portfolio-thumbnail.png" width="300" height="200" class="align-self-start border" alt="angular portfolio">
-				</a>
+				<div class="col-lg-4">
+					<a href="https://adnanbacic.dk/folders/angular/angular-portfolio/#/home" target="_blank" rel="noopener noreferrer">
+						<img src="images/project-thumbnails/angular-portfolio-thumbnail.png" class="img-fluid border" alt="angular portfolio">
+					</a>
+				</div>
 			</div>
 
 			<hr class="mb-5 mt-5">
