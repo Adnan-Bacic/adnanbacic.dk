@@ -30,12 +30,13 @@ const Home = () => {
                       className="hero-focus"
                     >
                       design
-</span>
+                    </span>
                     {' '}
                     and
                     <span
                       className="hero-focus"
-                    >build
+                    >
+                      build
                     </span>
                     <br />
                     {' '}
@@ -72,7 +73,7 @@ const Home = () => {
                       data-aos="fade-right"
                     >
                       Contact
-</button>
+                    </button>
                   </a>
                   <a
                     href="about.php"
@@ -83,7 +84,7 @@ const Home = () => {
                       data-aos="fade-right"
                     >
                       About
-</button>
+                    </button>
                   </a>
                 </div>
               </div>

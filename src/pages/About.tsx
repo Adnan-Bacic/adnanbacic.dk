@@ -126,13 +126,13 @@ const About = () => {
                   <h3
                     className="mt-0"
                   >
-              HTML5
+                    HTML5
                   </h3>
                   <p>
                     HTML is the markup language of the web, with the current version being HTML5.
-              <br />
+                    <br />
                     I have experience working with HTML5 and the tools it contains.
-            </p>
+                  </p>
                 </div>
               </div>
               <div
@@ -149,13 +149,13 @@ const About = () => {
                   <h3
                     className="mt-0"
                   >
-              CSS3
+                    CSS3
                   </h3>
                   <p>
                     CSS is the style language of the web, with the current version being CSS3.
-              <br />
+                    <br />
                     In CSS3 i have experience with styling websites and layout.
-            </p>
+                  </p>
                 </div>
               </div>
               <div
@@ -172,13 +172,13 @@ const About = () => {
                   <h3
                     className="mt-0"
                   >
-              Bootstrap 4+
+                    Bootstrap 4+
                   </h3>
                   <p>
                     Bootstrap frontend framework designed to help developments of websites.
-              <br />
+                    <br />
                     I have a lot of experience working with Bootstrap in developing websites.
-            </p>
+                  </p>
                 </div>
               </div>
               <div
@@ -195,13 +195,13 @@ const About = () => {
                   <h3
                     className="mt-0"
                   >
-              SCSS
+                    SCSS
                   </h3>
                   <p>
                     SCSS is advanced styling of websites used to speed up a work procces and reduce repetitive tasks.
-              <br />
+                    <br />
                     In SCSS i have experience speeding up my work procces.
-            </p>
+                  </p>
                 </div>
               </div>
             </div>
@@ -307,13 +307,13 @@ const About = () => {
                   <h3
                     className="mt-0"
                   >
-              Firebase
+                    Firebase
                   </h3>
                   <p>
                     Firebase is a database system developed by Google.
-              <br />
+                    <br />
                     I have experience combining React with Firebase to create interactive applications.
-            </p>
+                  </p>
                 </div>
               </div>
             </div>
@@ -359,13 +359,13 @@ const About = () => {
                   <h3
                     className="mt-0"
                   >
-              Firebase
+                    Firebase
                   </h3>
                   <p>
                     Firebase is a database system developed by Google.
-              <br />
+                    <br />
                     I have experience combining React Native with Firebase to create interactive applications.
-            </p>
+                  </p>
                 </div>
               </div>
               <div
@@ -382,13 +382,13 @@ const About = () => {
                   <h3
                     className="mt-0"
                   >
-              Expo CLI
+                    Expo CLI
                   </h3>
                   <p>
                     Expo CLI is an alternative to the React Native CLI for creating and developing React Native apps.
-              <br />
+                    <br />
                     I have experience working the Expo CLi for creating React Native apps.
-            </p>
+                  </p>
                 </div>
               </div>
             </div>
@@ -437,13 +437,13 @@ const About = () => {
                   <h3
                     className="mt-0"
                   >
-              SQL
+                    SQL
                   </h3>
                   <p>
                     SQL is a very popular database system.
-              <br />
+                    <br />
                     I have experience combining PHP with SQL to create interactive sites.
-            </p>
+                  </p>
                 </div>
               </div>
             </div>
@@ -631,13 +631,13 @@ const About = () => {
                   <h3
                     className="mt-0"
                   >
-              Github
+                    Github
                   </h3>
                   <p>
                     Github is an online code sharing platform which utalizes Git.
-              <br />
+                    <br />
                     I have experience using Github in combination with Git to create branches, pull requests etc.
-            </p>
+                  </p>
                 </div>
               </div>
             </div>

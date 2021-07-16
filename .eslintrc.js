@@ -4,11 +4,17 @@ module.exports = {
     es2021: true,
   },
   extends: [
-    'plugin:react/recommended',
+    'eslint:recommended',
     'airbnb',
-    'airbnb/hooks',
-    'plugin:react-hooks/recommended',
     'airbnb-typescript',
+    'airbnb/hooks',
+    'plugin:react/recommended',
+    'plugin:react-hooks/recommended',
+    'plugin:@typescript-eslint/recommended',
+    'plugin:jsx-a11y/recommended',
+    'plugin:import/recommended',
+    'plugin:import/typescript',
+
   ],
   parser: '@typescript-eslint/parser',
   parserOptions: {
@@ -20,9 +26,6 @@ module.exports = {
     project: './tsconfig.eslint.json',
   },
   plugins: [
-    'react',
-    '@typescript-eslint',
-    'react-hooks',
     //makes all errors as warnings. to avoid project not running when theres minor errors
     "only-warn",
   ],
