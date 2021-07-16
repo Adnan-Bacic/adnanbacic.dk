@@ -1,0 +1,88 @@
+#hero-btn-1{
+	@include hero-btn-base;
+	background-color: $primary;
+	border-color: $primary;
+	&:hover{
+		border-color: transparent;
+		background-color: $primaryHover;
+	}
+}
+
+#hero-btn-2{
+	@include hero-btn-base;
+	background-color: transparent;
+	border-color: $primary;
+	&:hover{
+		border-color: transparent;
+		background-color: $primaryHover;
+	}
+}
+
+.btn-main{
+	background-color: $primary;
+	color: white;
+	border-style: none;
+	border-radius: 5px;
+	padding: 20px 70px 20px 70px;
+	font-weight: bold;
+	display: block;
+	font-size: 20px;
+	margin: auto;
+	margin-top: 20px;
+	width: 100%;
+
+	transition: $transition;
+	&:hover{
+		background-color: $primaryHover;
+	}
+}
+
+//bootstrap button
+.btn, .btn-primary{
+	background-color: $primary;
+	border-color: $primary;
+	&:hover{
+		background-color: $primaryHover;
+		border-color: $primaryHover;
+	}
+	&:active{
+		background-color: $primaryHover!important;
+	}
+}
+
+//scroll to top btn
+#button {
+  display: inline-block;
+  background-color: $primary;
+  width: 50px;
+  height: 50px;
+  text-align: center;
+  border-radius: 4px;
+  position: fixed;
+  bottom: 30px;
+  right: 30px;
+  transition: background-color .3s, 
+    opacity .5s, visibility .5s;
+  opacity: 0;
+  visibility: hidden;
+  z-index: 1000;
+	&:hover{
+		cursor: pointer;
+  background-color: $primaryHover;
+	}
+}
+
+#button::after {
+  content: "\f077";
+  font-family: FontAwesome;
+  font-weight: normal;
+  font-style: normal;
+  font-size: 2em;
+  line-height: 50px;
+  color: #fff;
+}
+
+#button.show {
+  opacity: 1;
+  visibility: visible;
+}

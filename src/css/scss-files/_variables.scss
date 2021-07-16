@@ -1,0 +1,15 @@
+//color links and buttons
+//#2ac962 - green
+//#FF9800 - orange
+//#2a8fc9 - blue
+$primary: #2a8fc9;
+$primaryHover: darken($primary, 20%);
+
+$secondary: #ffa622;
+$secondaryHover: darken($secondary, 20%);
+
+//google recommended  dark theme color
+$dark: #121212;
+
+//transition time on link/button hover
+$transition: 0.25s;
