@@ -14,7 +14,7 @@
 		<div class="col-xl-12 mx-auto">
 			<div class="row pt-5">
 				<div class="col-12">
-					<i class="fab fa-react customFA align-self-start mb-5" title="React"></i>
+					<i class="fab fa-react customFA text-sm-center mb-5" title="React"></i>
 				</div>
 			</div>
 
@@ -29,7 +29,7 @@
 
 			<div class="row">
 				<div class="col-lg-8">
-					<h5 class="mt-0">Weather app</h5>
+					<h5>Weather app</h5>
 					<p>This was a simple React project to show the weather. It can show local weather and users can search for cities.</p>
 					<p>
 						<a class="link" href="https://adnanbacic.dk/folders/react/weather-app/" target="_blank" rel="noopener noreferrer"><i class="fas fa-desktop mr-1"></i>See project</a>
@@ -38,7 +38,7 @@
 						<a class="link" href="https://github.com/Adnan-Bacic/weather-app" target="_blank" rel="noopener noreferrer"><i class="fab fa-github mr-1"></i>Github link</a>
 					</p>
 					<h6>Main technologies used:</h6>
-						<ul>
+						<ul class="list-unstyled">
 							<li>
 								<span class="badge badge-primary">HTML</span>
 							</li>
@@ -66,7 +66,7 @@
 				</a>
 			</div>
 				<div class="col-lg-8">
-					<h5 class="mt-0">Firebase CRUD and login</h5>
+					<h5>Firebase CRUD and login</h5>
 					<p>A combination of React and Firebase. Allows for CRUD functionality and login.</p>
 					<p>
 						<a class="link" href="https://adnanbacic.dk/folders/react/react-firebase-crud-login/" target="_blank" rel="noopener noreferrer"><i class="fas fa-desktop mr-1"></i>See project</a>
@@ -75,7 +75,7 @@
 						<a class="link" href="https://github.com/Adnan-Bacic/react-firebase-crud-login" target="_blank" rel="noopener noreferrer"><i class="fab fa-github mr-1"></i>Github link</a>
 					</p>
 					<h6>Main technologies used:</h6>
-						<ul>
+						<ul class="list-unstyled">
 							<li>
 								<span class="badge badge-primary">HTML</span>
 							</li>

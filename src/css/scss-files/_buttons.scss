@@ -37,19 +37,6 @@
 	}
 }
 
-//bootstrap button
-.btn, .btn-primary{
-	background-color: $primary;
-	border-color: $primary;
-	&:hover{
-		background-color: $primaryHover;
-		border-color: $primaryHover;
-	}
-	&:active{
-		background-color: $primaryHover!important;
-	}
-}
-
 //scroll to top btn
 #button {
   display: inline-block;

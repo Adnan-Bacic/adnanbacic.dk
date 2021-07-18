@@ -29,7 +29,7 @@
 
 			<div class="row">
 				<div class="col-lg-8">
-					<h5 class="mt-0">League of Legends guide</h5>
+					<h5>League of Legends guide</h5>
 					<p>This was a simple project in which we made a League of Legends guide for beginners.<br>
 					This project was made with the popular Wordpress page builder - Elementor.</p>
 					<p>
@@ -39,7 +39,7 @@
 						<a class="link" href="#" target="_blank" rel="noopener noreferrer"><i class="fab fa-github mr-1"></i>Github link</a>
 					</p>
 					<h6>Main technologies used:</h6>
-						<ul>
+						<ul class="list-unstyled">
 							<li>
 								<span class="badge badge-primary">HTML</span>
 							</li>
@@ -67,7 +67,7 @@
 					</a>
 				</div>
 				<div class="col-lg-8">
-					<h5 class="mt-0">Webshop</h5>
+					<h5>Webshop</h5>
 					<p>This was a project where we had to learn how to make a webshop in Wordpress. I added some items which have categories, different sizes and prices.
 					<br>Made with the Woocommerce plugin.</p>
 					<p>
@@ -77,7 +77,7 @@
 						<a class="link" href="https://github.com/Adnan-Bacic/webshop" target="_blank" rel="noopener noreferrer"><i class="fab fa-github mr-1"></i>Github link</a>
 					</p>
 					<h6>Main technologies used:</h6>
-						<ul>
+						<ul class="list-unstyled">
 							<li>
 								<span class="badge badge-primary">HTML</span>
 							</li>

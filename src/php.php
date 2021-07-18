@@ -29,7 +29,7 @@
 			
 			<div class="row">
 			<div class="col-lg-8">
-					<h5 class="mt-0">Postit Board</h5>
+					<h5>Postit Board</h5>
 					<p>This was our first advanced PHP assignment. Here we implemented a login system with SQL. Users then have the option to create postits which will be shown on a wall and they may delete their own postits.</p>
 					<p>
 						<a class="link" href="https://adnanbacic.dk/folders/php/postit/postitboard.php" target="_blank" rel="noopener noreferrer"><i class="fas fa-desktop mr-1"></i>See project</a>
@@ -38,7 +38,7 @@
 						<a class="link" href="https://github.com/Adnan-Bacic/postit" target="_blank" rel="noopener noreferrer"><i class="fab fa-github mr-1"></i>Github link</a>
 					</p>
 					<h6>Main technologies used:</h6>
-						<ul>
+						<ul class="list-unstyled">
 							<li>
 								<span class="badge badge-primary">HTML</span>
 							</li>
@@ -69,7 +69,7 @@
 				</a>
 			</div>
 				<div class="col-lg-8">
-					<h5 class="mt-0">Twitter API</h5>
+					<h5>Twitter API</h5>
 					<p>In this assignment we had to work with an API. My group worked with the Twitter API. We made a websites centered around follow danish politics on Twitter. Here you can filter for specific party members and see the popular #dkpol hashtag on the page.</p>
 					<p>
 						<a class="link" href="https://adnanbacic.dk/folders/php/politiker-tweet/" target="_blank" rel="noopener noreferrer"><i class="fas fa-desktop mr-1"></i>See project</a>
@@ -78,7 +78,7 @@
 						<a class="link" href="https://github.com/Adnan-Bacic/twitter-api" target="_blank" rel="noopener noreferrer"><i class="fab fa-github mr-1"></i>Github link</a>
 					</p>
 					<h6>Main technologies used:</h6>
-						<ul>
+						<ul class="list-unstyled">
 							<li>
 								<span class="badge badge-primary">HTML</span>
 							</li>
@@ -96,7 +96,7 @@
 			
 			<div class="row">
 				<div class="col-lg-8">
-					<h5 class="mt-0">Learning platform</h5>
+					<h5>Learning platform</h5>
 					<p>This was a exam project in which we had to make a website for a company. My group chose to make a website for Sunset.<br>
 					This should serve as a online platform where they could teach their new employees the how to work there. Admin users could create categories and upload videos while non-admin users could only watch the videos. If they tried to acces the admin-only page it would tell them they cannot view that.<br>
 					This website is also supposed to be for employees only so you cannot see it unless you are login in.</p>
@@ -111,7 +111,7 @@
 						<a class="link" href="https://github.com/Adnan-Bacic/3sem-eksamen" target="_blank" rel="noopener noreferrer"><i class="fab fa-github mr-1"></i>Github link</a>
 					</p>
 					<h6>Main technologies used:</h6>
-						<ul>
+						<ul class="list-unstyled">
 							<li>
 								<span class="badge badge-primary">HTML</span>
 							</li>
@@ -144,7 +144,7 @@
 					</a>
 				</div>
                 <div class="col-lg-8">
-					<h5 class="mt-0">PHP webshop</h5>
+					<h5>PHP webshop</h5>
 					<p>This is a demo of a PHP webshop. Users can add items to their wishlist and admins can create, edit and delete items.</p>
 					<p>Users can also control if their wishlist is public or private.</p>
 					<p>There is no option to actually buy, hence why it is a demo.</p>
@@ -155,7 +155,7 @@
 						<a class="link" href="https://github.com/Adnan-Bacic/php_object_oriented_webshop" target="_blank" rel="noopener noreferrer"><i class="fab fa-github mr-1"></i>Github link</a>
 					</p>
 					<h6>Main technologies used:</h6>
-						<ul>
+						<ul class="list-unstyled">
 							<li>
 								<span class="badge badge-primary">HTML</span>
 							</li>

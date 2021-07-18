@@ -1,3 +1,4 @@
+@charset "UTF-8";
 * {
   margin: 0;
   padding: 0;
@@ -8,19 +9,13 @@ html {
 }
 
 body {
-  font-family: 'Roboto', 'verdana', 'helvetica', 'arial', sans-serif;
+  font-family: "Roboto", "verdana", "helvetica", "arial", sans-serif;
   line-height: 1.5;
   background-color: #fff;
 }
 
-ul {
-  list-style-type: none;
-}
-
 .hero-container {
   background-image: -webkit-gradient(linear, left top, left bottom, from(rgba(0, 0, 0, 0.8)), to(rgba(0, 0, 0, 0.8))), url("../images/hero.jpg");
-  background-image: -webkit-linear-gradient(rgba(0, 0, 0, 0.8), rgba(0, 0, 0, 0.8)), url("../images/hero.jpg");
-  background-image: -o-linear-gradient(rgba(0, 0, 0, 0.8), rgba(0, 0, 0, 0.8)), url("../images/hero.jpg");
   background-image: linear-gradient(rgba(0, 0, 0, 0.8), rgba(0, 0, 0, 0.8)), url("../images/hero.jpg");
   min-height: 500px;
   background-size: cover;
@@ -29,14 +24,11 @@ ul {
 
 .navbar-dark, .navbar-toggler {
   -webkit-transition: 0.25s;
-  -o-transition: 0.25s;
   transition: 0.25s;
 }
-
 .navbar-dark:hover, .navbar-toggler:hover {
   border-color: white;
 }
-
 .navbar-dark:focus, .navbar-toggler:focus {
   outline: white;
 }
@@ -49,10 +41,8 @@ ul {
   font-size: 200px;
   color: #212529;
   -webkit-transition: 0.25s;
-  -o-transition: 0.25s;
   transition: 0.25s;
 }
-
 .customFA:hover {
   color: #17191c;
 }
@@ -61,17 +51,14 @@ ul {
   font-size: 100px;
   color: #212529;
   -webkit-transition: 0.25s;
-  -o-transition: 0.25s;
   transition: 0.25s;
 }
-
 .customFAsmaller:hover {
   color: #17191c;
 }
 
 #hero-btn-1 {
   -webkit-transition: 0.25s;
-  -o-transition: 0.25s;
   transition: 0.25s;
   color: white;
   border-radius: 20px;
@@ -83,7 +70,6 @@ ul {
   background-color: #2a8fc9;
   border-color: #2a8fc9;
 }
-
 #hero-btn-1:hover {
   border-color: transparent;
   background-color: #185375;
@@ -91,7 +77,6 @@ ul {
 
 #hero-btn-2 {
   -webkit-transition: 0.25s;
-  -o-transition: 0.25s;
   transition: 0.25s;
   color: white;
   border-radius: 20px;
@@ -103,7 +88,6 @@ ul {
   background-color: transparent;
   border-color: #2a8fc9;
 }
-
 #hero-btn-2:hover {
   border-color: transparent;
   background-color: #185375;
@@ -122,26 +106,10 @@ ul {
   margin-top: 20px;
   width: 100%;
   -webkit-transition: 0.25s;
-  -o-transition: 0.25s;
   transition: 0.25s;
 }
-
 .btn-main:hover {
   background-color: #185375;
-}
-
-.btn, .btn-primary {
-  background-color: #2a8fc9;
-  border-color: #2a8fc9;
-}
-
-.btn:hover, .btn-primary:hover {
-  background-color: #185375;
-  border-color: #185375;
-}
-
-.btn:active, .btn-primary:active {
-  background-color: #185375 !important;
 }
 
 #button {
@@ -154,21 +122,19 @@ ul {
   position: fixed;
   bottom: 30px;
   right: 30px;
-  -webkit-transition: background-color .3s,  opacity .5s, visibility .5s;
-  -o-transition: background-color .3s,  opacity .5s, visibility .5s;
-  transition: background-color .3s,  opacity .5s, visibility .5s;
+  -webkit-transition: background-color 0.3s, opacity 0.5s, visibility 0.5s;
+  transition: background-color 0.3s, opacity 0.5s, visibility 0.5s;
   opacity: 0;
   visibility: hidden;
   z-index: 1000;
 }
-
 #button:hover {
   cursor: pointer;
   background-color: #185375;
 }
 
 #button::after {
-  content: "\f077";
+  content: "";
   font-family: FontAwesome;
   font-weight: normal;
   font-style: normal;
@@ -198,10 +164,8 @@ a {
   color: #2a8fc9;
   text-decoration: none;
   -webkit-transition: 0.25s;
-  -o-transition: 0.25s;
   transition: 0.25s;
 }
-
 .link:hover {
   color: #185375;
   text-decoration: none;
@@ -244,42 +208,48 @@ p {
   font-weight: bold;
 }
 
-/*Responsive for mobile begin*/
 @media screen and (max-width: 480px) {
   .media {
     display: block;
   }
+
   .align-self-start {
     display: block;
     margin-right: auto !important;
     margin: 0 auto;
     margin-bottom: 10px;
   }
+
   h1 {
     font-size: 35px;
   }
+
   h2 {
     font-size: 30px;
   }
+
   h3 {
     font-size: 25px;
   }
+
   .hero-container {
     min-height: 360px;
   }
+
   .hero-btn-1 {
     margin-bottom: 10px;
   }
+
   .hero-title {
     margin-top: 25px;
     font-size: 30px;
   }
+
   .hero-subtitle {
     font-size: 15px;
   }
+
   .customFA {
     text-align: center;
   }
 }
-
-/*Responsive mobile end*/

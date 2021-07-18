@@ -13,8 +13,12 @@
 	<main role="main">
 		<div class="col-xl-12 mx-auto">
 			<div class="row pt-5">
-				<div class="col-12">
+				<div class="col-6">
 					<i class="fab fa-js-square customFA align-self-start mb-5" title="Javascript"></i>
+				</div>
+				<div class="col-6 mt-3">
+					<h1>Javascript</h1>
+					<p>Projects made with Javascript</p>
 				</div>
 			</div>
 
@@ -27,11 +31,9 @@
 
 			<hr class="mb-5 mt-5">
 
-				
-					
 			<div class="row">
 				<div class="col-lg-8">
-						<h5 class="mt-0">BMI Calculator</h5>
+						<h5>BMI Calculator</h5>
 						<p>A simple BMI caluculator.</p>
 						<p>
 							<a class="link" href="https://adnanbacic.dk/folders/javascript/bmi-calculator/" target="_blank" rel="noopener noreferrer"><i class="fas fa-desktop mr-1"></i>See project</a>
@@ -40,7 +42,7 @@
 							<a class="link" href="https://github.com/Adnan-Bacic/bmi-calculator" target="_blank" rel="noopener noreferrer"><i class="fab fa-github mr-1"></i>Github link</a>
 						</p>
 						<h6>Main technologies used:</h6>
-							<ul>
+							<ul class="list-unstyled">
 								<li>
 									<span class="badge badge-primary">HTML</span>
 								</li>
@@ -67,7 +69,7 @@
 					</a>
 				</div>
 				<div class="col-lg-8">
-						<h5 class="mt-0">Crypto API</h5>
+						<h5>Crypto API</h5>
 						<p>This was a project for fetching data from an API with javascript.</p>
 						<p>It can show the value of Bitcoin, danish krone, all currencies or search for a specific currency.</p>
 						<p>
@@ -77,7 +79,7 @@
 							<a class="link" href="https://github.com/Adnan-Bacic/crypto-api" target="_blank" rel="noopener noreferrer"><i class="fab fa-github mr-1"></i>Github link</a>
 						</p>
 						<h6>Main technologies used:</h6>
-							<ul>
+							<ul class="list-unstyled">
 								<li>
 									<span class="badge badge-primary">HTML</span>
 								</li>
@@ -95,7 +97,7 @@
 
 			<div class="row">
 				<div class="col-lg-8">
-					<h5 class="mt-0">Shopping list</h5>
+					<h5>Shopping list</h5>
 					<p>A Javascript based shopping list using localstorage</p>
 					<p>You can add items to your shopping list as well as the quantity. Then remove them indiviually or all at once.</p>
 					<p>
@@ -105,7 +107,7 @@
 						<a class="link" href="https://github.com/Adnan-Bacic/shopping-list" target="_blank" rel="noopener noreferrer"><i class="fab fa-github mr-1"></i>Github link</a>
 					</p>
 					<h6>Main technologies used:</h6>
-						<ul>
+						<ul class="list-unstyled">
 							<li>
 								<span class="badge badge-primary">HTML</span>
 							</li>

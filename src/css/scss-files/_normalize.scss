@@ -11,11 +11,6 @@ body{
 	background-color: #fff;
 }
 
-//removes dots from unordered list - footer
-ul {
-  list-style-type: none;
-}
-
 .hero-container{
 	background-image: linear-gradient( rgba(0, 0, 0, 0.8), rgba(0, 0, 0, 0.8) ), url("../images/hero.jpg"); //Photo by Ilya Pavlov on Unsplash - https://unsplash.com/photos/OqtafYT5kTw
 	min-height: 500px;
@@ -29,9 +24,9 @@ ul {
 	&:hover{
 		border-color: white;
 	}
-	//i dont know why, but without the :focus it doesnt work
+	//without the :focus it doesnt work
 	//even though it takes the value from :hover
-	//:hover must be border-color and :focus must bne outline
+	//:hover must be border-color and :focus must btn outline
 	&:focus{
 		outline: white;
 	}

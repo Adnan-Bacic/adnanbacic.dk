@@ -2,7 +2,7 @@
 	<div class="container-fluid text-white">
 		<div class="row pb-3 pt-5">
 			<div class="col-xl-4 col-md-4 col-sm-12">
-				<ul>
+				<ul class="list-unstyled">
 					<li>Adnan Bacic</li>
 					<li>ab-one@adnanbacic.dk</li>
 					<li><a class="link" href="https://github.com/Adnan-Bacic" target="_blank" rel="noopener noreferrer">Github account</a></li>
@@ -10,7 +10,7 @@
 				</ul>  
 			</div>
 		<div class="col-xl-4 col-md-4 col-sm-12">	
-			<ul>
+			<ul class="list-unstyled">
 				<li><a class="link" href="javascript.php">Javascript</a></li>
 				<li><a class="link" href="vue.php">Vue</a></li>
 				<li><a class="link" href="react.php">React</a></li>
@@ -22,7 +22,7 @@
 			</ul> 
 		</div>
 		<div class="col-xl-4 col-md-4 col-sm-12">
-			<ul>
+			<ul class="list-unstyled">
 				<li><a class="link" href="index.php">Home</a></li>
 				<li><a class="link" href="about.php">About</a></li>
 				<li><a class="link" href="contact.php">Contact</a></li>

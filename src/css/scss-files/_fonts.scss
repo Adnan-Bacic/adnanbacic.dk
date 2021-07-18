@@ -11,7 +11,7 @@ a {
 	}
 }
 */
-//custom class for links. fontawesome icons are links so styling on the a tag affect them aswell
+//custom class for links. fontawesome icons are links so styling on the <a> tag affect them aswell
 .link{
 	color: $primary;
 	text-decoration: none;
@@ -20,11 +20,6 @@ a {
 		color: $primaryHover;
 		text-decoration: none;
 	}
-}
-
-//footer links
-footer > .col-12 > .col-xl-4 > p > a{
-	
 }
 
 .hero-title{

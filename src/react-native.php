@@ -29,7 +29,7 @@
 
 			<div class="row">
 				<div class="col-lg-8">
-					<h5 class="mt-0">NIOMI</h5>
+					<h5>NIOMI</h5>
 					<p>
 					A health app where users can get infomation about various parts of their health. They can get infomation about categories such as gut health and brain health. They even get recommendations for their lifestyle and diet.
 					</p>
@@ -54,7 +54,7 @@
 						<a class="link" href="#" target="_blank" rel="noopener noreferrer"><i class="fab fa-github mr-1"></i>No Github link as this is a private repository.</a>
 					</p>
 					<h6>Main technologies used:</h6>
-						<ul>
+						<ul class="list-unstyled">
 							<li>
 								<span class="badge badge-primary">React Native</span>
 							</li>
@@ -79,7 +79,7 @@
 				</a>
 			</div>
 				<div class="col-lg-8">
-					<h5 class="mt-0">Omnipod</h5>
+					<h5>Omnipod</h5>
 					<p>
 					A podcasting app where users can upload and listen to podcasts. Acts as a social media where users can like, share and comment.
 					</p>
@@ -96,7 +96,7 @@
 						<a class="link" href="#" target="_blank" rel="noopener noreferrer"><i class="fab fa-github mr-1"></i>No Github link as this is a private repository.</a>
 					</p>
 					<h6>Main technologies used:</h6>
-						<ul>
+						<ul class="list-unstyled">
 							<li>
 								<span class="badge badge-primary">React Native</span>
 							</li>

@@ -29,7 +29,7 @@
 
 			<div class="row">
 				<div class="col-lg-8">
-					<h5 class="mt-0">Angular portfolio</h5>
+					<h5>Angular portfolio</h5>
 					<p>This was a simple Angular project to learn the basics. This website was made with Angular 6 and Bootstrap.</p>
 					<p>
 						<a class="link" href="https://adnanbacic.dk/folders/angular/angular-portfolio/#/home" target="_blank" rel="noopener noreferrer"><i class="fas fa-desktop mr-1"></i>See project</a>
@@ -38,7 +38,7 @@
 						<a class="link" href="https://github.com/Adnan-Bacic/angular-portfolio" target="_blank" rel="noopener noreferrer"><i class="fab fa-github mr-1"></i>Github link</a>
 					</p>
 					<h6>Main technologies used:</h6>
-						<ul>
+						<ul class="list-unstyled">
 							<li>
 								<span class="badge badge-primary">HTML</span>
 							</li>

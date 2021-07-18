@@ -1,6 +1,6 @@
 //Go back to last page
-let backbtn = document.querySelector('#backbtn');
+const backbtn = document.querySelector('#backbtn');
 
-backbtn.addEventListener('click', () => {
+backbtn?.addEventListener('click', () => {
     window.history.back();
 });

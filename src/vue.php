@@ -29,7 +29,7 @@
 
 			<div class="row">
 				<div class="col-lg-8">
-				<h5 class="mt-0">Ninja smoothies CRUD</h5>
+				<h5>Ninja smoothies CRUD</h5>
 					<p>This is a Vue and Firebase CRUD project. It is possible to Create, Read, Update and Delete smoothies.
                         <br>All the data of the smoothies is stored in firebase and displayed with Vue</p>
 					<p>
@@ -39,7 +39,7 @@
 						<a class="link" href="https://github.com/Adnan-Bacic/ninja-smoothies" target="_blank" rel="noopener noreferrer"><i class="fab fa-github mr-1"></i>Github link</a>
 					</p>
 					<h6>Main technologies used:</h6>
-						<ul>
+						<ul class="list-unstyled">
 							<li>
 								<span class="badge badge-primary">HTML</span>
 							</li>
@@ -72,7 +72,7 @@
 				</a>
 				</div>
 				<div class="col-lg-8">
-				<h5 class="mt-0">Products CRUD, login and live chat</h5>
+				<h5>Products CRUD, login and live chat</h5>
 					<p>In this project it is possible to CRUD aswell as having a live chat, which can only be entered if you first enter a name from the products page. You can also create and account and see other users.
 					<p>
 						<a class="link" href="https://adnanbacic.dk/folders/vue/vue_product_chat_login/#/" target="_blank" rel="noopener noreferrer"><i class="fas fa-desktop mr-1"></i>See project</a>
@@ -81,7 +81,7 @@
 						<a class="link" href="https://github.com/Adnan-Bacic/products-firebaseV1.3" target="_blank" rel="noopener noreferrer"><i class="fab fa-github mr-1"></i>Github link</a>
 					</p>
 					<h6>Main technologies used:</h6>
-						<ul>
+						<ul class="list-unstyled">
 							<li>
 								<span class="badge badge-primary">HTML</span>
 							</li>
@@ -102,7 +102,7 @@
 
 			<div class="row">
 				<div class="col-lg-8">
-				<h5 class="mt-0">Google maps API</h5>
+				<h5>Google maps API</h5>
 					<p>Using Google Maps api togehter with firebase authentication, users who sign in will have their location saved and shown on the map.</p>
 					<p>
 						<a class="link" href="https://adnanbacic.dk/folders/vue/vue_geo_ninjas/#/" target="_blank" rel="noopener noreferrer"><i class="fas fa-desktop mr-1"></i>See project</a>
@@ -111,7 +111,7 @@
 						<a class="link" href="https://github.com/Adnan-Bacic/geo-ninjas" target="_blank" rel="noopener noreferrer"><i class="fab fa-github mr-1"></i>Github link</a>
 					</p>
 					<h6>Main technologies used:</h6>
-						<ul>
+						<ul class="list-unstyled">
 							<li>
 								<span class="badge badge-primary">HTML</span>
 							</li>
@@ -142,7 +142,7 @@
 				</a>
 				</div>
 				<div class="col-lg-8">
-				<h5 class="mt-0">Nordisk Musculupati</h5>
+				<h5>Nordisk Musculupati</h5>
 					<p>This was a project for a client who offers massage. This client needed their first website since they had just recently opened their own shop.
 					<br>My tasks were design, development and SEO.</p>
 					<p>Since this project needed SEO, i used Nuxt, which is a Vue framework. Nuxt allowed for server-side-rendering to add SEO while working with Vue</p>
@@ -153,7 +153,7 @@
 						<a class="link" href="https://github.com/Adnan-Bacic/nordiskmusculupati.dk" target="_blank" rel="noopener noreferrer"><i class="fab fa-github mr-1"></i>Github link</a>
 					</p>
 					<h6>Main technologies used:</h6>
-						<ul>
+						<ul class="list-unstyled">
 							<li>
 								<span class="badge badge-primary">HTML</span>
 							</li>
