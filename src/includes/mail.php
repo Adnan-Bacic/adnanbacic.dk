@@ -31,7 +31,7 @@ if(isset($_POST['submit'])){
                 $_SESSION['mail-feedback'] = '<h2 class="col-12 text-center text-success">Thank you! Your mail has been sent.</h2>';
             }
 
-            header('location: contact.php');
+            header('location: index.php#contact');
             exit();
         }
     }
