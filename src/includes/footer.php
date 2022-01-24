@@ -1,7 +1,7 @@
 <footer class="bg-dark text-center">
 	<div class="container-fluid text-white">
 		<div class="row pb-3 pt-5">
-			<div class="col-xl-4 col-md-4 col-sm-12">
+			<div class="col-xl-6 col-md-6 col-sm-12">
 				<ul class="list-unstyled">
 					<li>Adnan Bacic</li>
 					<li>ab-one@adnanbacic.dk</li>
@@ -9,23 +9,10 @@
 					<li><a class="link" href="https://www.linkedin.com/in/adnan-bacic/" target="_blank" rel="noopener noreferrer">Linkedin</a></li>
 				</ul>  
 			</div>
-		<div class="col-xl-4 col-md-4 col-sm-12">	
+		<div class="col-xl-6 col-md-6 col-sm-12">
 			<ul class="list-unstyled">
-				<li><a class="link" href="javascript.php">Javascript</a></li>
-				<li><a class="link" href="vue.php">Vue</a></li>
-				<li><a class="link" href="react.php">React</a></li>
-				<li><a class="link" href="react-native.php">React Native</a></li>
-				<li><a class="link" href="php.php">PHP</a></li>
-				<li><a class="link" href="wordpress.php">Wordpress</a></li>
-				<li><a class="link" href="angular.php">Angular</a></li>
-				<li><a class="link" href="npm.php">NPM</a></li>
-			</ul> 
-		</div>
-		<div class="col-xl-4 col-md-4 col-sm-12">
-			<ul class="list-unstyled">
-				<li><a class="link" href="index.php">Home</a></li>
-				<li><a class="link" href="about.php">About</a></li>
-				<li><a class="link" href="contact.php">Contact</a></li>
+				<li><a class="link" href="#about">About</a></li>
+				<li><a class="link" href="#contact">Contact</a></li>
 			</ul> 
 		</div>
 		</div>
