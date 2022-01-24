@@ -203,7 +203,7 @@
 			<main role="main">
 			<div class="row">
 				<div class="col-12 text-center pt-5">
-					<h1>How can i be contacted?</h1>
+					<h1>Contact</h1>
 				</div>
 			</div>
 	
