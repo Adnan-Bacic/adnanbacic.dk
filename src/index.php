@@ -13,20 +13,20 @@
 				<div class="col-8 mx-auto">
 					<div class="row">
 						<div class="col-12" data-aos="fade-right">
-							<p class="h1 text-light text-center font-weight-bold hero-title">I develop <span class="hero-focus">websites</span> and <span class="hero-focus">apps</span></p>
+							<h1 class="text-light text-center font-weight-bold hero-title">Frontend developer making <span class="hero-focus">websites</span> and <span class="hero-focus">apps</span></h1>
 						</div>
 					</div>
 					<div class="row">
 						<div class="col-12 mb-5" data-aos="fade-right">
-							<p class="text-light text-center hero-subtitle">Frontend developer</p>
+							<p class="text-light text-center hero-subtitle">Adnan Bacic</p>
 						</div>
 					</div>
 					<div class="row">
 						<div class="col text-center mb-5">
-							<a href="contact.php">
+							<a href="#contact">
 								<button id="hero-btn-1" class="text-center mb-3 mr-5" data-aos="fade-right">Contact</button>
 							</a>
-							<a href="about.php">
+							<a href="#about">
 								<button id="hero-btn-2" class="text-center mr-3" data-aos="fade-right">About</button>
 							</a>
 						</div>
@@ -35,11 +35,10 @@
 			</div>
 		</div>
 </section>
-		<section class="container">
-			<main role="main">
+		<section class="container" id="about">
 		<div class="row">
 			<div class="text-center mx-auto mt-5 col-12 mb-5">
-				<h1>Frontend developer from Denmark</h1>
+				<h2>About</h2>
 			</div>
 		</div>
 
@@ -66,17 +65,22 @@
 				</p>
 			</div>
 		</div>
-		</main>
+
+		</section>
 
 		<hr class="mb-5 mt-5" data-aos="fade-up"></hr>
 
-		<h2 class="w-100 text-center mb-5">
-			Projects i have worked on
-		</h2>
-
+		<section class="container">
+			<div class="row">
+				<div class="col-12">
+					<h2 class="text-center mb-5">
+						Projects i have worked on
+					</h2>
+				</div>
+			</div>
 		<div class="row">
 			<div class="col-lg-8">
-				<h5>NIOMI</h5>
+				<h3>NIOMI</h3>
 				<p>
 				A health app where users can get infomation about various parts of their health. They can get infomation about categories such as gut health and brain health. They even get recommendations for their lifestyle and diet.
 				</p>
@@ -116,9 +120,11 @@
 			</a>
 		</div>
 		</div>
+	</section>
 
 		<hr class="mb-5 mt-5">
 
+		<section class="container">
 		<div class="row">
 		<div class="col-lg-4">
 			<a href="#" target="_blank" rel="noopener noreferrer">
@@ -126,7 +132,7 @@
 			</a>
 		</div>
 			<div class="col-lg-8">
-				<h5>Omnipod</h5>
+				<h3>Omnipod</h3>
 				<p>
 				A podcasting app where users can upload and listen to podcasts. Acts as a social media where users can like, share and comment.
 				</p>
@@ -156,12 +162,14 @@
 					</ul>
 			</div>
 		</div>
+	</section>
 
 		<hr class="mb-5 mt-5">
 
+		<section class="container">
 		<div class="row">
 			<div class="col-lg-8">
-				<h5>Mit FDM</h5>
+				<h3>Mit FDM</h3>
 				<p>
 					Mit FDM is an app available to all FDM members. Here they can login and see their benefits, usages and membership information.
 				</p>
@@ -192,18 +200,18 @@
 		</div>
 		<div class="col-lg-4">
 		<a href="#" target="_blank" rel="noopener noreferrer">
-				<img src="images/project-thumbnails/mitfdm-thumbnail-image.png" class="img-fluid border" alt="mit fdm image">
+				<img src="images/project-thumbnails/mitfdm-thumbnail-image.png" class="img-fluid border w-100" alt="mit fdm image">
 			</a>
 		</div>
 		</div>
+	</section>
 
 		<hr class="mb-5 mt-5">
 
-		<section class="container">
-			<main role="main">
+		<section class="container" id="contact">
 			<div class="row">
 				<div class="col-12 text-center pt-5">
-					<h1>Contact</h1>
+					<h2>Contact</h2>
 				</div>
 			</div>
 	
@@ -216,10 +224,8 @@
 				</div>
 			</div>
 			<?php include 'includes/contact-form.php'; ?>
-			</main>		
 	</section>
 
-</section>
     
 	<?php include 'includes/footer.php'; ?>
 	
