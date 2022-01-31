@@ -58,7 +58,7 @@ body {
   color: #17191c;
 }
 
-#hero-btn-1 {
+.hero-btn-1 {
   -webkit-transition: 0.25s;
   transition: 0.25s;
   color: white;
@@ -71,12 +71,12 @@ body {
   background-color: #2a8fc9;
   border-color: #2a8fc9;
 }
-#hero-btn-1:hover {
+.hero-btn-1:hover {
   border-color: transparent;
   background-color: #185375;
 }
 
-#hero-btn-2 {
+.hero-btn-2 {
   -webkit-transition: 0.25s;
   transition: 0.25s;
   color: white;
@@ -89,7 +89,7 @@ body {
   background-color: transparent;
   border-color: #2a8fc9;
 }
-#hero-btn-2:hover {
+.hero-btn-2:hover {
   border-color: transparent;
   background-color: #185375;
 }

@@ -3,7 +3,7 @@ $validFeedback = 'Fine! :)';
 $invalidFeedback = 'Please fill out this field';
 ?>
 <!--Mail from webpage-->
-	<div class="row mx-auto col-xl-12 col-md-12 col-sm-12 pb-5">
+	<div class="row mx-auto col-xl-12 col-md-12 col-sm-12 pb-5" data-aos="fade-up">
 		<div class="bg-dark text-light col-12 pt-3 rounded">
 			<form class="needs-validation px-3 py-3" method="post" action="<?php echo htmlspecialchars( $_SERVER['PHP_SELF']); ?>" novalidate>
 				<div class="form-row">

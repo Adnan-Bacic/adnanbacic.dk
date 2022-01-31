@@ -24,10 +24,13 @@
 					<div class="row">
 						<div class="col text-center mb-5">
 							<a href="#contact">
-								<button id="hero-btn-1" class="text-center mb-3 mr-5" data-aos="fade-right">Contact</button>
+								<button class="hero-btn-1 text-center mr-3 mb-3" data-aos="fade-right">Contact</button>
 							</a>
 							<a href="#about">
-								<button id="hero-btn-2" class="text-center mr-3" data-aos="fade-right">About</button>
+								<button class="hero-btn-2 text-center mr-3 mb-3" data-aos="fade-right">About</button>
+							</a>
+							<a href="#projects">
+								<button class="hero-btn-2 text-center mr-3" data-aos="fade-right">Projects</button>
 							</a>
 						</div>
 					</div>
@@ -65,12 +68,17 @@
 				</p>
 			</div>
 		</div>
-
 		</section>
 
-		<hr class="mb-5 mt-5" data-aos="fade-up"></hr>
+		<div class="container" data-aos="fade-up">
+			<div class="row">
+				<div class="col-12">
+					<hr class="mb-5 mt-5">
+				</div>
+			</div>
+		</div>
 
-		<section class="container">
+		<section class="container" id="projects">
 			<div class="row">
 				<div class="col-12">
 					<h2 class="text-center mb-5">
@@ -78,6 +86,8 @@
 					</h2>
 				</div>
 			</div>
+
+		<div class="container" data-aos="fade-up">
 		<div class="row">
 			<div class="col-lg-8">
 				<h3>NIOMI</h3>
@@ -120,11 +130,17 @@
 			</a>
 		</div>
 		</div>
-	</section>
+	</div>
 
-		<hr class="mb-5 mt-5">
+	<div class="container" data-aos="fade-up">
+		<div class="row">
+			<div class="col-12">
+				<hr class="mb-5 mt-5">
+			</div>
+		</div>
+	</div>
 
-		<section class="container">
+		<div class="container" data-aos="fade-up">
 		<div class="row">
 		<div class="col-lg-4">
 			<a href="#" target="_blank" rel="noopener noreferrer">
@@ -162,11 +178,17 @@
 					</ul>
 			</div>
 		</div>
-	</section>
+	</div>
 
-		<hr class="mb-5 mt-5">
+	<div class="container" data-aos="fade-up">
+		<div class="row">
+			<div class="col-12">
+				<hr class="mb-5 mt-5">
+			</div>
+		</div>
+	</div>
 
-		<section class="container">
+		<div class="container" data-aos="fade-up">
 		<div class="row">
 			<div class="col-lg-8">
 				<h3>Mit FDM</h3>
@@ -206,7 +228,13 @@
 		</div>
 	</section>
 
-		<hr class="mb-5 mt-5">
+	<div class="container" data-aos="fade-up">
+		<div class="row">
+			<div class="col-12">
+				<hr class="mb-5 mt-5">
+			</div>
+		</div>
+	</div>
 
 		<section class="container" id="contact">
 			<div class="row">
@@ -215,7 +243,7 @@
 				</div>
 			</div>
 	
-			<div class="row">
+			<div class="row" data-aos="fade-up">
 				<div class="col-12 text-center">
 					<p>If you want to contact me you can do so on the following E-mail address:</p>
 					<div class="font-weight-bold">ab-one@adnanbacic.dk</div>
