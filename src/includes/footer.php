@@ -11,8 +11,9 @@
 			</div>
 		<div class="col-xl-6 col-md-6 col-sm-12">
 			<ul class="list-unstyled">
-				<li><a class="link" href="#about">About</a></li>
 				<li><a class="link" href="#contact">Contact</a></li>
+				<li><a class="link" href="#about">About</a></li>
+				<li><a class="link" href="#projects">Projects</a></li>
 			</ul> 
 		</div>
 		</div>

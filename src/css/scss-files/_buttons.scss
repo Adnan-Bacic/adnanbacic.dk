@@ -1,4 +1,4 @@
-#hero-btn-1{
+.hero-btn-1{
 	@include hero-btn-base;
 	background-color: $primary;
 	border-color: $primary;
@@ -8,7 +8,7 @@
 	}
 }
 
-#hero-btn-2{
+.hero-btn-2{
 	@include hero-btn-base;
 	background-color: transparent;
 	border-color: $primary;
