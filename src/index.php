@@ -9,8 +9,8 @@
 	<?php include 'includes/navbar.php'; ?>
 	<section class="container-fluid">
 		<div class="row hero-container">
-			<div class="col-12">
-				<div class="col-8 mx-auto">
+			<div class="col-12 d-flex">
+				<div class="col-8 mx-auto my-auto">
 					<div class="row">
 						<div class="col-12" data-aos="fade-right">
 							<h1 class="text-light text-center font-weight-bold hero-title">Frontend developer making <span class="hero-focus">websites</span> and <span class="hero-focus">apps</span></h1>
@@ -22,15 +22,15 @@
 						</div>
 					</div>
 					<div class="row">
-						<div class="col text-center mb-5">
-							<a href="#contact">
-								<button class="hero-btn-1 text-center mr-3 mb-3" data-aos="fade-right">Contact</button>
+						<div class="col-12 text-center mb-5" data-aos="fade-right">
+							<a href="#contact"  class="hero-btn-1 text-center me-3 mb-3 text-decoration-none d-block d-sm-inline">
+								Contact
 							</a>
-							<a href="#about">
-								<button class="hero-btn-2 text-center mr-3 mb-3" data-aos="fade-right">About</button>
+							<a href="#about" class="hero-btn-2 text-center me-3 mb-3 text-decoration-none d-block d-sm-inline">
+								About
 							</a>
-							<a href="#projects">
-								<button class="hero-btn-2 text-center mr-3" data-aos="fade-right">Projects</button>
+							<a href="#projects" class="hero-btn-2 text-center me-3 text-decoration-none d-block d-sm-inline">
+								Projects
 							</a>
 						</div>
 					</div>
@@ -41,7 +41,7 @@
 		<section class="container" id="about">
 		<div class="row">
 			<div class="text-center mx-auto mt-5 col-12 mb-5">
-				<h2>About</h2>
+				<h2 data-aos="fade-up">About</h2>
 			</div>
 		</div>
 
@@ -81,7 +81,7 @@
 		<section class="container" id="projects">
 			<div class="row">
 				<div class="col-12">
-					<h2 class="text-center mb-5">
+					<h2 class="text-center mb-5" data-aos="fade-up">
 						Projects i have worked on
 					</h2>
 				</div>
@@ -106,10 +106,10 @@
 				I was on this project from the beginning and all the way to release. Then i was also responsible for updates after release.
 				</p>
 				<p>
-					<a class="link" href="https://play.google.com/store/apps/details?id=com.niomi_react_native" target="_blank" rel="noopener noreferrer"><i class="fab fa-android mr-1"></i>Android link</a>
+					<a class="link" href="https://play.google.com/store/apps/details?id=com.niomi_react_native" target="_blank" rel="noopener noreferrer"><i class="fab fa-android me-1"></i>Android link</a>
 				</p>
 				<p>
-					<a class="link" href="https://apps.apple.com/dk/app/niomi/id1557434947" target="_blank" rel="noopener noreferrer"><i class="fab fa-apple mr-1"></i>IOS link</a>
+					<a class="link" href="https://apps.apple.com/dk/app/niomi/id1557434947" target="_blank" rel="noopener noreferrer"><i class="fab fa-apple me-1"></i>IOS link</a>
 				</p>
 				<h6>Main technologies used:</h6>
 					<ul class="list-unstyled">
@@ -142,9 +142,9 @@
 
 		<div class="container" data-aos="fade-up">
 		<div class="row">
-		<div class="col-lg-4">
+		<div class="col-lg-4 mb-3">
 			<a href="#" target="_blank" rel="noopener noreferrer">
-				<img src="images/project-thumbnails/omnipod-thumbnail-image.png" class="img-fluid border mr-3" alt="omnipod image">
+				<img src="images/project-thumbnails/omnipod-thumbnail-image.png" class="img-fluid border me-3" alt="omnipod image">
 			</a>
 		</div>
 			<div class="col-lg-8">
@@ -159,10 +159,10 @@
 					Part of working on the redesign includes working on making the existing code more maintainable by making it easier to reuse.
 				</p>
 				<p>
-					<a class="link" href="https://play.google.com/store/apps/details?id=com.meew.omnipod" target="_blank" rel="noopener noreferrer"><i class="fab fa-android mr-1"></i>Android link</a>
+					<a class="link" href="https://play.google.com/store/apps/details?id=com.meew.omnipod" target="_blank" rel="noopener noreferrer"><i class="fab fa-android me-1"></i>Android link</a>
 				</p>
 				<p>
-					<a class="link" href="https://apps.apple.com/dk/app/omnipod-social-podcasting/id1474630284" target="_blank" rel="noopener noreferrer"><i class="fab fa-apple mr-1"></i>IOS link</a>
+					<a class="link" href="https://apps.apple.com/dk/app/omnipod-social-podcasting/id1474630284" target="_blank" rel="noopener noreferrer"><i class="fab fa-apple me-1"></i>IOS link</a>
 				</p>
 				<h6>Main technologies used:</h6>
 					<ul class="list-unstyled">
@@ -202,10 +202,10 @@
 					My tasks have been cleaning up, maintenance and adding new features.
 				</p>
 				<p>
-					<a class="link" href="https://play.google.com/store/apps/details?id=com.oneclickdev.fdm" target="_blank" rel="noopener noreferrer"><i class="fab fa-android mr-1"></i>Android link</a>
+					<a class="link" href="https://play.google.com/store/apps/details?id=com.oneclickdev.fdm" target="_blank" rel="noopener noreferrer"><i class="fab fa-android me-1"></i>Android link</a>
 				</p>
 				<p>
-					<a class="link" href="https://apps.apple.com/dk/app/mit-fdm/id432911195" target="_blank" rel="noopener noreferrer"><i class="fab fa-apple mr-1"></i>IOS link</a>
+					<a class="link" href="https://apps.apple.com/dk/app/mit-fdm/id432911195" target="_blank" rel="noopener noreferrer"><i class="fab fa-apple me-1"></i>IOS link</a>
 				</p>
 				<h6>Main technologies used:</h6>
 					<ul class="list-unstyled">
@@ -239,7 +239,7 @@
 		<section class="container" id="contact">
 			<div class="row">
 				<div class="col-12 text-center pt-5">
-					<h2>Contact</h2>
+					<h2 data-aos="fade-up">Contact</h2>
 				</div>
 			</div>
 	
